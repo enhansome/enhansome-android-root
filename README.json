@@ -15,11 +15,11 @@
             "id": 832279087,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-07T15:37:05Z",
+            "last_commit": "2026-09-08T20:28:22Z",
             "open_issues": 2,
             "owner": "awesome-android-root",
             "repo": "awesome-android-root",
-            "stars": 4594,
+            "stars": 4613,
             "topics": [
               "android",
               "android-app",
@@ -57,11 +57,11 @@
             "id": 832279087,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-07T15:37:05Z",
+            "last_commit": "2026-09-08T20:28:22Z",
             "open_issues": 2,
             "owner": "awesome-android-root",
             "repo": "awesome-android-root",
-            "stars": 4594,
+            "stars": 4613,
             "topics": [
               "android",
               "android-app",
@@ -92,7 +92,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T21:36:43.814Z",
+    "last_updated": "2026-09-08T21:16:16.198Z",
     "original_repository_info": {
       "archived": false,
       "description": "Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides",
@@ -100,11 +100,11 @@
       "id": 832279087,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-09-07T15:37:05Z",
+      "last_commit": "2026-09-08T20:28:22Z",
       "open_issues": 2,
       "owner": "awesome-android-root",
       "repo": "awesome-android-root",
-      "stars": 4594,
+      "stars": 4613,
       "topics": [
         "android",
         "android-app",
@@ -128,7 +128,7 @@
         "xposed-module"
       ]
     },
-    "original_repository_sha": "a337395f9a307bbeebf2b1ab34972ff23fbe495f",
+    "original_repository_sha": "0239d9a01993a691687e9e0c31778bbf08c72d53",
     "enhanced_repository": "enhansome/enhansome-android-root",
     "enhanced_repository_description": null,
     "title": "Awesome Android Root with stars"
