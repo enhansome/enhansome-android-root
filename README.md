@@ -12,7 +12,7 @@
 
 <sub>A curated collection of 600+ root apps, Magisk / KernelSU / APatch / LSPosed (Xposed) modules and step-by-step rooting guides.</sub>
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/awesome-android-root/awesome-android-root?logo=github\&style=for-the-badge\&color=blue\&cacheSeconds=3600)](https://github.com/awesome-android-root/awesome-android-root) ⭐ 4,613 | 🐛 2 | 🌐 Python | 📅 2026-09-08
+[![GitHub Repo stars](https://img.shields.io/github/stars/awesome-android-root/awesome-android-root?logo=github\&style=for-the-badge\&color=blue\&cacheSeconds=3600)](https://github.com/awesome-android-root/awesome-android-root) ⭐ 4,619 | 🐛 1 | 🌐 Python | 📅 2026-09-09
 [![Web App](https://img.shields.io/badge/Web-App%E2%86%97-yellow?style=for-the-badge\&logo=googlechrome\&logoColor=white\&labelColor=blue)](https://awesome-android-root.zhoe.org)
 [![Total Entries](https://img.shields.io/badge/Apps%20%26%20Modules-600+-blue?style=for-the-badge\&logo=android\&cacheSeconds=3600)](https://awesome-android-root.zhoe.org/apps-and-modules/)
 [![Codeberg Mirror](https://img.shields.io/badge/Codeberg-Mirror-2185D0?style=for-the-badge\&logo=codeberg\&logoColor=white)](https://codeberg.org/awesome-android-root/awesome-android-root/)
@@ -83,17 +83,22 @@ Browse them in [`docs/apps-and-modules/`](docs/apps-and-modules/):
 > 📝 Read the the [`Contributing Guide ↗`](docs/contributing.md) and the
 > [`PR template ↗`](.github/PULL_REQUEST_TEMPLATE.md) for entry format, badges and category placement.
 
+<br>
+
 | Platform         | Purpose                       | Link                                                                                                                               |
 | :--------------- | :---------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- |
 | 🌐 **Website**   | Browse apps, modules & guides | [awesome-android-root.zhoe.org](https://awesome-android-root.zhoe.org)                                                             |
-| 💬 **GitHub**    | Source & discussions          | [GitHub Repo](https://github.com/awesome-android-root/awesome-android-root) ⭐ 4,613 \| 🐛 2 \| 🌐 Python \| 📅 2026-09-08          |
-| 🐛 Report issues | Issues reporting              | [GitHub Issues](https://github.com/awesome-android-root/awesome-android-root/issues) ⭐ 4,613 \| 🐛 2 \| 🌐 Python \| 📅 2026-09-08 |
+| 💬 **GitHub**    | Source & discussions          | [GitHub Repo](https://github.com/awesome-android-root/awesome-android-root) ⭐ 4,619 \| 🐛 1 \| 🌐 Python \| 📅 2026-09-09          |
+| 🐛 Report issues | Issues reporting              | [GitHub Issues](https://github.com/awesome-android-root/awesome-android-root/issues) ⭐ 4,619 \| 🐛 1 \| 🌐 Python \| 📅 2026-09-09 |
 | 𝕏 **X/Twitter** | Updates & news                | [@awsm\_and\_root](https://x.com/awsm_and_root)                                                                                    |
 
 ## License & Disclaimer
 
 * Licensed under [MIT](LICENSE).
 * Read the [Legal Disclaimer](docs/legal-disclaimer.md) for details.
+
+> \[!NOTE]
+> This project is maintained by `HUMANS` , AI is used for coding, formatting and proofreading and not for content creation or curation.
 
 > \[!IMPORTANT]
 > **Educational reference only. Proceed at your own risk.**
@@ -104,10 +109,10 @@ Browse them in [`docs/apps-and-modules/`](docs/apps-and-modules/):
 
 <div align="center">
 
-**Built with ❤️ by [Awesome Android Root](https://github.com/awesome-android-root/awesome-android-root) ⭐ 4,613 | 🐛 2 | 🌐 Python | 📅 2026-09-08**
+**Built with ❤️ by [Awesome Android Root](https://github.com/awesome-android-root/awesome-android-root) ⭐ 4,619 | 🐛 1 | 🌐 Python | 📅 2026-09-09**
 
 </div>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

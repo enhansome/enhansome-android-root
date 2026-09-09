@@ -15,11 +15,11 @@
             "id": 832279087,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-08T20:28:22Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-09T09:33:14Z",
+            "open_issues": 1,
             "owner": "awesome-android-root",
             "repo": "awesome-android-root",
-            "stars": 4613,
+            "stars": 4619,
             "topics": [
               "android",
               "android-app",
@@ -57,11 +57,11 @@
             "id": 832279087,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-08T20:28:22Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-09T09:33:14Z",
+            "open_issues": 1,
             "owner": "awesome-android-root",
             "repo": "awesome-android-root",
-            "stars": 4613,
+            "stars": 4619,
             "topics": [
               "android",
               "android-app",
@@ -92,7 +92,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T21:16:16.198Z",
+    "last_updated": "2026-09-09T21:01:03.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides",
@@ -100,11 +100,11 @@
       "id": 832279087,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-09-08T20:28:22Z",
-      "open_issues": 2,
+      "last_commit": "2026-09-09T09:33:14Z",
+      "open_issues": 1,
       "owner": "awesome-android-root",
       "repo": "awesome-android-root",
-      "stars": 4613,
+      "stars": 4619,
       "topics": [
         "android",
         "android-app",
@@ -128,7 +128,7 @@
         "xposed-module"
       ]
     },
-    "original_repository_sha": "0239d9a01993a691687e9e0c31778bbf08c72d53",
+    "original_repository_sha": "9cf0d9862367f2cc1eb6da7db16fd687d6c037af",
     "enhanced_repository": "enhansome/enhansome-android-root",
     "enhanced_repository_description": null,
     "title": "Awesome Android Root with stars"
