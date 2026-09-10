@@ -13,13 +13,13 @@
             "description": "Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides",
             "homepage": "https://awesome-android-root.zhoe.org",
             "id": 832279087,
-            "language": "Python",
+            "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-09-09T09:33:14Z",
+            "last_commit": "2026-09-10T10:47:32Z",
             "open_issues": 1,
             "owner": "awesome-android-root",
             "repo": "awesome-android-root",
-            "stars": 4619,
+            "stars": 4630,
             "topics": [
               "android",
               "android-app",
@@ -55,13 +55,13 @@
             "description": "Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides",
             "homepage": "https://awesome-android-root.zhoe.org",
             "id": 832279087,
-            "language": "Python",
+            "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-09-09T09:33:14Z",
+            "last_commit": "2026-09-10T10:47:32Z",
             "open_issues": 1,
             "owner": "awesome-android-root",
             "repo": "awesome-android-root",
-            "stars": 4619,
+            "stars": 4630,
             "topics": [
               "android",
               "android-app",
@@ -92,19 +92,19 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T21:01:03.059Z",
+    "last_updated": "2026-09-10T20:59:05.835Z",
     "original_repository_info": {
       "archived": false,
       "description": "Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides",
       "homepage": "https://awesome-android-root.zhoe.org",
       "id": 832279087,
-      "language": "Python",
+      "language": "Markdown",
       "license": "MIT",
-      "last_commit": "2026-09-09T09:33:14Z",
+      "last_commit": "2026-09-10T10:47:32Z",
       "open_issues": 1,
       "owner": "awesome-android-root",
       "repo": "awesome-android-root",
-      "stars": 4619,
+      "stars": 4630,
       "topics": [
         "android",
         "android-app",
@@ -128,7 +128,7 @@
         "xposed-module"
       ]
     },
-    "original_repository_sha": "9cf0d9862367f2cc1eb6da7db16fd687d6c037af",
+    "original_repository_sha": "0527a0c2b3b9a65a6c4902639eef2397878ee10c",
     "enhanced_repository": "enhansome/enhansome-android-root",
     "enhanced_repository_description": null,
     "title": "Awesome Android Root with stars"
