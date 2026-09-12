@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "awesome-android-root",
             "repo": "awesome-android-root",
-            "stars": 4635,
+            "stars": 4645,
             "topics": [
               "android",
               "android-app",
@@ -61,7 +61,7 @@
             "open_issues": 1,
             "owner": "awesome-android-root",
             "repo": "awesome-android-root",
-            "stars": 4635,
+            "stars": 4645,
             "topics": [
               "android",
               "android-app",
@@ -92,7 +92,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T21:04:05.116Z",
+    "last_updated": "2026-09-12T20:40:44.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides",
@@ -104,7 +104,7 @@
       "open_issues": 1,
       "owner": "awesome-android-root",
       "repo": "awesome-android-root",
-      "stars": 4635,
+      "stars": 4645,
       "topics": [
         "android",
         "android-app",
