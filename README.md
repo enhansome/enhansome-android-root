@@ -14,7 +14,7 @@
 
 [![Website](https://img.shields.io/badge/Website-awesome--android--root.zhoe.org%E2%86%97-blue?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://awesome-android-root.zhoe.org/)
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/awesome-android-root/awesome-android-root?logo=github\&style=for-the-badge\&color=blue\&cacheSeconds=3600)](https://github.com/awesome-android-root/awesome-android-root) ⭐ 4,660 | 🐛 1 | 🌐 Markdown | 📅 2026-09-13
+[![GitHub Repo stars](https://img.shields.io/github/stars/awesome-android-root/awesome-android-root?logo=github\&style=for-the-badge\&color=blue\&cacheSeconds=3600)](https://github.com/awesome-android-root/awesome-android-root) ⭐ 4,666 | 🐛 1 | 🌐 Markdown | 📅 2026-09-15
 [![Total Entries](https://img.shields.io/badge/Apps%20%26%20Modules-600+-blue?style=for-the-badge\&logo=android\&cacheSeconds=3600)](https://awesome-android-root.zhoe.org/apps-and-modules/)
 [![Codeberg Mirror](https://img.shields.io/badge/Codeberg-Mirror-2185D0?style=for-the-badge\&logo=codeberg\&logoColor=white)](https://codeberg.org/awesome-android-root/awesome-android-root/)
 
@@ -67,16 +67,16 @@ Browse them in [`docs/apps-and-modules/`](docs/apps-and-modules/):
 
 ## Guides & Documentation
 
-| Section                                                            | Contents                                                                                                                                     |
-| :----------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[📖 Rooting Guides](docs/rooting-guides/index.md)**              | Introduction, root framework comparison, Magisk/KernelSU/APatch/LSPosed setup, bootloader unlocking, custom recovery, device-specific guides |
-| **[🛡️ General Guides / Tutorials](docs/general-guides/index.md)** | Ad blocking, debloating, stopping Play Store auto-updates                                                                                    |
-| **[❓ FAQ](docs/faqs.md)**                                          | Common questions before & after rooting                                                                                                      |
-| **[🔧 Troubleshooting](docs/troubleshooting.md)**                  | Bootloops, Magisk/KernelSU/APatch issues, Play Integrity & banking apps                                                                      |
-| **[🔀 Non-Root Alternatives](docs/non-root-alternatives.md)**      | Get many root-like features without root (Shizuku, ADB...)                                                                                   |
-| **[🌐 Community Resources](docs/resources.md)**                    | Firmware, tooling, communities & emergency help                                                                                              |
-| **[📝 Contributing](docs/contributing.md)**                        | How to add apps, modules & guides                                                                                                            |
-| **[📄 About and Legal](docs/about.md)**                            | Mission, legal disclaimer                                                                                                                    |
+| Section                                                        | Contents                                                                                                                                     |
+| :------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[Rooting Guides](docs/rooting-guides/index.md)**             | Introduction, root framework comparison, Magisk/KernelSU/APatch/LSPosed setup, bootloader unlocking, custom recovery, device-specific guides |
+| **[General Guides / Tutorials](docs/general-guides/index.md)** | Ad blocking, debloating, stopping Play Store auto-updates                                                                                    |
+| **[FAQ](docs/faqs.md)**                                        | Common questions before & after rooting                                                                                                      |
+| **[Troubleshooting](docs/troubleshooting.md)**                 | Bootloops, Magisk/KernelSU/APatch issues, Play Integrity & banking apps                                                                      |
+| **[Non-Root Alternatives](docs/non-root-alternatives.md)**     | Get many root-like features without root (Shizuku, ADB...)                                                                                   |
+| **[Community Resources](docs/resources.md)**                   | Firmware, tooling, communities & emergency help                                                                                              |
+| **[Contributing](docs/contributing.md)**                       | How to add apps, modules & guides                                                                                                            |
+| **[About and Legal](docs/about.md)**                           | Mission, legal disclaimer                                                                                                                    |
 
 ## Contributing
 
@@ -88,8 +88,8 @@ Browse them in [`docs/apps-and-modules/`](docs/apps-and-modules/):
 | Platform         | Purpose                       | Link                                                                                                                                 |
 | :--------------- | :---------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
 | 🌐 **Website**   | Browse apps, modules & guides | [awesome-android-root.zhoe.org](https://awesome-android-root.zhoe.org)                                                               |
-| 💬 **GitHub**    | Source & discussions          | [GitHub Repo](https://github.com/awesome-android-root/awesome-android-root) ⭐ 4,660 \| 🐛 1 \| 🌐 Markdown \| 📅 2026-09-13          |
-| 🐛 Report issues | Issues reporting              | [GitHub Issues](https://github.com/awesome-android-root/awesome-android-root/issues) ⭐ 4,660 \| 🐛 1 \| 🌐 Markdown \| 📅 2026-09-13 |
+| 💬 **GitHub**    | Source & discussions          | [GitHub Repo](https://github.com/awesome-android-root/awesome-android-root) ⭐ 4,666 \| 🐛 1 \| 🌐 Markdown \| 📅 2026-09-15          |
+| 🐛 Report issues | Issues reporting              | [GitHub Issues](https://github.com/awesome-android-root/awesome-android-root/issues) ⭐ 4,666 \| 🐛 1 \| 🌐 Markdown \| 📅 2026-09-15 |
 | 𝕏 **X/Twitter** | Updates & news                | [@awsm\_and\_root](https://x.com/awsm_and_root)                                                                                      |
 
 ## License & Disclaimer
@@ -109,10 +109,10 @@ Browse them in [`docs/apps-and-modules/`](docs/apps-and-modules/):
 
 <div align="center">
 
-**Built with ❤️ by [Awesome Android Root](https://github.com/awesome-android-root/awesome-android-root) ⭐ 4,660 | 🐛 1 | 🌐 Markdown | 📅 2026-09-13**
+**Built with ❤️ by [Awesome Android Root](https://github.com/awesome-android-root/awesome-android-root) ⭐ 4,666 | 🐛 1 | 🌐 Markdown | 📅 2026-09-15**
 
 </div>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
