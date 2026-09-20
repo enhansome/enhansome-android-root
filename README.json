@@ -16,10 +16,10 @@
             "language": "Markdown",
             "license": "MIT",
             "last_commit": "2026-09-15T22:09:18Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "awesome-android-root",
             "repo": "awesome-android-root",
-            "stars": 4697,
+            "stars": 4707,
             "topics": [
               "android",
               "android-app",
@@ -58,10 +58,10 @@
             "language": "Markdown",
             "license": "MIT",
             "last_commit": "2026-09-15T22:09:18Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "awesome-android-root",
             "repo": "awesome-android-root",
-            "stars": 4697,
+            "stars": 4707,
             "topics": [
               "android",
               "android-app",
@@ -92,7 +92,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T20:50:38.960Z",
+    "last_updated": "2026-09-20T20:55:59.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides",
@@ -101,10 +101,10 @@
       "language": "Markdown",
       "license": "MIT",
       "last_commit": "2026-09-15T22:09:18Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "awesome-android-root",
       "repo": "awesome-android-root",
-      "stars": 4697,
+      "stars": 4707,
       "topics": [
         "android",
         "android-app",
