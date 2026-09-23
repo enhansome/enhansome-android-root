@@ -10,12 +10,12 @@
 
 **🛡️ The Ultimate Android Rooting Hub**
 
-<sub>Discover 600+ root apps, Magisk / KernelSU / APatch / LSPosed (Xposed) modules and step-by-step rooting guides.</sub>
+<sub>Discover 650+ root apps, Magisk / KernelSU / APatch / LSPosed (Xposed) modules and step-by-step rooting guides.</sub>
 
 [![Website](https://img.shields.io/badge/Website-awesome--android--root.zhoe.org%E2%86%97-blue?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://awesome-android-root.zhoe.org/)
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/awesome-android-root/awesome-android-root?logo=github\&style=for-the-badge\&color=blue\&cacheSeconds=3600)](https://github.com/awesome-android-root/awesome-android-root) ⭐ 4,718 | 🐛 1 | 🌐 Markdown | 📅 2026-09-15
-[![Total Entries](https://img.shields.io/badge/Apps%20%26%20Modules-600+-blue?style=for-the-badge\&logo=android\&cacheSeconds=3600)](https://awesome-android-root.zhoe.org/apps-and-modules/)
+[![GitHub Repo stars](https://img.shields.io/github/stars/awesome-android-root/awesome-android-root?logo=github\&style=for-the-badge\&color=blue\&cacheSeconds=3600)](https://github.com/awesome-android-root/awesome-android-root) ⭐ 4,727 | 🐛 0 | 🌐 Markdown | 📅 2026-09-23
+[![Total Entries](https://img.shields.io/badge/Apps%20%26%20Modules-650+-blue?style=for-the-badge\&logo=android\&cacheSeconds=3600)](https://awesome-android-root.zhoe.org/apps-and-modules/)
 [![Codeberg Mirror](https://img.shields.io/badge/Codeberg-Mirror-2185D0?style=for-the-badge\&logo=codeberg\&logoColor=white)](https://codeberg.org/awesome-android-root/awesome-android-root/)
 
 </div>
@@ -25,7 +25,7 @@
 Awesome Android Root is a community-curated knowledge base for **rooting Android devices and getting the most out of root access**:
 
 * **Rooting guides** - Magisk, KernelSU, APatch, LSPosed, bootloader unlocking and device-specific walkthroughs (Pixel, Samsung, Xiaomi, OnePlus, Nothing, Motorola).
-* **Apps & Modules database** - 600+ curated root apps, Magisk modules, KernelSU modules, APatch modules and LSPosed/Xposed modules, each with source links, F-Droid/Play Store badges and license info.
+* **Apps & Modules database** - 650+ curated root apps, Magisk modules, KernelSU modules, APatch modules and LSPosed/Xposed modules, each with source links, F-Droid/Play Store badges and license info.
 * **Tutorials, FAQs & troubleshooting** - ad blocking, debloating, Play Integrity, bootloops and more.
 
 ## 🌐 Use the Website
@@ -38,7 +38,7 @@ The website adds what a single README cannot:
 
 * **Instant local search** across every app, module and guide (with fuzzy matching)
 * **Clean category navigation** and a sidebar for every topic
-* **A PWA** - installable, works offline, updates automatically
+* **A PWA** - installable, caches images, and fetches current pages online
 * **Shareable pages and anchors** for every category and section
 
 ## Apps & Modules by Category
@@ -88,8 +88,8 @@ Browse them in [`docs/apps-and-modules/`](docs/apps-and-modules/):
 | Platform         | Purpose                       | Link                                                                                                                                 |
 | :--------------- | :---------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
 | 🌐 **Website**   | Browse apps, modules & guides | [awesome-android-root.zhoe.org](https://awesome-android-root.zhoe.org)                                                               |
-| 💬 **GitHub**    | Source & discussions          | [GitHub Repo](https://github.com/awesome-android-root/awesome-android-root) ⭐ 4,718 \| 🐛 1 \| 🌐 Markdown \| 📅 2026-09-15          |
-| 🐛 Report issues | Issues reporting              | [GitHub Issues](https://github.com/awesome-android-root/awesome-android-root/issues) ⭐ 4,718 \| 🐛 1 \| 🌐 Markdown \| 📅 2026-09-15 |
+| 💬 **GitHub**    | Source & discussions          | [GitHub Repo](https://github.com/awesome-android-root/awesome-android-root) ⭐ 4,727 \| 🐛 0 \| 🌐 Markdown \| 📅 2026-09-23          |
+| 🐛 Report issues | Issues reporting              | [GitHub Issues](https://github.com/awesome-android-root/awesome-android-root/issues) ⭐ 4,727 \| 🐛 0 \| 🌐 Markdown \| 📅 2026-09-23 |
 | 𝕏 **X/Twitter** | Updates & news                | [@awsm\_and\_root](https://x.com/awsm_and_root)                                                                                      |
 
 ## License & Disclaimer
@@ -109,10 +109,10 @@ Browse them in [`docs/apps-and-modules/`](docs/apps-and-modules/):
 
 <div align="center">
 
-**Built with ❤️ by [Awesome Android Root](https://github.com/awesome-android-root/awesome-android-root) ⭐ 4,718 | 🐛 1 | 🌐 Markdown | 📅 2026-09-15**
+**Built with ❤️ by [Awesome Android Root](https://github.com/awesome-android-root/awesome-android-root) ⭐ 4,727 | 🐛 0 | 🌐 Markdown | 📅 2026-09-23**
 
 </div>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
