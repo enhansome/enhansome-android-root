@@ -15,11 +15,11 @@
             "id": 832279087,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-09-27T11:16:55Z",
+            "last_commit": "2026-09-29T17:27:27Z",
             "open_issues": 1,
             "owner": "awesome-android-root",
             "repo": "awesome-android-root",
-            "stars": 4756,
+            "stars": 4766,
             "topics": [
               "android",
               "android-app",
@@ -57,11 +57,11 @@
             "id": 832279087,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-09-27T11:16:55Z",
+            "last_commit": "2026-09-29T17:27:27Z",
             "open_issues": 1,
             "owner": "awesome-android-root",
             "repo": "awesome-android-root",
-            "stars": 4756,
+            "stars": 4766,
             "topics": [
               "android",
               "android-app",
@@ -92,7 +92,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T23:23:27.616Z",
+    "last_updated": "2026-09-29T22:25:09.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides",
@@ -100,11 +100,11 @@
       "id": 832279087,
       "language": "Markdown",
       "license": "MIT",
-      "last_commit": "2026-09-27T11:16:55Z",
+      "last_commit": "2026-09-29T17:27:27Z",
       "open_issues": 1,
       "owner": "awesome-android-root",
       "repo": "awesome-android-root",
-      "stars": 4756,
+      "stars": 4766,
       "topics": [
         "android",
         "android-app",
@@ -128,7 +128,7 @@
         "xposed-module"
       ]
     },
-    "original_repository_sha": "1286d26aa928ce05fc7ef3617adf925471795f28",
+    "original_repository_sha": "0f3fb5936dbaf4ca0797fb18abbbfc6518b167e5",
     "enhanced_repository": "enhansome/enhansome-android-root",
     "enhanced_repository_description": null,
     "title": "Awesome Android Root with stars"
