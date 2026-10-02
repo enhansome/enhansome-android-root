@@ -14,7 +14,7 @@
 
 [![Website](https://img.shields.io/badge/Website-awesome--android--root.zhoe.org%E2%86%97-blue?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://awesome-android-root.zhoe.org/)
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/awesome-android-root/awesome-android-root?logo=github\&style=for-the-badge\&color=blue\&cacheSeconds=3600)](https://github.com/awesome-android-root/awesome-android-root) ⭐ 4,949 | 🐛 1 | 🌐 Markdown | 📅 2026-09-30
+[![GitHub Repo stars](https://img.shields.io/github/stars/awesome-android-root/awesome-android-root?logo=github\&style=for-the-badge\&color=blue\&cacheSeconds=3600)](https://github.com/awesome-android-root/awesome-android-root) ⭐ 5,053 | 🐛 0 | 🌐 Markdown | 📅 2026-10-02
 [![Total Entries](https://img.shields.io/badge/Apps%20%26%20Modules-650+-blue?style=for-the-badge\&logo=android\&cacheSeconds=3600)](https://awesome-android-root.zhoe.org/apps-and-modules/)
 [![Codeberg Mirror](https://img.shields.io/badge/Codeberg-Mirror-2185D0?style=for-the-badge\&logo=codeberg\&logoColor=white)](https://codeberg.org/awesome-android-root/awesome-android-root/)
 
@@ -45,25 +45,25 @@ The website adds what a single README cannot:
 
 Browse them in [`docs/apps-and-modules/`](docs/apps-and-modules/):
 
-| Category                                                                   | Description                                                                                                 | Website                                                                       |
-| :------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------- |
-| **[📜 Category index](docs/apps-and-modules/index.md)**                    | Index of all categories                                                                                     | [↗](https://awesome-android-root.zhoe.org/apps-and-modules/index)             |
-| **🛠️ [Root Management](docs/apps-and-modules/root-management.md)**        | Root managers, temporary root, module managers, metamodules, LSPosed & Zygisk, root hiding & Play Integrity | [↗](https://awesome-android-root.zhoe.org/apps-and-modules/root-management)   |
-| **⚙️ [System](docs/apps-and-modules/system.md)**                           | System tweaks, VBMeta, System UI & OEM frameworks, boot & startup, app & package management                 | [↗](https://awesome-android-root.zhoe.org/apps-and-modules/system)            |
-| **⚡ [Performance & Battery](docs/apps-and-modules/performance.md)**        | Performance optimization, kernels, memory, battery & charging                                               | [↗](https://awesome-android-root.zhoe.org/apps-and-modules/performance)       |
-| **🕵️ [Privacy](docs/apps-and-modules/privacy.md)**                        | Privacy tools, device ID & location spoofing, app isolation                                                 | [↗](https://awesome-android-root.zhoe.org/apps-and-modules/privacy)           |
-| **🔐 [Security](docs/apps-and-modules/security.md)**                       | Security tools & firewalls                                                                                  | [↗](https://awesome-android-root.zhoe.org/apps-and-modules/security)          |
-| **🚫 [Ad Blocking](docs/apps-and-modules/ad-blocking.md)**                 | Hosts-based ad blockers & DNS filtering                                                                     | [↗](https://awesome-android-root.zhoe.org/apps-and-modules/ad-blocking)       |
-| **🧩 [App Modifications](docs/apps-and-modules/app-modifications.md)**     | App patchers, social media & browser mods, YouTube clients                                                  | [↗](https://awesome-android-root.zhoe.org/apps-and-modules/app-modifications) |
-| **🧹 [Debloating](docs/apps-and-modules/debloating.md)**                   | Remove bloatware & unwanted system apps                                                                     | [↗](https://awesome-android-root.zhoe.org/apps-and-modules/debloating)        |
-| **🗂️ [File Management](docs/apps-and-modules/file-management.md)**        | Root file managers, cleaners & partition tools                                                              | [↗](https://awesome-android-root.zhoe.org/apps-and-modules/file-management)   |
-| **💾 [Backup & Restore](docs/apps-and-modules/backup.md)**                 | Full app & data backups and recovery                                                                        | [↗](https://awesome-android-root.zhoe.org/apps-and-modules/backup)            |
-| **🎨 [Customization](docs/apps-and-modules/customization.md)**             | Themes, launchers, status bar, fonts, display                                                               | [↗](https://awesome-android-root.zhoe.org/apps-and-modules/customization)     |
-| **🎵 [Audio](docs/apps-and-modules/audio.md)**                             | Audio enhancement, control & effects                                                                        | [↗](https://awesome-android-root.zhoe.org/apps-and-modules/audio)             |
-| **🌐 [Networking](docs/apps-and-modules/networking.md)**                   | VPN/proxy modules, network tools, Wi-Fi, Bluetooth & NFC                                                    | [↗](https://awesome-android-root.zhoe.org/apps-and-modules/networking)        |
-| **🎮 [Gaming](docs/apps-and-modules/gaming.md)**                           | Gaming optimization, FPS unlockers & game tools                                                             | [↗](https://awesome-android-root.zhoe.org/apps-and-modules/gaming)            |
-| **🧑‍💻 [Development & Automation](docs/apps-and-modules/development.md)** | Terminal, ADB, developer tools, Linux environments, automation                                              | [↗](https://awesome-android-root.zhoe.org/apps-and-modules/development)       |
-| **🧰 [General Utilities](docs/apps-and-modules/utilities.md)**             | Sync, power, sharing, communication, toolboxes                                                              | [↗](https://awesome-android-root.zhoe.org/apps-and-modules/utilities)         |
+| Category                                                                   | Website                                                                              | Description                                                                                                |
+| :------------------------------------------------------------------------- | :----------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| **[📜 Category index](docs/apps-and-modules/index.md)**                    | [Web App↗](https://awesome-android-root.zhoe.org/apps-and-modules/index)             | Index of all categories                                                                                    |
+| **🛠️ [Root Management](docs/apps-and-modules/root-management.md)**        | [Web App↗](https://awesome-android-root.zhoe.org/apps-and-modules/root-management)   | Root managers, temporary root, module managers, metamodules, LSPosed, Zygisk, root hiding & Play Integrity |
+| **⚙️ [System](docs/apps-and-modules/system.md)**                           | [Web App↗](https://awesome-android-root.zhoe.org/apps-and-modules/system)            | System tweaks, VBMeta, System UI & OEM frameworks, boot & startup, app & package management                |
+| **⚡ [Performance & Battery](docs/apps-and-modules/performance.md)**        | [Web App↗](https://awesome-android-root.zhoe.org/apps-and-modules/performance)       | Performance optimization, kernels, memory, battery & charging                                              |
+| **🕵️ [Privacy](docs/apps-and-modules/privacy.md)**                        | [Web App↗](https://awesome-android-root.zhoe.org/apps-and-modules/privacy)           | Privacy tools, device ID & location spoofing, app isolation                                                |
+| **🔐 [Security](docs/apps-and-modules/security.md)**                       | [Web App↗](https://awesome-android-root.zhoe.org/apps-and-modules/security)          | Security tools & firewalls                                                                                 |
+| **🚫 [Ad Blocking](docs/apps-and-modules/ad-blocking.md)**                 | [Web App↗](https://awesome-android-root.zhoe.org/apps-and-modules/ad-blocking)       | Hosts-based ad blockers & DNS filtering                                                                    |
+| **🧩 [App Modifications](docs/apps-and-modules/app-modifications.md)**     | [Web App↗](https://awesome-android-root.zhoe.org/apps-and-modules/app-modifications) | App patchers, social media & browser mods, YouTube clients                                                 |
+| **🧹 [Debloating](docs/apps-and-modules/debloating.md)**                   | [Web App↗](https://awesome-android-root.zhoe.org/apps-and-modules/debloating)        | Remove bloatware & unwanted system apps                                                                    |
+| **🗂️ [File Management](docs/apps-and-modules/file-management.md)**        | [Web App↗](https://awesome-android-root.zhoe.org/apps-and-modules/file-management)   | Root file managers, cleaners & partition tools                                                             |
+| **💾 [Backup & Restore](docs/apps-and-modules/backup.md)**                 | [Web App↗](https://awesome-android-root.zhoe.org/apps-and-modules/backup)            | Full app & data backups and recovery                                                                       |
+| **🎨 [Customization](docs/apps-and-modules/customization.md)**             | [Web App↗](https://awesome-android-root.zhoe.org/apps-and-modules/customization)     | Themes, launchers, status bar, fonts, display                                                              |
+| **🎵 [Audio](docs/apps-and-modules/audio.md)**                             | [Web App↗](https://awesome-android-root.zhoe.org/apps-and-modules/audio)             | Audio enhancement, control & effects                                                                       |
+| **🌐 [Networking](docs/apps-and-modules/networking.md)**                   | [Web App↗](https://awesome-android-root.zhoe.org/apps-and-modules/networking)        | VPN/proxy modules, network tools, Wi-Fi, Bluetooth & NFC                                                   |
+| **🎮 [Gaming](docs/apps-and-modules/gaming.md)**                           | [Web App↗](https://awesome-android-root.zhoe.org/apps-and-modules/gaming)            | Gaming optimization, FPS unlockers & game tools                                                            |
+| **🧑‍💻 [Development & Automation](docs/apps-and-modules/development.md)** | [Web App↗](https://awesome-android-root.zhoe.org/apps-and-modules/development)       | Terminal, ADB, developer tools, Linux environments, automation                                             |
+| **🧰 [General Utilities](docs/apps-and-modules/utilities.md)**             | [Web App↗](https://awesome-android-root.zhoe.org/apps-and-modules/utilities)         | Sync, power, sharing, communication, toolboxes                                                             |
 
 ## Guides & Documentation
 
@@ -83,14 +83,14 @@ Browse them in [`docs/apps-and-modules/`](docs/apps-and-modules/):
 > 📝 Read the the [`Contributing Guide ↗`](docs/contributing.md) and the
 > [`PR template ↗`](.github/PULL_REQUEST_TEMPLATE.md) for entry format, badges and category placement.
 
-<br>
+## Community & Contact
 
-| Platform         | Purpose                       | Link                                                                                                                                 |
-| :--------------- | :---------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
-| 🌐 **Website**   | Browse apps, modules & guides | [awesome-android-root.zhoe.org](https://awesome-android-root.zhoe.org)                                                               |
-| 💬 **GitHub**    | Source & discussions          | [GitHub Repo](https://github.com/awesome-android-root/awesome-android-root) ⭐ 4,949 \| 🐛 1 \| 🌐 Markdown \| 📅 2026-09-30          |
-| 🐛 Report issues | Issues reporting              | [GitHub Issues](https://github.com/awesome-android-root/awesome-android-root/issues) ⭐ 4,949 \| 🐛 1 \| 🌐 Markdown \| 📅 2026-09-30 |
-| 𝕏 **X/Twitter** | Updates & news                | [@awsm\_and\_root](https://x.com/awsm_and_root)                                                                                      |
+| Platform      | Purpose                       | Link                                                                                                                                 |
+| :------------ | :---------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
+| **Website**   | Browse apps, modules & guides | [awesome-android-root.zhoe.org](https://awesome-android-root.zhoe.org)                                                               |
+| **GitHub**    | Source & discussions          | [GitHub Repo](https://github.com/awesome-android-root/awesome-android-root) ⭐ 5,053 \| 🐛 0 \| 🌐 Markdown \| 📅 2026-10-02          |
+| **Issues**    | Issues reporting              | [GitHub Issues](https://github.com/awesome-android-root/awesome-android-root/issues) ⭐ 5,053 \| 🐛 0 \| 🌐 Markdown \| 📅 2026-10-02 |
+| **X/Twitter** | Updates & news                | [@awsm\_and\_root](https://x.com/awsm_and_root)                                                                                      |
 
 ## License & Disclaimer
 
@@ -109,12 +109,12 @@ Browse them in [`docs/apps-and-modules/`](docs/apps-and-modules/):
 
 <div align="center">
 
-![Views](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/fynks/83a908bf10243ac78d86addf810cac71/raw/views.json)
+![Views](https://img.shields.io/endpoint?style=for-the-badge\&url=https://gist.githubusercontent.com/fynks/83a908bf10243ac78d86addf810cac71/raw/views.json)
 
-**Built with ❤️ by [Awesome Android Root](https://github.com/awesome-android-root/awesome-android-root) ⭐ 4,949 | 🐛 1 | 🌐 Markdown | 📅 2026-09-30**
+**Built with ❤️ by [Awesome Android Root](https://github.com/awesome-android-root/awesome-android-root) ⭐ 5,053 | 🐛 0 | 🌐 Markdown | 📅 2026-10-02**
 
 </div>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._

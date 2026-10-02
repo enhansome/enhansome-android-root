@@ -1,12 +1,12 @@
 {
   "items": [
     {
-      "description": "📝 Read the the and the for entry format, badges and category placement.",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "💬 GitHub",
-          "description": "Source & discussions GitHub Repo",
+          "title": "GitHub Repo",
+          "description": "Source & discussions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,11 +15,11 @@
             "id": 832279087,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-09-30T20:24:50Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-02T11:28:26Z",
+            "open_issues": 0,
             "owner": "awesome-android-root",
             "repo": "awesome-android-root",
-            "stars": 4949,
+            "stars": 5053,
             "topics": [
               "android",
               "android-app",
@@ -47,7 +47,7 @@
         },
         {
           "node_type": "item",
-          "title": "🐛 Report issues",
+          "title": "Issues",
           "description": "Issues reporting GitHub Issues",
           "children": [],
           "repo_info": {
@@ -57,11 +57,11 @@
             "id": 832279087,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-09-30T20:24:50Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-02T11:28:26Z",
+            "open_issues": 0,
             "owner": "awesome-android-root",
             "repo": "awesome-android-root",
-            "stars": 4949,
+            "stars": 5053,
             "topics": [
               "android",
               "android-app",
@@ -88,11 +88,11 @@
           "first_seen": "2026-08-29T01:47:57.161Z"
         }
       ],
-      "title": "Contributing"
+      "title": "Community & Contact"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T22:47:20.366Z",
+    "last_updated": "2026-10-02T22:22:11.115Z",
     "original_repository_info": {
       "archived": false,
       "description": "Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides",
@@ -100,11 +100,11 @@
       "id": 832279087,
       "language": "Markdown",
       "license": "MIT",
-      "last_commit": "2026-09-30T20:24:50Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-02T11:28:26Z",
+      "open_issues": 0,
       "owner": "awesome-android-root",
       "repo": "awesome-android-root",
-      "stars": 4949,
+      "stars": 5053,
       "topics": [
         "android",
         "android-app",
@@ -128,7 +128,7 @@
         "xposed-module"
       ]
     },
-    "original_repository_sha": "07ffa9219b92394dcc94006b730d96591a5bebfa",
+    "original_repository_sha": "6fe95a1cfdca0ace034596754e4b4dd4f14ae5e6",
     "enhanced_repository": "enhansome/enhansome-android-root",
     "enhanced_repository_description": null,
     "title": "Awesome Android Root with stars"
