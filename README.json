@@ -235,7 +235,7 @@
                 "open_issues": 38,
                 "owner": "LyraVoid",
                 "repo": "FolkPatch",
-                "stars": 1171,
+                "stars": 1172,
                 "topics": []
               },
               "first_seen": "2026-10-03T04:16:48.836Z"
@@ -399,7 +399,7 @@
                 "open_issues": 0,
                 "owner": "Hybrid-Mount",
                 "repo": "meta-hybrid_mount",
-                "stars": 1658,
+                "stars": 1659,
                 "topics": []
               },
               "first_seen": "2026-10-03T04:16:48.836Z"
@@ -1001,7 +1001,7 @@
                 "open_issues": 1,
                 "owner": "KOWX712",
                 "repo": "PlayIntegrityFix",
-                "stars": 3954,
+                "stars": 3955,
                 "topics": []
               },
               "first_seen": "2026-10-03T04:16:48.836Z"
@@ -1096,7 +1096,7 @@
                 "open_issues": 12,
                 "owner": "JingMatrix",
                 "repo": "TEESimulator",
-                "stars": 2526,
+                "stars": 2527,
                 "topics": [
                   "android",
                   "hardware-simulation",
@@ -1568,7 +1568,7 @@
                 "open_issues": 6,
                 "owner": "OnyxZygisk",
                 "repo": "OnyxZygisk",
-                "stars": 116,
+                "stars": 117,
                 "topics": []
               },
               "first_seen": "2026-10-03T04:16:48.836Z"
@@ -1795,7 +1795,7 @@
                 "open_issues": 0,
                 "owner": "j-hc",
                 "repo": "zygisk-detach",
-                "stars": 2155,
+                "stars": 2156,
                 "topics": [
                   "detach",
                   "zygisk"
@@ -2567,7 +2567,7 @@
                 "open_issues": 17,
                 "owner": "SelfRef",
                 "repo": "noogle-magisk",
-                "stars": 132,
+                "stars": 133,
                 "topics": [
                   "android",
                   "debloat",
@@ -6404,7 +6404,7 @@
                 "open_issues": 36,
                 "owner": "zalexdev",
                 "repo": "strykerapp",
-                "stars": 1716,
+                "stars": 1717,
                 "topics": []
               },
               "first_seen": "2026-10-03T04:16:48.836Z"
@@ -7710,7 +7710,7 @@
                 "open_issues": 4,
                 "owner": "NexAlloy",
                 "repo": "NexAlloy",
-                "stars": 3023,
+                "stars": 3024,
                 "topics": [
                   "android",
                   "morphe",
@@ -8711,7 +8711,7 @@
                 "open_issues": 10,
                 "owner": "LSPosed",
                 "repo": "CorePatch",
-                "stars": 3412,
+                "stars": 3413,
                 "topics": [
                   "corepatch",
                   "disable-signature-verification",
@@ -9213,7 +9213,7 @@
                     "open_issues": 540,
                     "owner": "MorpheApp",
                     "repo": "morphe-patches",
-                    "stars": 3889,
+                    "stars": 3890,
                     "topics": [
                       "android",
                       "morphe"
@@ -10504,7 +10504,7 @@
                 "open_issues": 615,
                 "owner": "zhanghai",
                 "repo": "MaterialFiles",
-                "stars": 9128,
+                "stars": 9129,
                 "topics": [
                   "android",
                   "android-application",
@@ -11435,7 +11435,7 @@
                 "open_issues": 65,
                 "owner": "Mods-Center",
                 "repo": "HyperOS-Launcher",
-                "stars": 412,
+                "stars": 413,
                 "topics": [
                   "hyperos",
                   "hyperos-launcher",
@@ -13690,7 +13690,7 @@
                 "open_issues": 5,
                 "owner": "Khh-vu",
                 "repo": "wifi-password-manager",
-                "stars": 303,
+                "stars": 304,
                 "topics": [
                   "android",
                   "compose",
@@ -14510,7 +14510,7 @@
                 "open_issues": 82,
                 "owner": "thedjchi",
                 "repo": "Shizuku",
-                "stars": 6101,
+                "stars": 6102,
                 "topics": []
               },
               "first_seen": "2026-10-03T04:16:48.836Z"
@@ -15582,8 +15582,8 @@
                 "id": 1109834595,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-10-03T04:16:36Z",
-                "open_issues": 154,
+                "last_commit": "2026-10-03T04:28:42Z",
+                "open_issues": 152,
                 "owner": "sameerasw",
                 "repo": "essentials",
                 "stars": 3188,
@@ -16568,7 +16568,7 @@
                         "open_issues": 1,
                         "owner": "KOWX712",
                         "repo": "PlayIntegrityFix",
-                        "stars": 3954,
+                        "stars": 3955,
                         "topics": []
                       },
                       "first_seen": "2026-10-03T04:16:48.836Z"
@@ -17928,7 +17928,7 @@
                     "open_issues": 0,
                     "owner": "Hybrid-Mount",
                     "repo": "meta-hybrid_mount",
-                    "stars": 1658,
+                    "stars": 1659,
                     "topics": []
                   },
                   "first_seen": "2026-10-03T04:16:48.836Z"
@@ -19378,7 +19378,7 @@
                     "open_issues": 0,
                     "owner": "j-hc",
                     "repo": "zygisk-detach",
-                    "stars": 2155,
+                    "stars": 2156,
                     "topics": [
                       "detach",
                       "zygisk"
@@ -19550,7 +19550,7 @@
                     "open_issues": 615,
                     "owner": "zhanghai",
                     "repo": "MaterialFiles",
-                    "stars": 9128,
+                    "stars": 9129,
                     "topics": [
                       "android",
                       "android-application",
@@ -20632,7 +20632,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:16:48.836Z",
+    "last_updated": "2026-10-03T04:31:24.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides",
