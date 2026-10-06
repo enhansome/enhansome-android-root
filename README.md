@@ -139,7 +139,7 @@ Browse them in [`docs/apps-and-modules/`](https://github.com/awesome-android-roo
 > \[!TIP]
 > **New to rooting?** Start with the [Complete Rooting Guide](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/rooting-guides/index.md) before exploring the
 > lists below. For privacy-friendly installs, use the F-Droid ecosystem: install
-> [Droid-ify](https://github.com/Droid-ify/client/releases) ⭐ 7,543 | 🐛 196 | 🌐 Kotlin | 📅 2026-09-12 (modern F-Droid client) and enable the
+> [Droid-ify](https://github.com/Droid-ify/client/releases) ⭐ 7,544 | 🐛 197 | 🌐 Kotlin | 📅 2026-09-12 (modern F-Droid client) and enable the
 > [IzzyOnDroid](https://apt.izzysoft.de/fdroid/) repo for many additional packages.
 
 > \[!NOTE]
@@ -182,8 +182,8 @@ Apps and modules are grouped by **what you want to accomplish**, not by whether 
 
 |                                                                                                                                      App                                                                                                                                      | Why it's essential                                       |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------- |
-|           **[Magisk](https://github.com/topjohnwu/Magisk) ⭐ 63,094 \| 🐛 43 \| 🌐 Kotlin \| 📅 2026-10-05** <br><small> [Root Management](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/apps-and-modules/root-management.md) </small>           | If you chose Magisk, this is your manager.               |
-| **[App Manager](https://github.com/MuntashirAkon/AppManager) ⭐ 9,137 \| 🐛 200 \| 🌐 Java \| 📅 2026-10-03** <br><small> [System → App & Package Management](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/apps-and-modules/system.md) </small> | Inspect and manage apps with root privileges.            |
+|           **[Magisk](https://github.com/topjohnwu/Magisk) ⭐ 63,106 \| 🐛 38 \| 🌐 Kotlin \| 📅 2026-10-06** <br><small> [Root Management](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/apps-and-modules/root-management.md) </small>           | If you chose Magisk, this is your manager.               |
+| **[App Manager](https://github.com/MuntashirAkon/AppManager) ⭐ 9,144 \| 🐛 200 \| 🌐 Java \| 📅 2026-10-03** <br><small> [System → App & Package Management](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/apps-and-modules/system.md) </small> | Inspect and manage apps with root privileges.            |
 |                                        **[MiXplorer](https://mixplorer.com/)** <br><small> [File Management](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/apps-and-modules/file-management.md) </small>                                        | A powerful file manager with full root access.           |
 |                                               **[AdAway](https://adaway.org/)** <br><small> [Ad Blocking](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/apps-and-modules/ad-blocking.md) </small>                                               | Open-source system-wide ad blocker.                      |
 |                       **[Droid-ify](https://f-droid.org/packages/com.looker.droidify)** <br><small> [System → App & Package Management](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/apps-and-modules/system.md) </small>                      | A modern F-Droid client for installing open-source apps. |
@@ -309,13 +309,13 @@ problem - controlling root access.
 
 ## Root Managers
 
-* **[⭐ Magisk](https://github.com/topjohnwu/Magisk) ⭐ 63,094 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-05** - Manage Magisk modules and root permissions. `FOSS`
-* **[⭐ KernelSU](https://github.com/tiann/KernelSU) ⭐ 18,902 | 🐛 72 | 🌐 Kotlin | 📅 2026-10-05** - A Kernel based root solution for Android. `FOSS`
-* **[APatch](https://github.com/bmax121/APatch) ⭐ 8,007 | 🐛 56 | 🌐 Kotlin | 📅 2026-10-05** - The patching of Android kernel and Android system. `FOSS` | [🌱](https://f-droid.org/packages/me.bmax.apatch/)
-* **[SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) ⭐ 6,463 | 🐛 31 | 🌐 Kotlin | 📅 2026-10-05** - A kernel-based root solution for Android devices, forked from `KernelSU` with some useful changes. `FOSS`
-* **[KernelSU-next](https://github.com/KernelSU-Next/KernelSU-Next) ⭐ 4,356 | 🐛 9 | 🌐 Kotlin | 📅 2026-10-05** - An advanced Kernel based root solution for Android. `FOSS`
-* **[ReSukiSU](https://github.com/ReSukiSU/ReSukiSU) ⭐ 1,728 | 🐛 10 | 🌐 Kotlin | 📅 2026-10-05** - Fork of SukiSU-Ultra with additional features. `FOSS`
-* **[FolkPatch](https://github.com/LyraVoid/FolkPatch) ⭐ 1,184 | 🐛 38 | 🌐 Kotlin | 📅 2026-10-05** - A Root management tool focused on interface optimization and feature extension, based on APatch. `FOSS`
+* **[⭐ Magisk](https://github.com/topjohnwu/Magisk) ⭐ 63,106 | 🐛 38 | 🌐 Kotlin | 📅 2026-10-06** - Manage Magisk modules and root permissions. `FOSS`
+* **[⭐ KernelSU](https://github.com/tiann/KernelSU) ⭐ 18,907 | 🐛 69 | 🌐 Kotlin | 📅 2026-10-06** - A Kernel based root solution for Android. `FOSS`
+* **[APatch](https://github.com/bmax121/APatch) ⭐ 8,009 | 🐛 58 | 🌐 Kotlin | 📅 2026-10-05** - The patching of Android kernel and Android system. `FOSS` | [🌱](https://f-droid.org/packages/me.bmax.apatch/)
+* **[SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) ⭐ 6,465 | 🐛 34 | 🌐 Kotlin | 📅 2026-10-05** - A kernel-based root solution for Android devices, forked from `KernelSU` with some useful changes. `FOSS`
+* **[KernelSU-next](https://github.com/KernelSU-Next/KernelSU-Next) ⭐ 4,361 | 🐛 14 | 🌐 Kotlin | 📅 2026-10-05** - An advanced Kernel based root solution for Android. `FOSS`
+* **[ReSukiSU](https://github.com/ReSukiSU/ReSukiSU) ⭐ 1,731 | 🐛 9 | 🌐 Kotlin | 📅 2026-10-06** - Fork of SukiSU-Ultra with additional features. `FOSS`
+* **[FolkPatch](https://github.com/LyraVoid/FolkPatch) ⭐ 1,184 | 🐛 39 | 🌐 Kotlin | 📅 2026-10-05** - A Root management tool focused on interface optimization and feature extension, based on APatch. `FOSS`
 
 ## Temporary Root (Locked Bootloader)
 
@@ -328,7 +328,7 @@ Exploits like **GhostLock (CVE-2026-43499)** - a 15-year-old Linux kernel bug - 
 <br>
 </details>
 
-* **[⭐ Root My Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy) ⭐ 1,360 | 🐛 566 | 🌐 Kotlin | 📅 2026-09-03** - One-tap temporary root for Snapdragon Galaxy flagships (S24/S25 series, S24 FE, A56...) via GhostLock; bootloader stays locked, Knox isn't tripped. `FOSS`
+* **[⭐ Root My Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy) ⭐ 1,361 | 🐛 567 | 🌐 Kotlin | 📅 2026-09-03** - One-tap temporary root for Snapdragon Galaxy flagships (S24/S25 series, S24 FE, A56...) via GhostLock; bootloader stays locked, Knox isn't tripped. `FOSS`
 
 > \[!TIP]
 > Also check out **[Root Without Unlocking the Bootloader ↗](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/rooting-guides/root-without-unlocking-bootloader.md)** and [Bootloader Mods & Temporary Root Solutions ↗](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/rooting-guides/temporary-root-solutions.md)
@@ -344,7 +344,7 @@ Exploits like **GhostLock (CVE-2026-43499)** - a 15-year-old Linux kernel bug - 
 > \[!NOTE]
 > LSPosed allows you to use Xposed modules, that can modify or extend the functionality of your Android system and apps.
 
-* **[⭐ Vector](https://github.com/JingMatrix/Vector) ⭐ 12,660 | 🐛 32 | 🌐 Kotlin | 📅 2026-10-01** - Open Source *Fork* of original LSPosed with dynamic module loading, and other improvements. `FOSS` `[M]`
+* **[⭐ Vector](https://github.com/JingMatrix/Vector) ⭐ 12,667 | 🐛 31 | 🌐 Kotlin | 📅 2026-10-01** - Open Source *Fork* of original LSPosed with dynamic module loading, and other improvements. `FOSS` `[M]`
 * **[LSPosed](https://lsposed.zip)** - A Riru / Zygisk module that provides an ART hooking framework delivering consistent APIs with the OG Xposed, leveraging the LSPlant hooking framework. `Proprietary`
 
 > \[!TIP]
@@ -355,27 +355,27 @@ Exploits like **GhostLock (CVE-2026-43499)** - a 15-year-old Linux kernel bug - 
 > \[!NOTE]
 > **Metamodules** provides the core mounting infrastructure for the module system. Unlike regular modules that modify system files, metamodules control *how* regular modules are installed and mounted.
 
-* **[Meta-hybrid\_mount](https://github.com/YuzakiKokuban/meta-hybrid_mount) ⭐ 1,678 | 🐛 0 | 🌐 Rust | 📅 2026-10-04** - Three-engine mount orchestration (OverlayFS + Magic Mount + Kasumi LKM) with conflict monitor, SolidJS WebUI, auto-fallback, and EROFS storage backend support. `FOSS` `[K]` `[A]`
+* **[Meta-hybrid\_mount](https://github.com/YuzakiKokuban/meta-hybrid_mount) ⭐ 1,682 | 🐛 0 | 🌐 Rust | 📅 2026-10-04** - Three-engine mount orchestration (OverlayFS + Magic Mount + Kasumi LKM) with conflict monitor, SolidJS WebUI, auto-fallback, and EROFS storage backend support. `FOSS` `[K]` `[A]`
 * **[⭐ Mountify](https://github.com/backslashxx/mountify) ⭐ 1,419 | 🐛 22 | 🌐 Shell | 📅 2026-08-25** - OverlayFS with tmpfs/ext4 sparse support for reduced detection, works on APatch/Magisk too. `FOSS` `[M]` `[K]` `[A]`
-* **[Magic Mount Metamodule](https://github.com/Tools-cx-app/meta-magic_mount-rs) ⭐ 533 | 🐛 5 | 🌐 Vue | 📅 2026-10-04** - An implementation of a metamodule using Magic Mount, based on MKSU. `FOSS` `[M]` `[K]` `[A]`
+* **[Magic Mount Metamodule](https://github.com/Tools-cx-app/meta-magic_mount-rs) ⭐ 533 | 🐛 2 | 🌐 Vue | 📅 2026-10-06** - An implementation of a metamodule using Magic Mount, based on MKSU. `FOSS` `[M]` `[K]` `[A]`
 * **[ZeroMount](https://github.com/Enginex0/zeromount) ⭐ 133 | 🐛 3 | 🌐 Rust | 📅 2026-04-15** - Mountless module loading with Kernel-level VFS path redirection & SUSFS integration, WebUI, bootloop guard, and strategy fallback. `FOSS` `[M]` `[K]` `[A]`
 * **[⭐ Meta-overlayfs](https://github.com/KernelSU-Modules-Repo/meta-overlayfs)** - Official reference implementation using OverlayFS for most users and standard setup. `FOSS` `[K]`
 * **[meta-mm](https://github.com/KernelSU-Modules-Repo/meta-mm)** - The official KernelSU Modules Repo's Magic Mount metamodule. Lighter alternative to meta-magic\_mount for users who just want Magisk-compatible mounting without extra tooling. `FOSS` `[K]`
 
 ## Module Managers
 
-* **[⭐ MMRL](https://github.com/DerGoogler/MMRL) ⭐ 2,186 | 🐛 11 | 🌐 Kotlin | 📅 2026-09-22** - An Android app that helps manage your own modules repository. `FOSS` `[M]` `[K]` `[A]` | [🌱](https://f-droid.org/en/packages/com.dergoogler.mmrl/) | [▶️](https://play.google.com/store/apps/details?id=com.dergoogler.mmrl)
-* **[KPatch Next Module](https://github.com/KernelSU-Next/KPatch-Next-Module) ⭐ 491 | 🐛 9 | 🌐 JavaScript | 📅 2026-03-05** - Standalone implementation of KPM (KernelSU Patch Module) support for Magisk/KernelSU with WebUI. `FOSS` `[M]` `[K]`
+* **[⭐ MMRL](https://github.com/DerGoogler/MMRL) ⭐ 2,186 | 🐛 10 | 🌐 Kotlin | 📅 2026-09-22** - An Android app that helps manage your own modules repository. `FOSS` `[M]` `[K]` `[A]` | [🌱](https://f-droid.org/en/packages/com.dergoogler.mmrl/) | [▶️](https://play.google.com/store/apps/details?id=com.dergoogler.mmrl)
+* **[KPatch Next Module](https://github.com/KernelSU-Next/KPatch-Next-Module) ⭐ 492 | 🐛 9 | 🌐 JavaScript | 📅 2026-03-05** - Standalone implementation of KPM (KernelSU Patch Module) support for Magisk/KernelSU with WebUI. `FOSS` `[M]` `[K]`
 * **[Magisk Manager for Recovery Mode](https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode) ⭐ 290 | 🐛 0 | 🌐 Shell | 📅 2026-04-04** - Easily manage your Magisk Modules from a terminal session in your custom recovery. `FOSS` `[M]`
 
 ## Root Detection & Testing
 
-* **[⭐ Android-Native-Root-Detector](https://github.com/reveny/Android-Native-Root-Detector) ⭐ 1,400 | 🐛 18 | 🌐 Kotlin | 📅 2026-04-11** - A tool for detecting root on android. `FOSS`
-* **[Duck Detector](https://github.com/eltavine/Duck-Detector-Refactoring) ⭐ 1,088 | 🐛 5 | 🌐 Kotlin | 📅 2026-10-05** - Android environment integrity inspection tool for root, hook, bootloader, SELinux, virtualization, and attestation signals. `FOSS`
-* **[MagiskDetection](https://github.com/apkunpacker/MagiskDetection) ⭐ 1,070 | 🐛 5 | 📅 2026-05-10** - Collection of Some publicly Available POC Apps to Detect Root/Magisk presence. `Proprietary`
-* **[Play Integrity API Checker](https://github.com/1nikolas/play-integrity-checker-app) ⭐ 839 | 🐛 8 | 🌐 Java | 📅 2025-08-19** - This app shows info about your device integrity as reported by Google Play Services. If any of this fails could mean your device is rooted or tampered in a way. `FOSS` | [▶️](https://play.google.com/store/apps/details?id=gr.nikolasspyr.integritycheck)
+* **[⭐ Android-Native-Root-Detector](https://github.com/reveny/Android-Native-Root-Detector) ⭐ 1,401 | 🐛 18 | 🌐 Kotlin | 📅 2026-04-11** - A tool for detecting root on android. `FOSS`
+* **[Duck Detector](https://github.com/eltavine/Duck-Detector-Refactoring) ⭐ 1,088 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-06** - Android environment integrity inspection tool for root, hook, bootloader, SELinux, virtualization, and attestation signals. `FOSS`
+* **[MagiskDetection](https://github.com/apkunpacker/MagiskDetection) ⭐ 1,071 | 🐛 5 | 📅 2026-05-10** - Collection of Some publicly Available POC Apps to Detect Root/Magisk presence. `Proprietary`
+* **[Play Integrity API Checker](https://github.com/1nikolas/play-integrity-checker-app) ⭐ 840 | 🐛 8 | 🌐 Java | 📅 2025-08-19** - This app shows info about your device integrity as reported by Google Play Services. If any of this fails could mean your device is rooted or tampered in a way. `FOSS` | [▶️](https://play.google.com/store/apps/details?id=gr.nikolasspyr.integritycheck)
 * **[Key Attestation](https://github.com/VisionR1/KeyAttestation) ⭐ 472 | 🐛 1 | 🌐 Java | 📅 2026-09-24** - Generates, saves, parses and verifies Android key and ID attestation certificate chains for self-testing and diagnostics. `FOSS`
-* **[Chunqiu Detector](https://github.com/mingzun09/Chunqiu-Detector-Problem-solution) ⭐ 468 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-22** - Solutions, scripts, and modules for bypassing and troubleshooting Chunqiu Detector checks on rooted Android devices. `FOSS`
+* **[Chunqiu Detector](https://github.com/mingzun09/Chunqiu-Detector-Problem-solution) ⭐ 467 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-22** - Solutions, scripts, and modules for bypassing and troubleshooting Chunqiu Detector checks on rooted Android devices. `FOSS`
 * **[Securify](https://github.com/RabehX/Securify) ⭐ 165 | 🐛 6 | 🌐 Kotlin | 📅 2026-09-28** - Yet Another Root Checker and Play Integrity API Application. `FOSS`
 * **[Kknd Root Detector](https://github.com/juanma0511/Kknd_Root_Detector) ⭐ 111 | 🐛 6 | 🌐 Kotlin | 📅 2026-10-01** - Deep root, hook framework, SELinux and system integrity detection combining native C++ and Kotlin checks. `FOSS`
 * **[PIF Detector](https://github.com/IR0NBYTE/playIntegrityFixDetector) ⭐ 78 | 🐛 4 | 🌐 Kotlin | 📅 2026-10-04** - Native app designed to detect modifications, bypasses, or "fixes" applied to the Google Play Integrity API. `FOSS` `[M]` `[K]`
@@ -404,24 +404,24 @@ Since Google's mid-2025 changes, `DEVICE_INTEGRITY` requires a **locked bootload
 
 </details>
 
-* **[TrickyStore](https://github.com/5ec1cff/TrickyStore) ⭐ 6,391 | 🐛 6 | 📅 2025-11-30** - Modifies the certificate chain for Android key attestation (keybox-based). The original/reference module. `Proprietary` `[M]` `[K]`
-* **[⭐ Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) ⭐ 6,346 | 🐛 0 | 🌐 HTML | 📅 2026-07-29** - Hides Magisk root from detection. `Proprietary` `[M]`
-* **[Play Integrity Fork (PIF)](https://github.com/osm0sis/PlayIntegrityFork) ⭐ 4,550 | 🐛 0 | 🌐 C++ | 📅 2026-09-28** - The most actively maintained PIF. Fixes `DEVICE_INTEGRITY` verdicts with custom fields/props. Recommended starting point after chiteroman's original was discontinued. `FOSS` `[M]`
-* **[Play Integrity Fix (inject)](https://github.com/KOWX712/PlayIntegrityFix) ⭐ 3,965 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-24** - Actively maintained fork using injected GMS/Play Store spoofing with a WebUI. `FOSS` `[M]`
+* **[TrickyStore](https://github.com/5ec1cff/TrickyStore) ⭐ 6,392 | 🐛 6 | 📅 2025-11-30** - Modifies the certificate chain for Android key attestation (keybox-based). The original/reference module. `Proprietary` `[M]` `[K]`
+* **[⭐ Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) ⭐ 6,347 | 🐛 0 | 🌐 HTML | 📅 2026-07-29** - Hides Magisk root from detection. `Proprietary` `[M]`
+* **[Play Integrity Fork (PIF)](https://github.com/osm0sis/PlayIntegrityFork) ⭐ 4,552 | 🐛 0 | 🌐 C++ | 📅 2026-09-28** - The most actively maintained PIF. Fixes `DEVICE_INTEGRITY` verdicts with custom fields/props. Recommended starting point after chiteroman's original was discontinued. `FOSS` `[M]`
+* **[Play Integrity Fix (inject)](https://github.com/KOWX712/PlayIntegrityFix) ⭐ 3,967 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-24** - Actively maintained fork using injected GMS/Play Store spoofing with a WebUI. `FOSS` `[M]`
 * **[Tricky Addon – Update Target List](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) ⭐ 3,487 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-04** - KSU WebUI to configure TrickyStore's `target.txt`. `FOSS` `[K]`
-* **[⭐ HMA-OSS](https://github.com/frknkrc44/HMA-OSS) ⭐ 3,461 | 🐛 4 | 🌐 Kotlin | 📅 2026-10-05** - FOSS rewrite of Hide My Applist; hides your app list, settings, and package installers. `FOSS` `[LSP]`
+* **[⭐ HMA-OSS](https://github.com/frknkrc44/HMA-OSS) ⭐ 3,470 | 🐛 4 | 🌐 Kotlin | 📅 2026-10-05** - FOSS rewrite of Hide My Applist; hides your app list, settings, and package installers. `FOSS` `[LSP]`
 * **[Zygisk Assistant](https://github.com/snake-4/Zygisk-Assistant) ⭐ 2,625 | 🐛 18 | 🌐 C++ | 📅 2026-05-04** - Zygisk module to hide root on KernelSU, Magisk, and APatch. `FOSS` `[M]`
-* **[⭐ TEESimulator](https://github.com/JingMatrix/TEESimulator) ⭐ 2,549 | 🐛 15 | 🌐 C++ | 📅 2026-10-02** - Create a complete, software-based simulation of a hardware-backed Trusted Execution Environment (TEE) for Key Attestation. `FOSS` `[M]` `[K]`
+* **[⭐ TEESimulator](https://github.com/JingMatrix/TEESimulator) ⭐ 2,550 | 🐛 15 | 🌐 C++ | 📅 2026-10-02** - Create a complete, software-based simulation of a hardware-backed Trusted Execution Environment (TEE) for Key Attestation. `FOSS` `[M]` `[K]`
 * **[YuriKey](https://github.com/dpejoh/yurikey) ⭐ 1,913 | 🐛 9 | 🌐 Shell | 📅 2026-09-30** - Systemless module to obtain strong integrity easily. `FOSS` `[M]` `[K]`
-* **[TEESimulator-RS](https://github.com/Enginex0/TEESimulator-RS) ⭐ 1,895 | 🐛 24 | 🌐 Kotlin | 📅 2026-07-11** - Fork of TEESimulator with native Rust certificate generation, key persistence, and AOSP-compliant attestation behavior. `FOSS` `[M]` `[K]`
+* **[TEESimulator-RS](https://github.com/Enginex0/TEESimulator-RS) ⭐ 1,898 | 🐛 24 | 🌐 Kotlin | 📅 2026-07-11** - Fork of TEESimulator with native Rust certificate generation, key persistence, and AOSP-compliant attestation behavior. `FOSS` `[M]` `[K]`
 * **[TrickyStore OSS](https://github.com/beakthoven/TrickyStoreOSS) ⭐ 1,433 | 🐛 20 | 🌐 Kotlin | 📅 2026-10-01** - Open-source alternative to TrickyStore. `FOSS` `[M]` `[K]`
-* **[NoHello](https://github.com/MhmRdd/NoHello) ⭐ 1,358 | 🐛 22 | 🌐 C++ | 📅 2025-06-28** - Lightweight Zygisk module to hide root. `FOSS` `[M]`
-* **[Always Strong](https://github.com/evoker0/AlwaysStrong) ⭐ 825 | 🐛 7 | 🌐 Shell | 📅 2026-09-25** - Bundles TEESimulator-RS and PlayIntegrityFork into a single module for strong integrity on rooted devices. `FOSS` `[M]` `[K]`
+* **[NoHello](https://github.com/MhmRdd/NoHello) ⭐ 1,359 | 🐛 22 | 🌐 C++ | 📅 2025-06-28** - Lightweight Zygisk module to hide root. `FOSS` `[M]`
+* **[Always Strong](https://github.com/evoker0/AlwaysStrong) ⭐ 829 | 🐛 7 | 🌐 Shell | 📅 2026-09-25** - Bundles TEESimulator-RS and PlayIntegrityFork into a single module for strong integrity on rooted devices. `FOSS` `[M]` `[K]`
 * **[PlaycurlNEXT](https://github.com/daboynb/playcurlNEXT) ⭐ 774 | 🐛 0 | 🌐 Shell | 📅 2026-01-23** - Fixes Play Integrity (and SafetyNet) verdicts with custom fields and props. `FOSS` `[M]` `[K]`
-* **[Specter](https://github.com/dpejoh/specter) ⭐ 714 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-05** - Unified Play Integrity and root hiding stack for Android. Successor of Yurikey. `FOSS` `[M]` `[K]`
-* **[OhMyKeymint](https://github.com/qwq233/OhMyKeymint) ⭐ 439 | 🐛 6 | 🌐 Rust | 📅 2026-09-22** - Custom keystore implementation for Android Keystore Spoofer. `FOSS` `[M]` `[K]`
+* **[Specter](https://github.com/dpejoh/specter) ⭐ 715 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-05** - Unified Play Integrity and root hiding stack for Android. Successor of Yurikey. `FOSS` `[M]` `[K]`
+* **[OhMyKeymint](https://github.com/qwq233/OhMyKeymint) ⭐ 442 | 🐛 6 | 🌐 Rust | 📅 2026-09-22** - Custom keystore implementation for Android Keystore Spoofer. `FOSS` `[M]` `[K]`
 * **[Sensitive Props](https://github.com/Pixel-Props/sensitive-props) ⭐ 408 | 🐛 0 | 🌐 Shell | 📅 2026-09-12** - Modifies system properties and applies device-specific fixes to bypass SafetyNet/Play Integrity. `FOSS` `[M]`
-* **[ReZygisk's Treat Wheel](https://github.com/PerformanC/Treat-Wheel-Zygisk) ⭐ 313 | 🐛 6 | 🌐 C | 📅 2026-09-21** - Hides Magisk/root traces exclusively for ReZygisk, acting as the best userspace root hiding tool. `FOSS` `[M]` `[K]`
+* **[ReZygisk's Treat Wheel](https://github.com/PerformanC/Treat-Wheel-Zygisk) ⭐ 314 | 🐛 6 | 🌐 C | 📅 2026-09-21** - Hides Magisk/root traces exclusively for ReZygisk, acting as the best userspace root hiding tool. `FOSS` `[M]` `[K]`
 * **[DirtySepolicy Bypass](https://github.com/flipphoneguy/DirtySepolicy_Bypass) ⭐ 82 | 🐛 8 | 🌐 C++ | 📅 2026-06-19** - Bypasses new DirtySepolicy on rooted Android devices to keep apps working. `FOSS` `[M]` `[K]` `[A]`
 * **[Komodo Build Props](https://github.com/Elcapitanoe/Komodo-Build-Prop#komodo-build-props) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2026-10-03** - Spoofs your device as a Pixel 9 Pro XL (komodo). `FOSS` `[M]`
 * **[AuditPatch](https://github.com/silvzr/AuditPatch) ⭐ 11 | 🐛 0 | 🌐 Shell | 📅 2026-05-04** - Hooks `logd` to replace sensitive SELinux contexts in the audit log, fixing AVC log leak detection without SUSFS or ZygiskNext. `Proprietary` `[M]` `[K]`
@@ -439,7 +439,7 @@ SUSFS (Systemless User Space File System) is a kernel-level module that allows r
 
 </details><br>
 
-* **[⭐ SUSFS for KernelSU](https://github.com/sidex15/susfs4ksu-module) ⭐ 2,610 | 🐛 3 | 🌐 HTML | 📅 2026-09-08** - Add-on root-hiding service for SUSFS-patched kernels (KernelSU/Next). The core of modern KSU hiding setups. `FOSS` `[M]` `[K]`
+* **[⭐ SUSFS for KernelSU](https://github.com/sidex15/susfs4ksu-module) ⭐ 2,612 | 🐛 3 | 🌐 HTML | 📅 2026-09-08** - Add-on root-hiding service for SUSFS-patched kernels (KernelSU/Next). The core of modern KSU hiding setups. `FOSS` `[M]` `[K]`
 * **[BRENE](https://github.com/rrr333nnn333/BRENE) ⭐ 377 | 🐛 6 | 🌐 Shell | 📅 2026-10-04** - SUSFS/KernelSU module for patched kernels with enhanced root hiding & spoofing. `FOSS` `[M]` `[K]`
 * ~~ReSuSFS~~: Removed on author's request
 
@@ -456,11 +456,11 @@ A feature that lets modules inject code into Android's Zygote process for system
 <br>
 </details>
 
-* **[ReZygisk](https://github.com/PerformanC/ReZygisk) ⭐ 4,022 | 🐛 10 | 🌐 C | 📅 2026-09-30** A high-performance implementation **entirely rewritten in C**. It introduces **custom linkers** to bypass modern linker-based detections, offering a WebUI for status monitoring and compatibility with Android 15 and 16. `FOSS` `[M]` `[K]` `[A]`
-* **[NeoZygisk](https://github.com/JingMatrix/NeoZygisk) ⭐ 2,399 | 🐛 11 | 🌐 C++ | 📅 2026-09-03** A minimalist, high-stealth implementation using **ptrace injection**. It focuses on "trace cleaning," aiming to remove all injection artifacts from memory once modules are loaded. `FOSS` `[M]` `[K]` `[A]`
-* **[⭐ Zygisk Next](https://github.com/LSPosed/ZygiskNext) ⭐ 651 | 🐛 1 | 🌐 C | 📅 2026-10-05** The "Gold Standard" for detection evasion. It is a standalone Zygisk implementation that offers the most advanced stealth features, including a dedicated **Zygote Monitor** and dashboard. `Proprietary` `[M]` `[K]` `[A]`
-* **[OnyxZygisk](https://github.com/OnyxZygisk/OnyxZygisk/) ⭐ 133 | 🐛 6 | 🌐 C++ | 📅 2026-10-02** - A ptrace-powered Zygisk implementation with a built-in WebUI, hot-swappable FN modules, and an advanced DenyList. `FOSS` `[M]` `[K]` `[A]`
-* **[VexZygisk](https://github.com/Lxiaoyao077/VexZygisk/) ⭐ 71 | 🐛 3 | 🌐 C | 📅 2026-10-05** - Standalone implementation of Zygisk for KernelSU and APatch. `FOSS` `[M]` `[K]` `[A]`
+* **[ReZygisk](https://github.com/PerformanC/ReZygisk) ⭐ 4,026 | 🐛 10 | 🌐 C | 📅 2026-09-30** A high-performance implementation **entirely rewritten in C**. It introduces **custom linkers** to bypass modern linker-based detections, offering a WebUI for status monitoring and compatibility with Android 15 and 16. `FOSS` `[M]` `[K]` `[A]`
+* **[NeoZygisk](https://github.com/JingMatrix/NeoZygisk) ⭐ 2,402 | 🐛 11 | 🌐 C++ | 📅 2026-09-03** A minimalist, high-stealth implementation using **ptrace injection**. It focuses on "trace cleaning," aiming to remove all injection artifacts from memory once modules are loaded. `FOSS` `[M]` `[K]` `[A]`
+* **[⭐ Zygisk Next](https://github.com/LSPosed/ZygiskNext) ⭐ 658 | 🐛 1 | 🌐 C | 📅 2026-10-05** The "Gold Standard" for detection evasion. It is a standalone Zygisk implementation that offers the most advanced stealth features, including a dedicated **Zygote Monitor** and dashboard. `Proprietary` `[M]` `[K]` `[A]`
+* **[OnyxZygisk](https://github.com/OnyxZygisk/OnyxZygisk/) ⭐ 134 | 🐛 6 | 🌐 C++ | 📅 2026-10-02** - A ptrace-powered Zygisk implementation with a built-in WebUI, hot-swappable FN modules, and an advanced DenyList. `FOSS` `[M]` `[K]` `[A]`
+* **[VexZygisk](https://github.com/Lxiaoyao077/VexZygisk/) ⭐ 71 | 🐛 4 | 🌐 C | 📅 2026-10-06** - Standalone implementation of Zygisk for KernelSU and APatch. `FOSS` `[M]` `[K]` `[A]`
 
 <details><summary><strong>Comparison table</strong></summary><br>
 
@@ -485,19 +485,19 @@ Magisk/KernelSU/LSPosed modules are listed together per topic.
 
 ## App & Package Management
 
-* **[⭐ App Manager](https://github.com/MuntashirAkon/AppManager) ⭐ 9,137 | 🐛 200 | 🌐 Java | 📅 2026-10-03** - A full-featured package manager and viewer for Android. `FOSS` | [🌱](https://f-droid.org/packages/io.github.muntashirakon.AppManager/)
-* **[⭐ Droid-ify](https://github.com/Droid-ify/client) ⭐ 7,543 | 🐛 196 | 🌐 Kotlin | 📅 2026-09-12** - F-Droid client with Material UI and auto updating apps using root. `FOSS` | [🌱](https://f-droid.org/packages/com.looker.droidify)
-* **[⭐ InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) ⭐ 6,880 | 🐛 25 | 🌐 Kotlin | 📅 2026-10-05** - A modern and functional Android app installer. `FOSS` `[LSP]`
-* **[⭐ Hail](https://github.com/aistra0528/Hail) ⭐ 6,832 | 🐛 173 | 🌐 Kotlin | 📅 2026-10-02** - Disable / Hide / Suspend / Uninstall Android apps. `FOSS` | [🌱](https://f-droid.org/packages/com.aistra.hail/)
-* **[Neo Store](https://github.com/NeoApplications/Neo-Store) ⭐ 5,352 | 🐛 120 | 🌐 Kotlin | 📅 2026-10-01** - An F-Droid client with modern UI and an arsenal of extra features. `FOSS` | [🌱](https://f-droid.org/packages/com.machiav3lli.fdroid)
-* **[Aurora Store](https://github.com/whyorean/AuroraStore) ⭐ 3,063 | 🐛 8 | 🌐 Kotlin | 📅 2026-10-02** - A Google Play Store client to search, view app details, and download APKs directly to your device. `FOSS` | [🌱](https://f-droid.org/packages/com.aurora.store/)
+* **[⭐ App Manager](https://github.com/MuntashirAkon/AppManager) ⭐ 9,144 | 🐛 200 | 🌐 Java | 📅 2026-10-03** - A full-featured package manager and viewer for Android. `FOSS` | [🌱](https://f-droid.org/packages/io.github.muntashirakon.AppManager/)
+* **[⭐ Droid-ify](https://github.com/Droid-ify/client) ⭐ 7,544 | 🐛 197 | 🌐 Kotlin | 📅 2026-09-12** - F-Droid client with Material UI and auto updating apps using root. `FOSS` | [🌱](https://f-droid.org/packages/com.looker.droidify)
+* **[⭐ InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) ⭐ 6,885 | 🐛 25 | 🌐 Kotlin | 📅 2026-10-05** - A modern and functional Android app installer. `FOSS` `[LSP]`
+* **[⭐ Hail](https://github.com/aistra0528/Hail) ⭐ 6,835 | 🐛 173 | 🌐 Kotlin | 📅 2026-10-06** - Disable / Hide / Suspend / Uninstall Android apps. `FOSS` | [🌱](https://f-droid.org/packages/com.aistra.hail/)
+* **[Neo Store](https://github.com/NeoApplications/Neo-Store) ⭐ 5,357 | 🐛 120 | 🌐 Kotlin | 📅 2026-10-01** - An F-Droid client with modern UI and an arsenal of extra features. `FOSS` | [🌱](https://f-droid.org/packages/com.machiav3lli.fdroid)
+* **[Aurora Store](https://github.com/whyorean/AuroraStore) ⭐ 3,066 | 🐛 8 | 🌐 Kotlin | 📅 2026-10-02** - A Google Play Store client to search, view app details, and download APKs directly to your device. `FOSS` | [🌱](https://f-droid.org/packages/com.aurora.store/)
 * **[⭐ Zygisk Detach](https://github.com/j-hc/zygisk-detach) ⭐ 2,159 | 🐛 0 | 🌐 Rust | 📅 2026-09-20** - Zygisk module to detach installed apps from Play Store, hooking binder. `FOSS` `[M]` `[K]`
-* **[Inure](https://github.com/Hamza417/Inure) ⭐ 1,941 | 🐛 1 | 🌐 Kotlin | 📅 2026-10-04** - An elegant and beautiful premium Android app manager for rooted and non-rooted devices. `FOSS` | [🌱](https://f-droid.org/en/packages/app.simple.inure/) | [▶️](https://play.google.com/store/apps/details?id=app.simple.inure.play)
-* **[Universal Installer](https://github.com/pass-with-high-score/universal-installer) ⭐ 1,522 | 🐛 18 | 🌐 Kotlin | 📅 2026-09-28** - Install and manage APK packages with split APK support. `FOSS` `[LSP]`
-* **[InxLocker](https://github.com/Chimioo/InxLocker) ⭐ 979 | 🐛 3 | 🌐 Kotlin | 📅 2026-10-05** - Intercepts/forwards Android system application installation and uninstallation requests, redirecting them to your specified installer app. `FOSS` `[LSP]`
+* **[Inure](https://github.com/Hamza417/Inure) ⭐ 1,942 | 🐛 1 | 🌐 Kotlin | 📅 2026-10-04** - An elegant and beautiful premium Android app manager for rooted and non-rooted devices. `FOSS` | [🌱](https://f-droid.org/en/packages/app.simple.inure/) | [▶️](https://play.google.com/store/apps/details?id=app.simple.inure.play)
+* **[Universal Installer](https://github.com/pass-with-high-score/universal-installer) ⭐ 1,523 | 🐛 18 | 🌐 Kotlin | 📅 2026-09-28** - Install and manage APK packages with split APK support. `FOSS` `[LSP]`
+* **[InxLocker](https://github.com/Chimioo/InxLocker) ⭐ 980 | 🐛 3 | 🌐 Kotlin | 📅 2026-10-05** - Intercepts/forwards Android system application installation and uninstallation requests, redirecting them to your specified installer app. `FOSS` `[LSP]`
 * **[Package Manager](https://github.com/SmartPack/PackageManager) ⭐ 837 | 🐛 74 | 🌐 Java | 📅 2026-08-25** - A highly powerful app to manage both system and user apps installed on an Android device. `FOSS` | [🌱](https://f-droid.org/packages/com.smartpack.packagemanager) | [▶️](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager)
 * **[PI (PackageInstaller)](https://github.com/SanmerApps/PI) ⭐ 702 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-05** - Package installer that installs and updates APKs through a root or Shizuku installation service. `FOSS`
-* **[Thor](https://github.com/trinadhthatakula/Thor) ⭐ 595 | 🐛 13 | 🌐 Kotlin | 📅 2026-10-05** - Android App Manager and App Installer utility. `FOSS` | [🌱](https://apt.izzysoft.de/fdroid/index/apk/com.valhalla.thor) | [▶️](https://play.google.com/store/apps/details?id=com.valhalla.thor)
+* **[Thor](https://github.com/trinadhthatakula/Thor) ⭐ 596 | 🐛 13 | 🌐 Kotlin | 📅 2026-10-05** - Android App Manager and App Installer utility. `FOSS` | [🌱](https://apt.izzysoft.de/fdroid/index/apk/com.valhalla.thor) | [▶️](https://play.google.com/store/apps/details?id=com.valhalla.thor)
 * **[BetterKnownInstalled](https://github.com/Pixel-Props/BetterKnownInstalled) ⭐ 574 | 🐛 0 | 🌐 Shell | 📅 2026-09-11** - Patches packages to fix DroidGuard UNKNOWN\_INSTALLED issues. `FOSS` `[LSP]`
 * **[Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) ⭐ 303 | 🐛 3 | 🌐 Kotlin | 📅 2026-07-15** - Add support for downgrading apps on Android 12 through 15 QPR1. `FOSS` `[LSP]` | [🌱](https://f-droid.org/packages/com.berdik.letmedowngrade/) | [▶️](https://play.google.com/store/apps/details?id=com.berdik.letmedowngrade)
 * **[Buge App Manager](https://github.com/BugeStudioTeam/Buge-App-Manager) ⭐ 280 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-02** - Built with Material Design 3 Expressive designed for advanced app and permission management. `FOSS`
@@ -528,7 +528,7 @@ Magisk/KernelSU/LSPosed modules are listed together per topic.
 
 ## Permissions & AppOps
 
-* **[Thanox](https://github.com/Tornaco/Thanox) ⭐ 3,296 | 🐛 471 | 🌐 Java | 📅 2026-09-22** - A system management tool that provide convenient functions like application startup management, background management, permission management etc. `FOSS` `[LSP]` | [▶️](https://play.google.com/store/apps/details?id=github.tornaco.android.thanos.pro\&hl=en\&gl=US)
+* **[Thanox](https://github.com/Tornaco/Thanox) ⭐ 3,298 | 🐛 471 | 🌐 Java | 📅 2026-09-22** - A system management tool that provide convenient functions like application startup management, background management, permission management etc. `FOSS` `[LSP]` | [▶️](https://play.google.com/store/apps/details?id=github.tornaco.android.thanos.pro\&hl=en\&gl=US)
 * **[PermissionManagerX](https://github.com/mirfatif/PermissionManagerX) ⭐ 794 | 🐛 8 | 🌐 HTML | 📅 2026-09-29** - eXtended Permission Manager for Android to view and set Manifest Permissions and AppOps. `FOSS` | [🌱](https://f-droid.org/packages/com.mirfatif.permissionmanagerx) | [▶️](https://play.google.com/store/apps/details?id=com.mirfatif.permissionmanagerx)
 * **[AppOps](https://play.google.com/store/apps/details?id=rikka.appops)** - Control the hidden appops conveniently. `Proprietary`
 * **[Permission Ruler](https://play.google.com/store/apps/details?id=com.stefanosiano.permissionruler\&hl=en)** - Automatically manages app permissions when the screen is off for enhanced privacy. `Proprietary`
@@ -585,18 +585,18 @@ Magisk/KernelSU/LSPosed modules are listed together per topic.
 
 ### ColorOS (Oppo)
 
-* **[LuckyTool](https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/blob/main/README_EN.md) ⭐ 1,943 | 🐛 8 | 📅 2026-04-26** - Extended functionality and optimization module for ColorOS. `Proprietary` `[LSP]`
-* **[OShin](https://github.com/suqi8/OShin/blob/master/README_EN.md) ⭐ 1,230 | 🐛 111 | 🌐 Kotlin | 📅 2026-07-28** - Auxiliary module deeply integrated with ColorOS, designed to enhance and optimize your operating system experience. `FOSS` `[LSP]`
+* **[LuckyTool](https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/blob/main/README_EN.md) ⭐ 1,944 | 🐛 8 | 📅 2026-04-26** - Extended functionality and optimization module for ColorOS. `Proprietary` `[LSP]`
+* **[OShin](https://github.com/suqi8/OShin/blob/master/README_EN.md) ⭐ 1,231 | 🐛 111 | 🌐 Kotlin | 📅 2026-07-28** - Auxiliary module deeply integrated with ColorOS, designed to enhance and optimize your operating system experience. `FOSS` `[LSP]`
 * **[OPCameraPro](https://github.com/Xposed-Modules-Repo/com.tlsu.opluscamerapro) ⭐ 143 | 🐛 0 | 📅 2026-05-31** - ColorOS and realmeUI module providing various AI functions, enhancing cameras and other photo related tweaks. `Proprietary` `[LSP]`
 * **[ColorOS Feature Enhance](https://github.com/ItosEO/ColorFeatureEnhance) ⭐ 67 | 🐛 0 | 🌐 Kotlin | 📅 2025-08-18** - Visually edit and managing ColorOS feature switches. `FOSS` `[LSP]`
 * **[Oplus Launcher Radius Optimization](https://github.com/Qjj7679/Oplus-Luncher-RadiusOptimization) ⭐ 10 | 🐛 0 | 🌐 Kotlin | 📅 2026-04-23** - Optimize the rounded corners of the recent tasks card on the ColorOS system desktop. `FOSS` `[LSP]`
 
 ### HyperOS (Xiaomi)
 
-* **[⭐ HyperCeiler](https://github.com/ReChronoRain/HyperCeiler/blob/main/README_en-US.md) ⭐ 5,483 | 🐛 264 | 🌐 Java | 📅 2026-10-03** - Extensive customizations for HyperOS. `FOSS` `[LSP]`
-* **[Pengeek](https://github.com/monwf/customiuizer) ⭐ 1,478 | 🐛 48 | 🌐 Java | 📅 2026-05-19** - Customize your HyperOS to your liking. For HyperOS based on Android 14. `FOSS` `[LSP]`
+* **[⭐ HyperCeiler](https://github.com/ReChronoRain/HyperCeiler/blob/main/README_en-US.md) ⭐ 5,484 | 🐛 265 | 🌐 Java | 📅 2026-10-03** - Extensive customizations for HyperOS. `FOSS` `[LSP]`
+* **[Pengeek](https://github.com/monwf/customiuizer) ⭐ 1,478 | 🐛 47 | 🌐 Java | 📅 2026-05-19** - Customize your HyperOS to your liking. For HyperOS based on Android 14. `FOSS` `[LSP]`
 * **[Hyper Helper](https://github.com/HowieHChen/XiaomiHelper/blob/master/README_EN-US.md) ⭐ 370 | 🐛 5 | 🌐 Kotlin | 📅 2026-08-30** - Lightweight customization module for HyperOS only. `FOSS` `[LSP]`
-* **[Hyper Unlocked](https://github.com/ukriu/HyperUnlocked) ⭐ 237 | 🐛 16 | 🌐 Shell | 📅 2026-09-23** - Unlock all high-end features possible to be unlocked on low-end xiaomi devices. `FOSS` `[M]`
+* **[Hyper Unlocked](https://github.com/ukriu/HyperUnlocked) ⭐ 237 | 🐛 17 | 🌐 Shell | 📅 2026-09-23** - Unlock all high-end features possible to be unlocked on low-end xiaomi devices. `FOSS` `[M]`
 * **[HyperStar](https://github.com/YunZiA/HyperStar/blob/master/README_EN-US.md) ⭐ 131 | 🐛 6 | 🌐 Kotlin | 📅 2026-05-13** - An LSPosed module mainly designed to customize the Xiaomi HyperOS Control Center, along with some features. `FOSS` `[LSP]`
 * **[Better Miui Express](https://github.com/Robotxm/BetterMiuiExpress) ⭐ 130 | 🐛 3 | 🌐 Kotlin | 📅 2025-10-23** - Prevents MIUI/HyperOS's express widget from jumping to third-party applications such as Taobao and Cainiao, and uses a customized interface to display express details. `FOSS` `[LSP]`
 * **[ClipboardList](https://github.com/HChenX/ClipboardList/blob/master/README-en.md) ⭐ 86 | 🐛 3 | 🌐 Java | 📅 2025-08-09** - Remove the 20-item limit and time limit for the Clipboard and Phrases feature. Only for MIUI and HyperOS. `FOSS` `[LSP]`
@@ -630,7 +630,7 @@ Magisk/KernelSU/LSPosed modules are listed together per topic.
 
 ### Pixel
 
-* **[PixelInjector](https://github.com/hxreborn/pixelinjector) ⭐ 12 | 🐛 8 | 🌐 Kotlin | 📅 2026-10-05** - Opinionated Xposed module of some tweaks, specially for Pixel phones. `FOSS` `[LSP]`
+* **[PixelInjector](https://github.com/hxreborn/pixelinjector) ⭐ 13 | 🐛 8 | 🌐 Kotlin | 📅 2026-10-05** - Opinionated Xposed module of some tweaks, specially for Pixel phones. `FOSS` `[LSP]`
 
 ### ZUI
 
@@ -679,7 +679,7 @@ optimization**, charging control and task & process management.
 
 ## Charging & Power
 
-* **[AccA](https://github.com/VR-25/acc) ⭐ 2,415 | 🐛 20 | 🌐 Shell | 📅 2025-06-06** - Advanced Charging Controller app. `FOSS`
+* **[AccA](https://github.com/VR-25/acc) ⭐ 2,416 | 🐛 20 | 🌐 Shell | 📅 2025-06-06** - Advanced Charging Controller app. `FOSS`
 * **[FastCharge Next](https://github.com/Dev97633/Fastcharge-next) ⭐ 51 | 🐛 1 | 🌐 Shell | 📅 2026-04-23** - Boost charging speed with smart tweaks. `FOSS` `[M]`
 * **[Charging Bypass](https://github.com/AbhishekTor55/charging-bypass-magisk) ⭐ 21 | 🐛 1 | 🌐 Shell | 📅 2025-06-25** - Disables charging when screen is ON and re-enables when OFF. Useful for gaming/dev use. `FOSS` `[M]`
 
@@ -689,10 +689,10 @@ optimization**, charging control and task & process management.
 * **[Kernel Flasher](https://github.com/fatalcoder524/KernelFlasher) ⭐ 522 | 🐛 7 | 🌐 Kotlin | 📅 2026-07-01** - An Android app to flash (AK3 files), backup, and restore kernels. `FOSS`
 * **[Rv Kernel Manager](https://github.com/Rve27/RvKernel-Manager) ⭐ 258 | 🐛 11 | 🌐 Kotlin | 📅 2026-05-11** - A modern Kernel Manager with Material 3 Expressive Design. `FOSS` | [🌱](https://apt.izzysoft.de/fdroid/index/apk/com.rve.rvkernelmanager)
 * **[KonaBess Next](https://github.com/KonaBess-Next/KonaBess-Next) ⭐ 235 | 🐛 26 | 🌐 Kotlin | 📅 2026-09-27** - Fork of KonaBess, Custom GPU overclocking and undervolting tool with granulated voltage for rooted Snapdragon Android devices. `FOSS`
-* **[Minimal Kernel Manager](https://github.com/abhay-byte/mkm) ⭐ 168 | 🐛 9 | 🌐 Kotlin | 📅 2026-09-04** - Android kernel management and system monitoring application. `FOSS` | [🌱](https://f-droid.org/packages/com.ivarna.fluxlinux/)
+* **[Minimal Kernel Manager](https://github.com/abhay-byte/mkm) ⭐ 169 | 🐛 9 | 🌐 Kotlin | 📅 2026-09-04** - Android kernel management and system monitoring application. `FOSS` | [🌱](https://f-droid.org/packages/com.ivarna.fluxlinux/)
 * **[iUnlocker GLTool](https://github.com/i-Taylo/iUnlockerGL) ⭐ 107 | 🐛 17 | 🌐 Shell | 📅 2025-12-29** - Designed to spoof GPU information, allowing users to modify GPU information for unlocking graphics in games and testing. `FOSS` `[M]`
 * **[Zuan Kernel Manager](https://github.com/ZUANVFX01/ZKM/) ⭐ 101 | 🐛 2 | 🌐 Kotlin | 📅 2026-02-22** - Advanced Android kernel management tool, rebuilt from the Rve Kernel Manager project base with Material 3 Expressive Modern Style. `FOSS`
-* **[PerfMTK](https://github.com/JUANIMAN/PerfMTK) ⭐ 95 | 🐛 28 | 🌐 Shell | 📅 2026-09-28** - Designed to optimize performance and power efficiency on MediaTek devices with Mali GPUs. `FOSS` `[M]`
+* **[PerfMTK](https://github.com/JUANIMAN/PerfMTK) ⭐ 94 | 🐛 28 | 🌐 Shell | 📅 2026-09-28** - Designed to optimize performance and power efficiency on MediaTek devices with Mali GPUs. `FOSS` `[M]`
 * **[Kernel Enhancer](https://github.com/RAAJK20Pro/KernelEnhancer) ⭐ 58 | 🐛 0 | 📅 2026-06-18** - A Simple Kernel Parameters Optimization for all devices. `Proprietary` `[M]`
 * **[EX Kernel Manager](https://play.google.com/store/apps/details?id=flar2.exkernelmanager)** - Root tool for backup and flashing kernels, tweaking color, sound, gestures and other kernel settings. `Proprietary`
 * **[Franco Kernel Manager](https://play.google.com/store/apps/details?id=com.franco.kernel)** - A complete toolbox for all devices with a rich interface that combines everything you need to manage, tweak and empower your device. `Proprietary`
@@ -712,8 +712,8 @@ optimization**, charging control and task & process management.
 * **[MAGNETAR](https://github.com/Kyliekyler/MAGNETAR) ⭐ 312 | 🐛 1 | 🌐 Shell | 📅 2025-08-30** - Device Performance Optimizer - Aims To Provide An Optimal Experience At Every Usage Scenario. `FOSS` `[M]`
 * **[Hydrostellaire](https://github.com/AestasBritannia/Hydro-Br-leur) ⭐ 309 | 🐛 9 | 🌐 Shell | 📅 2026-04-18** - A magisk module for devices running on Dimensity flagship platforms and OnePlus, Realme devices. `FOSS` `[M]`
 * **[Androoster](https://github.com/cioccarellia/androoster) ⭐ 162 | 🐛 6 | 🌐 Kotlin | 📅 2025-03-17** - Android root tweak toolbox. It is built to help you tweak your device, keeping it cool, fast and responsive. `FOSS` | [🌱](https://apt.izzysoft.de/fdroid/index/apk/com.andreacioccarelli.androoster)
-* **[AZenith](https://github.com/Liliya2727/AZenith) ⭐ 133 | 🐛 5 | 🌐 Kotlin | 📅 2026-10-05** - All-In-One (AIO) system optimization module designed to enhance Android performance. `FOSS` `[M]` `[K]`
-* **[Stellar Tweaks](https://github.com/kanaodnd/Stellar-Tweaks) ⭐ 96 | 🐛 0 | 📅 2026-09-19** - Sophisticated scheduler designed to harmonize device performance and efficiency. `Proprietary` `[M]` `[K]` `[A]`
+* **[AZenith](https://github.com/Liliya2727/AZenith) ⭐ 133 | 🐛 5 | 🌐 Kotlin | 📅 2026-10-06** - All-In-One (AIO) system optimization module designed to enhance Android performance. `FOSS` `[M]` `[K]`
+* **[Stellar Tweaks](https://github.com/kanaodnd/Stellar-Tweaks) ⭐ 97 | 🐛 0 | 📅 2026-09-19** - Sophisticated scheduler designed to harmonize device performance and efficiency. `Proprietary` `[M]` `[K]` `[A]`
 * **[COPG-VD](https://github.com/VD171/COPG-VD) ⭐ 93 | 🐛 2 | 🌐 C++ | 📅 2026-10-05** - Fork of COPG with additional features and optimizations. `FOSS` `[M]` `[K]`
 * **[SpeedCool](https://github.com/Llucs/SpeedCool-Magisk-Module) ⚠️ Archived** - Boost, cool down, and optimize your Android with SpeedCool: less lag, more performance, and a cooler system. `FOSS` `[M]`
 * **[Dynamic System Tweaks Magisk Module](https://github.com/PS2ClassicsVault/Dynamic-System-Tweaks-Magisk-Module) ⭐ 48 | 🐛 1 | 🌐 Shell | 📅 2026-05-10** - Improves overall System performance without overheating and losing battery power for armeabi-v7a devices. `FOSS` `[M]`
@@ -723,7 +723,7 @@ optimization**, charging control and task & process management.
 ## Task & Process Management
 
 * **[TaskManager](https://github.com/RohitKushvaha01/TaskManager) ⭐ 665 | 🐛 5 | 🌐 C++ | 📅 2026-10-01** - Task Manager inspired from gnome system monitor for android.Must read [F-Droid inclusion](https://github.com/RohitKushvaha01/TaskManager/issues/24) ⭐ 665 | 🐛 5 | 🌐 C++ | 📅 2026-10-01 `FOSS` | [▶️](https://play.google.com/store/apps/details?id=com.rk.taskmanager)
-* **[Shappky](https://github.com/YasserNull/shappky) ⭐ 605 | 🐛 24 | 🌐 Kotlin | 📅 2026-08-25** - A simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions. `FOSS` `[M]`
+* **[Shappky](https://github.com/YasserNull/shappky) ⭐ 606 | 🐛 24 | 🌐 Kotlin | 📅 2026-08-25** - A simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions. `FOSS` `[M]`
 * **[No More Background](https://github.com/adil192/no_more_background) ⭐ 357 | 🐛 11 | 🌐 Dart | 📅 2026-10-01** - A fire-and-forget program to stop Android apps from running in the background. `FOSS` | [🌱](https://f-droid.org/en/packages/com.adilhanney.no_more_background/)
 * **[Appzuku](https://github.com/northmendo/Appzuku) ⭐ 194 | 🐛 1 | 🌐 Java | 📅 2026-03-29** - Simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions. `FOSS`
 * **[KillMyApps](https://github.com/dedeadend/KillMyApps) ⭐ 110 | 🐛 1 | 🌐 Java | 📅 2026-09-15** - Terminates background processes through root or Shizuku to free RAM and save battery, with scheduled auto-kill and a Quick Settings tile. `FOSS`
@@ -757,25 +757,25 @@ tracking, spoofing your device identity or location, and isolating apps from you
 * **[MACsposed](https://github.com/DavidBerdik/MACsposed) ⭐ 159 | 🐛 11 | 📅 2026-08-17** - Adds support for MAC Address spoofing to Android 12 through 15. `Proprietary` `[LSP]`
 * **[HideMyAndroid](https://github.com/Xposed-Modules-Repo/com.wowsoftware.hidemyandroid/) ⭐ 108 | 🐛 0 | 📅 2026-09-30** - Android anti-detect module with profile isolation and spoofing. `Proprietary` `[LSP]`
 * **[Geergit](https://github.com/pyshivam/geergit-discussion) ⭐ 70 | 🐛 14 | 📅 2026-05-03** - Change (MASKE) the various IDs in the Phone. `Proprietary` `[LSP]`
-* **[Privacy Kit](https://github.com/Xposed-Modules-Repo/com.sal.privacykit) ⭐ 65 | 🐛 0 | 📅 2026-09-30** - Per-app Android identifier spoofing for LSPosed. `Proprietary` `[LSP]`
+* **[Privacy Kit](https://github.com/Xposed-Modules-Repo/com.sal.privacykit) ⭐ 68 | 🐛 0 | 📅 2026-09-30** - Per-app Android identifier spoofing for LSPosed. `Proprietary` `[LSP]`
 * **[MAC Editor for Android](https://github.com/jqssun/android-mac-editor) ⭐ 64 | 🐛 5 | 🌐 Kotlin | 📅 2026-06-02** - Securely edit Wi-Fi MAC address on Android. `FOSS` `[LSP]`
 * **[Telephony Spoofer](https://github.com/BrianWalczak/TelephonySpoofer) ⭐ 52 | 🐛 0 | 🌐 Java | 📅 2026-03-07** - Spoof cellular information, including eSIM compatibility. `FOSS` `[LSP]`
 * **[SSAID (Android ID Modifier)](https://github.com/HSSkyBoy/AndroidIDChange) ⭐ 40 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-17** - A modern Android SSAID (Android ID) inspector, modifier, backup, and management utility. `FOSS` `[LSP]`
 * **[Mantle](https://github.com/get-mantle/Mantle) ⭐ 37 | 🐛 0 | 📅 2026-04-06** - Xposed module that masks hardware IDs, advertising IDs, build properties, carrier and SIM data, Wi-Fi/Bluetooth MACs and location per app. `Proprietary` `[LSP]`
 * **[Mantle Verify](https://github.com/get-mantle/Mantle-Verify) ⭐ 23 | 🐛 0 | 📅 2026-03-01** - Companion diagnostics app that shows the device, network and account identifiers regular apps can read, and confirms which spoofed values are active. `Proprietary`
-* **[Privacy Kit Lite](https://github.com/Mohithash/privacy-kit-lite) ⭐ 2 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-14** - Local-only per-app Android identifier spoofing with configurable LSPosed runtime hooks. `FOSS` `[LSP]` | [🌱](https://f-droid.org/en/packages/com.sal.privacykit.lite/)
+* **[Privacy Kit Lite](https://github.com/Mohithash/privacy-kit-lite) ⭐ 3 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-14** - Local-only per-app Android identifier spoofing with configurable LSPosed runtime hooks. `FOSS` `[LSP]` | [🌱](https://f-droid.org/en/packages/com.sal.privacykit.lite/)
 * **[Device Changer](https://deviceschanger.org)** - Configures device identifiers, build fingerprint, and OS properties per app via Zygisk for QA and compatibility testing. `Proprietary` `[M]`
 
 ## Location & GPS
 
-* **[XposedFakeLocation](https://github.com/noobexon1/XposedFakeLocation) ⭐ 715 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-02** - Allows you to spoof your device's location globally or for specific apps without using "mock location" from the developer options. `FOSS` `[LSP]`
-* **[Hide Mock Location](https://github.com/auag0/HideMockLocation) ⭐ 381 | 🐛 14 | 🌐 Kotlin | 📅 2026-05-12** - Hide Mock Location Settings. `FOSS` `[LSP]`
+* **[XposedFakeLocation](https://github.com/noobexon1/XposedFakeLocation) ⭐ 716 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-02** - Allows you to spoof your device's location globally or for specific apps without using "mock location" from the developer options. `FOSS` `[LSP]`
+* **[Hide Mock Location](https://github.com/auag0/HideMockLocation) ⭐ 382 | 🐛 14 | 🌐 Kotlin | 📅 2026-05-12** - Hide Mock Location Settings. `FOSS` `[LSP]`
 * **[GPS Setter](https://github.com/jqssun/android-gps-setter) ⭐ 290 | 🐛 0 | 🌐 Kotlin | 📅 2025-03-05** - Allows to mock locations for any specific app or entire system. `FOSS` `[LSP]` | [🌱](https://f-droid.org/packages/io.github.jqssun.gpssetter)
 * **[Location Joystick](https://github.com/fzer0x/LocationJoystick) ⭐ 171 | 🐛 0 | 📅 2026-09-09** - Realtime Location Spoofer by using a Overlay Joystick to control the mock location. `Proprietary` `[LSP]`
 * **[AnyWhere](https://github.com/cxOrz/AnyWhere) ⭐ 90 | 🐛 1 | 🌐 Java | 📅 2026-10-02** - Location simulation tool for debugging LBS applications and for users to test geolocation functionality. `FOSS` `[LSP]`
-* **[HLocation](https://github.com/sparr-sherrya/hlocation-release) ⭐ 74 | 🐛 7 | 🌐 Kotlin | 📅 2026-10-03** - Location spoofing framework that synchronizes fake GPS and related environment signals across system and app processes for more consistent location virtualization. `FOSS` `[LSP]`
+* **[HLocation](https://github.com/sparr-sherrya/hlocation-release) ⭐ 73 | 🐛 7 | 🌐 Kotlin | 📅 2026-10-06** - Location spoofing framework that synchronizes fake GPS and related environment signals across system and app processes for more consistent location virtualization. `FOSS` `[LSP]`
 * **[Location Indicator Whitelist](https://github.com/gilbsgilbs/LocationIndicatorWhitelist) ⭐ 53 | 🐛 11 | 🌐 Kotlin | 📅 2026-09-24** - Prevents applications from spamming the annoying location notification dot on Android 12 +. `FOSS` `[LSP]`
-* **[FakeGPS-next](https://github.com/Elysia-SHY/FakeGPS-next) ⭐ 36 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-21** - Virtual positioning and road cruise simulation tool for Android. `FOSS` `[LSP]`
+* **[FakeGPS-next](https://github.com/Elysia-SHY/FakeGPS-next) ⭐ 37 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-21** - Virtual positioning and road cruise simulation tool for Android. `FOSS` `[LSP]`
 * **[LocationMax](https://github.com/Xposed-Modules-Repo/com.huaMax) ⭐ 21 | 🐛 0 | 📅 2026-09-15** - Location simulation module for rooted Android devices using LSPosed/Xposed. `Proprietary` `[LSP]`
 
 ## Privacy Tools
@@ -783,8 +783,8 @@ tracking, spoofing your device identity or location, and isolating apps from you
 * **[⭐ Amarok](https://github.com/deltazefiro/Amarok-Hider) ⭐ 3,280 | 🐛 63 | 🌐 Java | 📅 2026-08-11** - Android application which enables you to hide your private files and apps with a single click. `FOSS` | [🌱](https://f-droid.org/zh_Hans/packages/deltazero.amarok.foss/)
 * **[Tarnhelm](https://github.com/lz233/Tarnhelm) ⭐ 788 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-13** - The magic to clean sharing links up. `FOSS` `[LSP]`
 * **[IAmNotADeveloper](https://github.com/xfqwdsj/IAmNotADeveloper) ⭐ 610 | 🐛 11 | 🌐 Kotlin | 📅 2026-10-05** - Hide Android developer-related switches status. `FOSS` `[LSP]`
-* **[FuseFixer](https://github.com/5ec1cff/FuseFixer) ⭐ 445 | 🐛 1 | 🌐 C | 📅 2026-04-14** - Hooks the MediaProvider Fuse Daemon to stop apps probing package existence through `Android/data` directory quirks (Unicode casefold tricks). `FOSS` `[LSP]`
-* **[FuseHide](https://github.com/XiaoTong6666/FuseHide) ⭐ 329 | 🐛 4 | 🌐 C++ | 📅 2026-10-05** - Hides chosen storage paths from MediaProvider on Android 12+ at runtime, and debugs/fixes `Android/data` Unicode casefold scenarios. `FOSS` `[LSP]`
+* **[FuseFixer](https://github.com/5ec1cff/FuseFixer) ⭐ 446 | 🐛 1 | 🌐 C | 📅 2026-04-14** - Hooks the MediaProvider Fuse Daemon to stop apps probing package existence through `Android/data` directory quirks (Unicode casefold tricks). `FOSS` `[LSP]`
+* **[FuseHide](https://github.com/XiaoTong6666/FuseHide) ⭐ 330 | 🐛 4 | 🌐 C++ | 📅 2026-10-05** - Hides chosen storage paths from MediaProvider on Android 12+ at runtime, and debugs/fixes `Android/data` Unicode casefold scenarios. `FOSS` `[LSP]`
 * **[PrivacyFlip](https://github.com/dorumrr/privacyflip) ⭐ 317 | 🐛 3 | 🌐 Kotlin | 📅 2026-09-30** - Automatically disables/enables Wi-Fi, Bluetooth, mobile data, location services, NFC, and even camera/microphone sensors based on lock/unlock state. `FOSS` | [🌱](https://f-droid.org/packages/io.github.dorumrr.privacyflip/)
 * **[Do Not Try Accessibility](https://github.com/Nitsuya/DoNotTryAccessibility) ⭐ 209 | 🐛 8 | 🌐 Kotlin | 📅 2025-01-23** - Hook System Framework makes the app think that accessibility services are not enabled. `FOSS` `[LSP]`
 * **[Transparent Screenshot](https://github.com/Dszsu/Transparent_screenshot) ⭐ 57 | 🐛 0 | 🌐 Java | 📅 2026-09-18** - Hide the application window during screenshots, screen recording, and screen casting. `FOSS` `[LSP]`
@@ -809,10 +809,10 @@ firewalls for hardening your device, controlling which apps can reach the networ
 
 * **[PCAPdroid](https://github.com/emanuele-f/PCAPdroid#pcapdroid) ⭐ 4,863 | 🐛 42 | 🌐 Java | 📅 2026-09-26** - Lets you track, analyze and block the connections made by the other apps in your device. `FOSS` | [🌱](https://f-droid.org/packages/com.emanuelef.remote_capture) | [▶️](https://play.google.com/store/apps/details?id=com.emanuelef.remote_capture)
 * **[NetGuard](https://github.com/M66B/NetGuard) ⭐ 3,907 | 🐛 1 | 🌐 Java | 📅 2026-08-01** - Block access to the internet. Apps and addresses can individually be allowed or denied access to your Wi-Fi and/or mobile connection. `FOSS`
-* **[AFWall+](https://github.com/ukanth/afwall) ⭐ 3,486 | 🐛 223 | 🌐 Java | 📅 2026-10-04** - Iptables-based firewall. `FOSS` | [🌱](https://f-droid.org/packages/dev.ukanth.ufirewall/) | [▶️](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall)
-* **[ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) ⭐ 2,320 | 🐛 4 | 🌐 Kotlin | 📅 2026-10-03** - Android firewall without VPN powered by Shizuku / local ADB daemon / Root. `FOSS` | [🌱](https://f-droid.org/packages/com.arslan.shizuwall/) | [▶️](https://play.google.com/store/apps/details?id=com.arslan.shizuwall)
+* **[AFWall+](https://github.com/ukanth/afwall) ⭐ 3,487 | 🐛 223 | 🌐 Java | 📅 2026-10-06** - Iptables-based firewall. `FOSS` | [🌱](https://f-droid.org/packages/dev.ukanth.ufirewall/) | [▶️](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall)
+* **[ShizuWall](https://github.com/AhmetCanArslan/ShizuWall) ⭐ 2,324 | 🐛 4 | 🌐 Kotlin | 📅 2026-10-03** - Android firewall without VPN powered by Shizuku / local ADB daemon / Root. `FOSS` | [🌱](https://f-droid.org/packages/com.arslan.shizuwall/) | [▶️](https://play.google.com/store/apps/details?id=com.arslan.shizuwall)
 * **[Athena](https://github.com/Kin69/Athena) ⭐ 716 | 🐛 42 | 🌐 Kotlin | 📅 2026-01-26** - Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices. `FOSS` | [▶️](https://play.google.com/store/apps/details?id=com.kin.athena)
-* **[De1984 Firewall](https://github.com/dorumrr/de1984) ⭐ 440 | 🐛 12 | 🌐 Kotlin | 📅 2026-09-27** - A privacy-focused Firewall and Package Manager for Android devices. `FOSS` | [🌱](https://apt.izzysoft.de/fdroid/index/apk/io.github.dorumrr.de1984)
+* **[De1984 Firewall](https://github.com/dorumrr/de1984) ⭐ 442 | 🐛 12 | 🌐 Kotlin | 📅 2026-09-27** - A privacy-focused Firewall and Package Manager for Android devices. `FOSS` | [🌱](https://apt.izzysoft.de/fdroid/index/apk/io.github.dorumrr.de1984)
 * **[Net Switch](https://github.com/Rem01Gaming/net-switch) ⭐ 329 | 🐛 3 | 🌐 JavaScript | 📅 2025-11-08** - Isolate any app from Internet access. `FOSS` `[M]`
 * **[Fyrypt](https://github.com/mirfatif/Fyrypt) ⭐ 82 | 🐛 2 | 📅 2026-09-26** - Android firewall with UID + PID rules, dnscrypt-proxy management, and per-app live network monitoring. `Proprietary`
 
@@ -822,28 +822,28 @@ firewalls for hardening your device, controlling which apps can reach the networ
 >
 > **FLAG\_SECURE** is a window-level security flag in Android that **prevents the window's content from appearing in screenshots** or being captured during screen recordings.
 
-* **[Always Trust User Certs](https://github.com/NVISOsecurity/AlwaysTrustUserCerts) ⭐ 2,576 | 🐛 10 | 🌐 Shell | 📅 2025-06-24** - A Magisk/KernelSU module that automatically adds user certificates to the system root CA store. `FOSS` `[M]` `[K]`
+* **[Always Trust User Certs](https://github.com/NVISOsecurity/AlwaysTrustUserCerts) ⭐ 2,578 | 🐛 10 | 🌐 Shell | 📅 2025-06-24** - A Magisk/KernelSU module that automatically adds user certificates to the system root CA store. `FOSS` `[M]` `[K]`
 * **[⭐ Move Certificate](https://github.com/ys1231/MoveCertificate) ⭐ 1,986 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-02** - Move user certificates to system certificates. Supports Android 7-16. `FOSS` `[M]` `[K]`
-* **[StrykerOSS](https://github.com/zalexdev/strykerapp) ⭐ 1,740 | 🐛 13 | 🌐 Java | 📅 2026-10-03** - Bundles a curated set of network, wireless and web security tools into a single rooted-Android application for penetration testing. `FOSS`
-* **[SafetyCore Placeholder](https://github.com/daboynb/Safetycore-placeholder) ⭐ 1,411 | 🐛 0 | 📅 2026-09-28** - Placeholder APK that keeps Google SafetyCore from being installed or updated again, thanks to a signature mismatch. `FOSS`
-* **[⭐ Enable Screenshot](https://github.com/LSPosed/DisableFlagSecure) ⭐ 1,351 | 🐛 8 | 🌐 Java | 📅 2026-09-28** - Enabling screenshots in apps that normally wouldn't allow it, and disabling screenshot(Android 14+) and screen record(Android 15+) detection. `FOSS` `[LSP]`
+* **[StrykerOSS](https://github.com/zalexdev/strykerapp) ⭐ 1,745 | 🐛 14 | 🌐 Java | 📅 2026-10-03** - Bundles a curated set of network, wireless and web security tools into a single rooted-Android application for penetration testing. `FOSS`
+* **[SafetyCore Placeholder](https://github.com/daboynb/Safetycore-placeholder) ⭐ 1,410 | 🐛 0 | 📅 2026-09-28** - Placeholder APK that keeps Google SafetyCore from being installed or updated again, thanks to a signature mismatch. `FOSS`
+* **[⭐ Enable Screenshot](https://github.com/LSPosed/DisableFlagSecure) ⭐ 1,352 | 🐛 9 | 🌐 Java | 📅 2026-09-28** - Enabling screenshots in apps that normally wouldn't allow it, and disabling screenshot(Android 14+) and screen record(Android 15+) detection. `FOSS` `[LSP]`
 * **[⭐ Flag Secure Patcher](https://github.com/j-hc/FlagSecurePatcher) ⚠️ Archived** - Patch service.jar on device to disable secure lock and screenshot listeners. `FOSS` `[M]`
 * **[CaptureSposed](https://github.com/99keshav99/CaptureSposed) ⭐ 309 | 🐛 3 | 🌐 Kotlin | 📅 2026-10-05** - Disables the newly introduced screenshot detection API in Android 14. `FOSS` `[LSP]`
 * **[Cert-Fixer](https://github.com/pwnlogs/cert-fixer) ⭐ 290 | 🐛 0 | 🌐 Shell | 📅 2026-07-07** - Installs custom CA certificates to Android's system certificate store. `FOSS` `[M]`
 * **[DriFiCrack](https://github.com/ZeltNamizake/DriFiCrack) ⚠️ Archived** - Brute Force Tool to Crack Wi-Fi Passwords. `FOSS` `[M]`
 * **[ih8SecureLock](https://github.com/j-hc/ih8SecureLock) ⭐ 200 | 🐛 2 | 🌐 C++ | 📅 2026-09-24** - Prevent apps from blocking and listening to your screenshots with Zygisk. `FOSS` `[M]` `[K]`
-* **[AlternativeUnlockXposed](https://github.com/leohearts/AlternativeUnlockXposed) ⭐ 195 | 🐛 9 | 🌐 Kotlin | 📅 2026-09-24** - Unlock your Android phone with an alternative PIN. `FOSS` `[LSP]`
+* **[AlternativeUnlockXposed](https://github.com/leohearts/AlternativeUnlockXposed) ⭐ 195 | 🐛 11 | 🌐 Kotlin | 📅 2026-09-24** - Unlock your Android phone with an alternative PIN. `FOSS` `[LSP]`
 * **[Zygisk Cacerts](https://github.com/vvb2060/zygisk_cacerts) ⭐ 195 | 🐛 0 | 🌐 C++ | 📅 2026-01-14** - Zygisk module that replaces the local root certificate store with the AOSP CA certificate list. `Proprietary` `[M]` `[K]`
-* **[TapDucky](https://github.com/iodn/tap-ducky) ⭐ 177 | 🐛 8 | 🌐 Dart | 📅 2026-05-17** - Open-source DuckyScript runner for rooted Android with USB Gadget (ConfigFS) support. `FOSS`  | [🌱](https://f-droid.org/en/packages/org.kaijinlab.tap_ducky/)
+* **[TapDucky](https://github.com/iodn/tap-ducky) ⭐ 177 | 🐛 9 | 🌐 Dart | 📅 2026-05-17** - Open-source DuckyScript runner for rooted Android with USB Gadget (ConfigFS) support. `FOSS`  | [🌱](https://f-droid.org/en/packages/org.kaijinlab.tap_ducky/)
 * **[Just Trust Me Pro](https://github.com/hang666/JustTrustMePro) ⭐ 172 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-27** - Disables SSL certificate checking for the purposes of auditing an app with cert pinning. `FOSS` `[M]`
 * **[⭐ SSL Killer](https://github.com/Xposed-Modules-Repo/com.simo.ssl.killer) ⭐ 170 | 🐛 0 | 📅 2026-08-04** - Bypass multiple ssl pinning implementations. `Proprietary` `[LSP]`
 * **[Biometric Bypass Module](https://github.com/hxreborn/biometric-bypass) ⭐ 147 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-01** - Fast-forwards face unlock by skipping the biometric confirmation step in System UI on Android 10+. `FOSS` `[LSP]` | [🌱](https://f-droid.org/packages/eu.rafareborn.biometricbypass)
+* **[Simple Flag Secure](https://github.com/ShivamXD6/Simple-Flag-Secure) ⭐ 133 | 🐛 1 | 🌐 Java | 📅 2026-09-27** - Disable Secure Flag and allow taking screenshots/screen recording in apps supports KSU/APatch . `FOSS` `[M]` `[K]`
 * **[Anti SafetyCore](https://github.com/Astoritin/AntiSafetyCore) ⭐ 132 | 🐛 1 | 🌐 Shell | 📅 2026-04-21** - Blocks Google from quietly installing Android System SafetyCore and Android System Key Verifier by holding the package names with differently signed placeholder apps. `FOSS` `[M]` `[K]` `[A]`
 * **[OneShot Extended](https://github.com/chickendrop89/OneShot-Extended) ⭐ 130 | 🐛 0 | 🌐 Python | 📅 2026-07-14** - Performs various WPS attacks without the requirement of monitor mode. `FOSS` `[M]` `[K]`
-* **[Simple Flag Secure](https://github.com/ShivamXD6/Simple-Flag-Secure) ⭐ 130 | 🐛 1 | 🌐 Java | 📅 2026-09-27** - Disable Secure Flag and allow taking screenshots/screen recording in apps supports KSU/APatch . `FOSS` `[M]` `[K]`
 * **[Custom Certificate Authorities](https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities) ⭐ 92 | 🐛 3 | 🌐 Shell | 📅 2026-06-15** - Moves user-installed certificate authorities into the system trust store, making them trusted by all apps. `FOSS` `[M]`
 * **[Android-FlagSecure-Disabler](https://github.com/BlassGO/Android-FlagSecure-Disabler) ⭐ 76 | 🐛 1 | 🌐 Shell | 📅 2026-05-13** - FlagSecure Disabler, Screenshot Observer Disabler & DRM Disabler. `FOSS` `[M]` `[K]`
-* **[Biometric App Lock](https://github.com/hxreborn/biometric-app-lock) ⭐ 61 | 🐛 3 | 🌐 Kotlin | 📅 2026-10-05** - Locks apps you choose behind fingerprint or face unlock. `FOSS` `[LSP]`
+* **[Biometric App Lock](https://github.com/hxreborn/biometric-app-lock) ⭐ 62 | 🐛 3 | 🌐 Kotlin | 📅 2026-10-05** - Locks apps you choose behind fingerprint or face unlock. `FOSS` `[LSP]`
 * **[Disable usb debugging](https://github.com/Aakif17/disable_usb_debugging) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2025-03-12** - Disables USB Debugging after every reboot. `FOSS` `[M]`
 * **[Custom Certificates](https://github.com/YujiaCheng1996/custom-certificates) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-19** - A Magisk/KernelSU module which adds custom certificates to the system trust store. `FOSS` `[M]` `[K]`
 * **[PinGuard](https://github.com/khiqwq/PinGuard/blob/main/README_EN.md) ⭐ 2 | 🐛 0 | 🌐 Kotlin | 📅 2026-04-17** - LSPosed module that requires fingerprint / password to unpin screen-pinned apps. `FOSS` `[LSP]`
@@ -859,13 +859,13 @@ hosts/DNS-based tools that block ads, trackers and malware system-wide, in every
 
 ## Ad & Tracker Blocking
 
-* **[⭐ AdAway](https://github.com/AdAway/AdAway) ⭐ 9,474 | 🐛 679 | 🌐 C | 📅 2026-09-13** - Open-source ad blocker using the hosts file. Blocks ads without permissions. `FOSS` | [🌱](https://f-droid.org/packages/org.adaway)
-* **[BlockAds](https://github.com/pass-with-high-score/blockads-android) ⭐ 2,144 | 🐛 69 | 🌐 Kotlin | 📅 2026-10-05** - System‑wide ad, tracker, & malware filtering, custom blocklists, per‑app controls etc. `FOSS` | [🌱](https://f-droid.org/packages/app.pwhs.blockads)
-* **[⭐ Bindhosts](https://github.com/bindhosts/bindhosts) ⭐ 1,456 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-04** - Systemless hosts for APatch, KernelSU and Magisk that is fully standalone and self-updating. `FOSS` `[M]` `[K]`
+* **[⭐ AdAway](https://github.com/AdAway/AdAway) ⭐ 9,475 | 🐛 679 | 🌐 C | 📅 2026-09-13** - Open-source ad blocker using the hosts file. Blocks ads without permissions. `FOSS` | [🌱](https://f-droid.org/packages/org.adaway)
+* **[BlockAds](https://github.com/pass-with-high-score/blockads-android) ⭐ 2,146 | 🐛 73 | 🌐 Kotlin | 📅 2026-10-06** - System‑wide ad, tracker, & malware filtering, custom blocklists, per‑app controls etc. `FOSS` | [🌱](https://f-droid.org/packages/app.pwhs.blockads)
+* **[⭐ Bindhosts](https://github.com/bindhosts/bindhosts) ⭐ 1,458 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-04** - Systemless hosts for APatch, KernelSU and Magisk that is fully standalone and self-updating. `FOSS` `[M]` `[K]`
 * **[Systemless hosts KernelSU module](https://github.com/symbuzzer/systemless-hosts-KernelSU-module) ⭐ 644 | 🐛 9 | 🌐 Shell | 📅 2025-09-26** - Required module to use applications such as AdAway on KernelSU and APatch. `FOSS` `[K]`
 * **[Magisk Ad Blocking Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) ⭐ 569 | 🐛 18 | 📅 2026-10-05** - Block ads on android. `FOSS` `[M]`
 * **[AdClose](https://github.com/Xposed-Modules-Repo/com.close.hook.ads/) ⭐ 551 | 🐛 4 | 📅 2026-04-08** - Prevents the initial loading of the advertising SDK within the application and intercepts application advertising requests to block ads. `Proprietary` `[LSP]`
-* **[F\*ck AD](https://github.com/hujiayucc/Fuck-AD) ⭐ 501 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-15** - Ad-blocking Xposed module. `FOSS` `[LSP]`
+* **[F\*ck AD](https://github.com/hujiayucc/Fuck-AD) ⭐ 500 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-15** - Ad-blocking Xposed module. `FOSS` `[LSP]`
 * **[Re-Malwack](https://github.com/ZG089/Re-Malwack) ⭐ 461 | 🐛 3 | 🌐 C | 📅 2026-09-24** - A fully-fledged ad-block module. Contains all your needs. `FOSS` `[M]`
 * **[StevenBlock](https://github.com/mikropsoft/StevenBlock) ⭐ 300 | 🐛 2 | 🌐 Shell | 📅 2026-04-25** - Ad Blocking Module for Android supporting Magisk, KernelSU and APatch. `FOSS` `[M]`
 * **[BlockAds Module](https://github.com/pantsufan/BlockAds) ⭐ 214 | 🐛 2 | 📅 2026-10-01** - BlockAds is an advertisement blocking Magisk module. `FOSS` `[M]` `[K]`
@@ -884,7 +884,7 @@ hosts/DNS-based tools that block ads, trackers and malware system-wide, in every
 
 ## DNS & Network Filtering
 
-* **[AdGuardHome for Root](https://github.com/twoone-3/AdGuardHomeForRoot/blob/main/README_en.md#adguardhome-for-root) ⭐ 1,447 | 🐛 12 | 🌐 Shell | 📅 2026-08-25** - A module to easily execute AdGuardHome on Android. `FOSS` `[M]`
+* **[AdGuardHome for Root](https://github.com/twoone-3/AdGuardHomeForRoot/blob/main/README_en.md#adguardhome-for-root) ⭐ 1,448 | 🐛 12 | 🌐 Shell | 📅 2026-08-25** - A module to easily execute AdGuardHome on Android. `FOSS` `[M]`
 * **[personalDNSfilter](https://github.com/IngoZenz/personaldnsfilter) ⭐ 949 | 🐛 66 | 🌐 Java | 📅 2026-09-26** - A DNS filter proxy that provides local filtering of ads, malware, and tracking servers, supporting secure DNS protocols like DOH and DOT for enhanced privacy. `FOSS` | [🌱](https://f-droid.org/packages/dnsfilter.android/)
 * **[Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) ⭐ 654 | 🐛 0 | 🌐 Shell | 📅 2025-12-26** - Pi-hole/Unbound Raspbian APK installer for Android 5.0+ devices. `FOSS`
 * **[DNS Toggle](https://github.com/ELowry/DNSToggle) ⭐ 129 | 🐛 1 | 🌐 Kotlin | 📅 2026-10-04** - A tiny Android app that allows you to easily toggle your phone's Private DNS through the Quick Settings panel. `FOSS`
@@ -905,7 +905,7 @@ that change app behavior. Root (or LSPosed) is required for most entries.
 
 ## App Patchers
 
-* **[ReVanced Magisk Module by j-hc](https://github.com/j-hc/revanced-magisk-module) ⭐ 7,654 | 🐛 3 | 🌐 Shell | 📅 2026-10-04** - Extensive ReVanced & morphe builder. `FOSS` `[M]` `[K]`
+* **[ReVanced Magisk Module by j-hc](https://github.com/j-hc/revanced-magisk-module) ⭐ 7,655 | 🐛 3 | 🌐 Shell | 📅 2026-10-04** - Extensive ReVanced & morphe builder. `FOSS` `[M]` `[K]`
 * **[ReVanced Extended](https://github.com/NoName-exe/revanced-extended) ⭐ 4,223 | 🐛 4 | 🌐 Shell | 📅 2026-10-03** - ReVanced eXtended (now Morphe) YT and YT-M for both root and non-root users. `FOSS` `[M]` `[K]`
 * **[NexAlloy](https://github.com/NexAlloy/NexAlloy) ⭐ 3,032 | 🐛 3 | 🌐 Kotlin | 📅 2026-10-05** - ChsBuffer's LSPosed module, powered by Morphe, ReVanced supporting multiple apps. `FOSS` `[LSP]`
 * **[⭐ Morphe](https://morphe.software/)** - A next-generation app patcher built by some of the original ReVanced developers. It offers a modern interface, enhanced stability, and a growing list of supported apps and features. `FOSS`
@@ -921,24 +921,24 @@ that change app behavior. Root (or LSPosed) is required for most entries.
 * **[Keyboard GPT](https://github.com/Mino260806/KeyboardGPT) ⭐ 703 | 🐛 20 | 🌐 Java | 📅 2025-08-18** - Lets you integrate Generative AI like ChatGPT in keyboard. `FOSS` `[LSP]`
 * **[Rboard Theme Manager](https://github.com/DerTyp7214/RboardThemeManagerV3) ⚠️ Archived** - A customizable manager app for Google Gboard that allows users to download, apply, and manage various themes and sound settings. `FOSS` `[LSP]`
 * **[Deekseep](https://github.com/lllucccian/Deekseep) ⭐ 430 | 🐛 8 | 🌐 Java | 📅 2026-09-22** - Adds account, chat, image, interface, and local API tools to the official DeepSeek Android app. `FOSS` `[LSP]`
-* **[⭐ GPhotosUnlimited](https://github.com/Rev4N1/GPhotosUnlimited) ⭐ 398 | 🐛 1 | 🌐 C++ | 📅 2026-10-03** - A Zygisk module which gives unlimited Google Photos storage. `FOSS` `[M]` `[K]`
+* **[⭐ GPhotosUnlimited](https://github.com/Rev4N1/GPhotosUnlimited) ⭐ 399 | 🐛 1 | 🌐 C++ | 📅 2026-10-03** - A Zygisk module which gives unlimited Google Photos storage. `FOSS` `[M]` `[K]`
 * **[Spotify Plus](https://github.com/LeNerd46/SpotifyPlus) ⭐ 254 | 🐛 14 | 🌐 Java | 📅 2026-10-05** - Adds beautiful lyrics to Spotify. `FOSS` `[LSP]`
-* **[Nexus](https://github.com/niki914/agentic-nexus) ⭐ 224 | 🐛 29 | 🌐 Kotlin | 📅 2026-10-05** - Plug your own model into your phone's voice assistant. `Proprietary` `[LSP]`
+* **[Nexus](https://github.com/niki914/agentic-nexus) ⭐ 225 | 🐛 30 | 🌐 Kotlin | 📅 2026-10-05** - Plug your own model into your phone's voice assistant. `Proprietary` `[LSP]`
 * **[Xposed Translate Text](https://github.com/tianci-sh/XPTranslateText) ⭐ 190 | 🐛 13 | 🌐 Java | 📅 2025-12-16** - Translate text by MLKit / gemini2.0 / google api. `FOSS` `[LSP]`
-* **[Breeno Source Changer](https://github.com/Xposed-Modules-Repo/com.niki.breeno.openai/tree/main) ⭐ 165 | 🐛 1 | 📅 2026-10-01** - Allows ColorOS's Breeno Assistant to change its AI model source and customize large language model (LLM) APIs. `FOSS` `[LSP]`
-* **[GboardHook](https://github.com/chenyue404/GboardHook) ⭐ 137 | 🐛 2 | 🌐 Kotlin | 📅 2026-06-14** - Modifies the number of clipboard items displayed and their expiration time. `FOSS` `[LSP]`
+* **[Breeno Source Changer](https://github.com/Xposed-Modules-Repo/com.niki.breeno.openai/tree/main) ⭐ 166 | 🐛 1 | 📅 2026-10-01** - Allows ColorOS's Breeno Assistant to change its AI model source and customize large language model (LLM) APIs. `FOSS` `[LSP]`
+* **[GboardHook](https://github.com/chenyue404/GboardHook) ⭐ 137 | 🐛 3 | 🌐 Kotlin | 📅 2026-06-14** - Modifies the number of clipboard items displayed and their expiration time. `FOSS` `[LSP]`
 * **[E-Government Liberator](https://github.com/Crazyphil/digitales-amt-liberator) ⭐ 112 | 🐛 15 | 🌐 Kotlin | 📅 2025-01-12** - Removes root and bootloader checks from e-government apps. `FOSS` `[LSP]`
 * **[Play Store Adblock](https://github.com/hxreborn/playstore-adblock) ⭐ 98 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-05** - Xposed module to remove sponsored listings and ads from the Google Play Store. `FOSS` `[LSP]`
+* **[AmznKiller](https://github.com/hxreborn/amznkiller) ⭐ 89 | 🐛 6 | 🌐 Kotlin | 📅 2026-10-05** - Hides sponsored content and ads in the Amazon Shopping app. `FOSS` `[LSP]`
 * **[KGPT](https://github.com/eluea/KGPT) ⭐ 89 | 🐛 7 | 🌐 Java | 📅 2026-08-25** - LSPosed Module to integrate Generative AI like ChatGPT in keyboard. `FOSS` `[LSP]`
-* **[AmznKiller](https://github.com/hxreborn/amznkiller) ⭐ 88 | 🐛 6 | 🌐 Kotlin | 📅 2026-10-05** - Hides sponsored content and ads in the Amazon Shopping app. `FOSS` `[LSP]`
 * **[Pixel Mask](https://github.com/kinginu/PixelMask) ⭐ 86 | 🐛 43 | 🌐 Kotlin | 📅 2026-06-11** - Spoofs a Pixel device profile inside Google Photos to unlock Pixel-only perks on any rooted Android phone. `FOSS` `[LSP]`
 * **[XposedPhotosFix](https://github.com/RevealedSoulEven/XposedPhotosFIX) ⭐ 73 | 🐛 0 | 🌐 Java | 📅 2026-08-05** - Prevents Google Photos app from merging all folders into Camera and creates separate albums for each folder, useful for backups. `FOSS` `[LSP]`
 * **[Pixelify Infinity](https://github.com/samson910022/pixelify-google-photos-modern) ⭐ 68 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-24** - Xposed module to enable Pixel-exclusive features in Google Photos. `FOSS` `[LSP]`
 * **[Yandex Maps Patcher](https://github.com/Xposed-Modules-Repo/ru.bluecat.yandexmapspatcher) ⭐ 68 | 🐛 0 | 📅 2026-07-26** - Hides ads and intrusive services in the Yandex Maps app. `Proprietary` `[LSP]`
 * **[F\*\*k Solid Explorer](https://github.com/fzer0x/dev.fzer0x.fucksolidexplorer) ⭐ 45 | 🐛 0 | 🌐 Kotlin | 📅 2026-01-23** - Unlock premium features and remove advertisements from Solid Explorer. `FOSS` `[LSP]`
 * **[Gboard Material Expressive Black](https://github.com/hxreborn/gboard-material-expressive-black) ⭐ 38 | 🐛 3 | 🌐 Kotlin | 📅 2026-10-01** - Enables pitch black Gboard background on Android 16 dynamic theme. `FOSS` `[LSP]`
-* **[MiFitnessAdAway](https://github.com/hao1196561270/MiFitnessAdAway) ⭐ 36 | 🐛 2 | 🌐 Java | 📅 2026-09-16** - Remove ads from Xiaomi Mi Fitness (Xiaomi Sports & Health, com.mi.health 3.0+). `FOSS` `[LSP]`
-* **[Spicy EX](https://github.com/amarinne/spicy-ex) ⭐ 35 | 🐛 0 | 🌐 Java | 📅 2026-10-05** - Adds Spicy lyrics in Spotify along with translation and much more UI features. `FOSS` `[LSP]`
+* **[MiFitnessAdAway](https://github.com/hao1196561270/MiFitnessAdAway) ⭐ 37 | 🐛 2 | 🌐 Java | 📅 2026-09-16** - Remove ads from Xiaomi Mi Fitness (Xiaomi Sports & Health, com.mi.health 3.0+). `FOSS` `[LSP]`
+* **[Spicy EX](https://github.com/amarinne/spicy-ex) ⭐ 36 | 🐛 0 | 🌐 Java | 📅 2026-10-05** - Adds Spicy lyrics in Spotify along with translation and much more UI features. `FOSS` `[LSP]`
 * **[Enhance Google Phone](https://github.com/Rove24/EnhanceGooglePhone) ⭐ 31 | 🐛 0 | 🌐 Java | 📅 2026-10-04** - Natively unlocks full-function call recording, and other features in the Google Phone app. `FOSS` `[LSP]`
 * **[KeyFlux](https://github.com/NawafCode/KeyFlux) ⭐ 24 | 🐛 4 | 🌐 Kotlin | 📅 2026-07-02** - Customize Google Gboard, exposing selected hidden features, and adding clipboard-related enhancements. `FOSS` `[LSP]`
 * **[NSG Tweaks](https://github.com/h3nnes/nsg-tweaks) ⭐ 22 | 🐛 0 | 🌐 Java | 📅 2026-09-19** - Extends [NSG (QuickTest) ↗](https://play.google.com/store/apps/details?id=com.qtrun.QuickTest) with additional columns, rows, signaling tools, and log-replay improvements. `Proprietary` `[LSP]`
@@ -951,17 +951,17 @@ that change app behavior. Root (or LSPosed) is required for most entries.
 
 ## Browser Mods
 
-* **[BetterVia](https://github.com/JiGuroLGC/BetterVia) ⭐ 1,361 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-30** - Bypass whitelist restrictions, Screenshot protection, Block components, One-tap theme switching etc. `FOSS` `[LSP]`
+* **[BetterVia](https://github.com/JiGuroLGC/BetterVia) ⭐ 1,362 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-30** - Bypass whitelist restrictions, Screenshot protection, Block components, One-tap theme switching etc. `FOSS` `[LSP]`
 * **[⭐ ChromeXt](https://github.com/JingMatrix/ChromeXt) ⭐ 1,142 | 🐛 30 | 🌐 Kotlin | 📅 2026-08-20** - UserScript and DevTools support for Chromium-based and WebView-based browsers. `FOSS` `[LSP]`
 * **[EdgeX](https://github.com/SoClear/EdgeX) ⭐ 160 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-29** - An Xposed module for Microsoft Edge on Android, designed to enhance your browsing experience with UI tweaks and functional improvements. `FOSS` `[LSP]`
 * **[FoldDevtools](https://github.com/achyuki/FoldDevtools) ⭐ 46 | 🐛 1 | 🌐 Kotlin | 📅 2025-11-04** - Using chrome devtools to debug webview on Android. `FOSS` `[LSP]`
-* **[Fxxk-MiBrowser](https://github.com/DuhMatt/Fxxk-MiBrowser) ⭐ 35 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-05** - Redirects forced Xiaomi Browser links to the system default browser. `FOSS` `[LSP]`
+* **[Fxxk-MiBrowser](https://github.com/DuhMatt/Fxxk-MiBrowser) ⭐ 35 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-06** - Redirects forced Xiaomi Browser links to the system default browser. `FOSS` `[LSP]`
 
 ## Signature & Verification
 
 * **[⭐ Core Patch N](https://github.com/LSPosed/CorePatch) ⭐ 3,423 | 🐛 10 | 🌐 Kotlin | 📅 2026-07-26** - Disable signature verification For Android. `FOSS` `[LSP]`
-* **[⭐ Pairipfix](https://github.com/ahmedmani/pairipfix) ⭐ 685 | 🐛 20 | 🌐 Java | 📅 2026-04-20** - Bypasses the "Get this app from Play" screen that appears when installing Android apps as an APK instead of from the Google Play Store. `FOSS` `[LSP]`
-* **[F\*\*k Google License](https://github.com/JiGuroLGC/FuckGoogleLicense) ⭐ 229 | 🐛 0 | 🌐 Java | 📅 2026-08-16** - Bypass Google Service License Verification. `FOSS` `[LSP]`
+* **[⭐ Pairipfix](https://github.com/ahmedmani/pairipfix) ⭐ 686 | 🐛 20 | 🌐 Java | 📅 2026-04-20** - Bypasses the "Get this app from Play" screen that appears when installing Android apps as an APK instead of from the Google Play Store. `FOSS` `[LSP]`
+* **[F\*\*k Google License](https://github.com/JiGuroLGC/FuckGoogleLicense) ⭐ 230 | 🐛 0 | 🌐 Java | 📅 2026-08-16** - Bypass Google Service License Verification. `FOSS` `[LSP]`
 * **[Apk Protection Patch](https://github.com/Mods-Center/Apk-Protection-Patch) ⭐ 212 | 🐛 10 | 📅 2025-08-12** - Removes signature verification restrictions on AOSP and OEM ROMs (HyperOS, ColorOS, etc.), allowing installation of modified APKs. `Proprietary` `[M]` `[K]`
 * **[XSpoofSignatures](https://github.com/rushiiMachine/XSpoofSignatures) ⭐ 86 | 🐛 1 | 🌐 Java | 📅 2025-03-19** - Spoof package signatures. `FOSS` `[LSP]`
 
@@ -969,8 +969,8 @@ that change app behavior. Root (or LSPosed) is required for most entries.
 
 ### Bilibili
 
-* **[BBZQ](https://github.com/HSSkyBoy/BBZQ) ⭐ 519 | 🐛 17 | 🌐 Kotlin | 📅 2026-10-01** - Removes unnecessary content, optimizes the core experience, and provide various practical functions. `FOSS` `[LSP]`
-* **[Bilibili Innocent Lab](https://github.com/jichuo1/Bilibili_Innocent_Lab) ⭐ 110 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-05** - Interface purification and interaction enhancement module for Android Bilibili client. `FOSS` `[LSP]`
+* **[BBZQ](https://github.com/HSSkyBoy/BBZQ) ⭐ 520 | 🐛 17 | 🌐 Kotlin | 📅 2026-10-01** - Removes unnecessary content, optimizes the core experience, and provide various practical functions. `FOSS` `[LSP]`
+* **[Bilibili Innocent Lab](https://github.com/jichuo1/Bilibili_Innocent_Lab) ⭐ 111 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-06** - Interface purification and interaction enhancement module for Android Bilibili client. `FOSS` `[LSP]`
 
 ### Discord
 
@@ -988,11 +988,11 @@ that change app behavior. Root (or LSPosed) is required for most entries.
 
 ### Line
 
-* **[Knot](https://github.com/2b-zipper/Knot) ⭐ 146 | 🐛 6 | 🌐 Java | 📅 2026-10-04** - Message privacy, notification tweaks & Screen display & UI mods for Line. `FOSS` `[LSP]`
+* **[Knot](https://github.com/2b-zipper/Knot) ⭐ 146 | 🐛 6 | 🌐 Java | 📅 2026-10-06** - Message privacy, notification tweaks & Screen display & UI mods for Line. `FOSS` `[LSP]`
 
 ### QQ
 
-* **[QAuxiliary](https://github.com/cinit/QAuxiliary) ⭐ 5,774 | 🐛 269 | 🌐 Java | 📅 2026-10-01** - Xposed module based on QNotified. `FOSS` `[LSP]`
+* **[QAuxiliary](https://github.com/cinit/QAuxiliary) ⭐ 5,775 | 🐛 269 | 🌐 Java | 📅 2026-10-01** - Xposed module based on QNotified. `FOSS` `[LSP]`
 * **[XAutoDaily](https://github.com/LuckyPray/XAutoDaily) ⭐ 1,592 | 🐛 37 | 🌐 Kotlin | 📅 2026-09-28** - Various tweaks for QQ. `FOSS` `[LSP]`
 * **[QFun](https://github.com/oneQAQone/QFun) ⭐ 284 | 🐛 8 | 🌐 Java | 📅 2026-10-04** - Functionality enhancement module developed based on the Xposed framework. `FOSS` `[LSP]`
 * **[TCQT Module](https://github.com/callng/TCQT) ⭐ 268 | 🐛 6 | 🌐 Kotlin | 📅 2026-10-05** - An Xposed module designed for Android QQ/TIM clients, which is used to intercept and retain messages that would otherwise be "retracted". `FOSS` `[LSP]`
@@ -1004,17 +1004,17 @@ that change app behavior. Root (or LSPosed) is required for most entries.
 >
 > All Reddit patches require: [Morphe App ↗](https://morphe.software/)
 
-* **[Morphe Reddit Patches](https://github.com/MorpheApp/morphe-patches#-patches-list) ⭐ 3,944 | 🐛 561 | 🌐 Java | 📅 2026-10-05** - Various patches for reddit. `FOSS`
+* **[Morphe Reddit Patches](https://github.com/MorpheApp/morphe-patches#-patches-list) ⭐ 3,955 | 🐛 562 | 🌐 Java | 📅 2026-10-06** - Various patches for reddit. `FOSS`
 * **[Patcheddit](https://github.com/wchill/patcheddit) ⭐ 799 | 🐛 58 | 🌐 Kotlin | 📅 2026-05-03** - Custom patches with features like view: deleted Reddit posts & comments,Banned subreddits etc. `FOSS`
 * **[Adobo Patches](https://github.com/jkennethcarino/adobo/) ⭐ 276 | 🐛 14 | 🌐 Kotlin | 📅 2026-10-04** - Various patches for reddit app. `FOSS`
 
 ### Telegram
 
-* **[TMoe](https://github.com/cinit/TMoe) ⭐ 1,423 | 🐛 21 | 🌐 Java | 📅 2026-07-19** - Adds various tweaks to various Telegram clients. `FOSS` `[LSP]`
+* **[TMoe](https://github.com/cinit/TMoe) ⭐ 1,422 | 🐛 21 | 🌐 Java | 📅 2026-07-19** - Adds various tweaks to various Telegram clients. `FOSS` `[LSP]`
 * **[Killergram](https://github.com/shatyuka/Killergram) ⭐ 588 | 🐛 0 | 🌐 Java | 📅 2026-08-24** - Remove sponsored messages of Telegram. `FOSS` `[LSP]`
 * **[TeleVip](https://github.com/Xposed-Modules-Repo/com.my.televip/) ⭐ 333 | 🐛 0 | 📅 2026-07-11** - A module for modifying Telegram with hide seen status, unlocking channel restrictions etc. `Proprietary` `[LSP]`
 * **[Telegami](https://github.com/aoya111/Telegami) ⭐ 251 | 🐛 23 | 🌐 Kotlin | 📅 2026-10-02** - Various tweaks for Telegram. `FOSS` `[LSP]`
-* **[Telegram Speed Hook](https://github.com/araafroyall/Telegram-Speed-Hook) ⭐ 161 | 🐛 0 | 🌐 Java | 📅 2026-08-12** - Increase Telegram files/media downloading speed. `FOSS` `[LSP]`
+* **[Telegram Speed Hook](https://github.com/araafroyall/Telegram-Speed-Hook) ⭐ 162 | 🐛 0 | 🌐 Java | 📅 2026-08-12** - Increase Telegram files/media downloading speed. `FOSS` `[LSP]`
 * **[GramSieve](https://github.com/Xposed-Modules-Repo/com.tianqianguai.gramsieve) ⭐ 52 | 🐛 0 | 🌐 Java | 📅 2026-10-03** - Message filtering, host-settings integration, anti-recall, anti-edit/edit interception etc. `Proprietary` `[LSP]`
 * **[Telegram Tweaks](https://github.com/Xposed-Modules-Repo/ru.mike.sidestories) ⭐ 31 | 🐛 1 | 📅 2026-06-29** - Remove action bar stories in the Telegram messenger (+block unmute button). `Proprietary` `[LSP]`
 
@@ -1024,8 +1024,8 @@ that change app behavior. Root (or LSPosed) is required for most entries.
 
 ### TikTok
 
-* **[Douyin Enhancer](https://github.com/twyora/DouyinEnhancer) ⭐ 162 | 🐛 8 | 🌐 Kotlin | 📅 2026-10-05** - Adds minor quality-of-life features to Douyin (Chinese TikTok). `FOSS` `[LSP]`
-* **[Toki](https://github.com/MeiYongAI/Toki) ⭐ 105 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-05** - Adds various tweaks to TikTok app. `FOSS` `[LSP]`
+* **[Douyin Enhancer](https://github.com/twyora/DouyinEnhancer) ⭐ 163 | 🐛 8 | 🌐 Kotlin | 📅 2026-10-06** - Adds minor quality-of-life features to Douyin (Chinese TikTok). `FOSS` `[LSP]`
+* **[Toki](https://github.com/MeiYongAI/Toki) ⭐ 106 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-05** - Adds various tweaks to TikTok app. `FOSS` `[LSP]`
 * **[TikTok AntiBurn](https://github.com/0mnr0/TikTokAntiBurn) ⭐ 49 | 🐛 1 | 🌐 Java | 📅 2026-08-30** - Overlap the TikTok app elements to prevent the screen from burning out. `FOSS` `[LSP]`
 
 ### WeChat
@@ -1042,15 +1042,15 @@ that change app behavior. Root (or LSPosed) is required for most entries.
 
 ### WhatsApp
 
-* **[⭐ WA Enhancer](https://github.com/Dev4Mod/WaEnhancer) ⭐ 1,748 | 🐛 262 | 🌐 Kotlin | 📅 2026-10-06** - Enhances your WhatsApp experience. `FOSS` `[LSP]`
+* **[⭐ WA Enhancer](https://github.com/Dev4Mod/WaEnhancer) ⭐ 1,748 | 🐛 265 | 🌐 Kotlin | 📅 2026-10-06** - Enhances your WhatsApp experience. `FOSS` `[LSP]`
 * **[WA Enhancer X](https://github.com/Xposed-Modules-Repo/com.waenhancer) ⭐ 44 | 🐛 0 | 📅 2026-09-12** - Fork of WA Enhancer with additional features. `Proprietary` `[LSP]`
 * **[WAPlus](https://github.com/RevealedSoulEven/WAPlusXposed) ⭐ 43 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-02** - Unlock WhatsApp Plus Features. `FOSS` `[LSP]`
 * **[WaThemer](https://github.com/ayane-04/wathemer) ⭐ 18 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-29** - Themes WhatsApp with custom colors, chat bubble shapes, wallpapers, fonts, icons, system bars and a Liquid Glass mode. Requires Android 12+. `FOSS` `[LSP]`
 
 ### X/Twitter
 
-* **[⭐ Piko Patches](https://github.com/crimera/piko) ⭐ 5,549 | 🐛 145 | 🌐 Java | 📅 2026-10-05** - Morphe patches for twitter with features like hide promoted tweets, hide promoted accounts, hide promoted trends, hide "who to follow" etc. `FOSS`
-* **[Re:X](https://github.com/Xposed-Modules-Repo/one.dot.rex) ⭐ 266 | 🐛 0 | 📅 2026-10-05** -  Tweaks for the new X / Twitter app. `Proprietary` `[LSP]`
+* **[⭐ Piko Patches](https://github.com/crimera/piko) ⭐ 5,556 | 🐛 140 | 🌐 Java | 📅 2026-10-06** - Morphe patches for twitter with features like hide promoted tweets, hide promoted accounts, hide promoted trends, hide "who to follow" etc. `FOSS`
+* **[Re:X](https://github.com/Xposed-Modules-Repo/one.dot.rex) ⭐ 269 | 🐛 0 | 📅 2026-10-05** -  Tweaks for the new X / Twitter app. `Proprietary` `[LSP]`
 * **[XBlocker](https://github.com/bileizhen/xblocker) ⭐ 41 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-22** - Hide spam replies, promoted content and selected categories on android x / twitter app. `FOSS` `[LSP]`
 
 ### Zalo
@@ -1063,7 +1063,7 @@ that change app behavior. Root (or LSPosed) is required for most entries.
 ## YouTube & Media Mods
 
 * **[GlassMic](https://github.com/lm060719/io.mo.glassmic) ⭐ 71 | 🐛 4 | 🌐 Kotlin | 📅 2026-09-29** - Lets you route an imported audio file into target recording apps through AudioRecord/AAudio hooks. `FOSS` `[LSP]`
-* **[xCam](https://github.com/hazbu/xCam) ⭐ 30 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-14** - Replace live camera feeds and actual photo captures with virtual media sources. `FOSS` `[LSP]`
+* **[xCam](https://github.com/hazbu/xCam) ⭐ 30 | 🐛 3 | 🌐 Kotlin | 📅 2026-10-06** - Replace live camera feeds and actual photo captures with virtual media sources. `FOSS` `[LSP]`
 * **[OnePlus 8 Series and 9R Camera Unlocker](https://github.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker) ⭐ 23 | 🐛 0 | 🌐 Shell | 📅 2025-06-23** - Enables 48MP RAW10 capture support, both on the main (8/8T/9R) and ultra wide (8 Pro) lenses and much more. `FOSS` `[M]`
 * **[VideoSpeed](https://github.com/MarsGao/io.github.MarsGao.speed) ⭐ 21 | 🐛 0 | 🌐 Java | 📅 2026-09-22** - An Xposed module for adjusting the playback speed of videos across multiple applications. `FOSS` `[LSP]`
 * **[XAudioCapture](https://github.com/Xposed-Modules-Repo/io.github.wzhy.xaudiocapture) ⭐ 18 | 🐛 0 | 📅 2025-05-11** - Lets you capture any audio stream you desire, bypassing these restrictions. `Proprietary` `[LSP]`
@@ -1080,9 +1080,9 @@ privacy, battery life and performance.
 > \[!TIP]
 > **Related Guide**: [Complete Debloating Tutorial](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/general-guides/android-apps-debloating.md)
 
-* **[⭐ Canta](https://github.com/samolego/Canta) ⭐ 6,071 | 🐛 30 | 🌐 Kotlin | 📅 2026-10-04** - Uninstall any app without root using [Shizuku](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/apps-and-modules/development.md). `FOSS` | [🌱](https://f-droid.org/en/packages/io.github.samolego.canta/) | [▶️](https://play.google.com/store/apps/details?id=io.github.samolego.canta)
+* **[⭐ Canta](https://github.com/samolego/Canta) ⭐ 6,075 | 🐛 31 | 🌐 Kotlin | 📅 2026-10-04** - Uninstall any app without root using [Shizuku](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/apps-and-modules/development.md). `FOSS` | [🌱](https://f-droid.org/en/packages/io.github.samolego.canta/) | [▶️](https://play.google.com/store/apps/details?id=io.github.samolego.canta)
 * **[De-Bloater](https://github.com/sunilpaulmathew/De-Bloater) ⭐ 793 | 🐛 50 | 🌐 Java | 📅 2026-05-25** - An application using the power of Magisk to debloat unwanted system apps!. `FOSS` | [🌱](https://f-droid.org/packages/com.sunilpaulmathew.debloater) | [▶️](https://play.google.com/store/apps/details?id=com.sunilpaulmathew.debloater)
-* **[System App Nuker](https://github.com/ChiseWaguri/systemapp_nuker) ⭐ 260 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-03** - A module to debloat system apps with WebUI Interface. `FOSS` `[M]`
+* **[System App Nuker](https://github.com/ChiseWaguri/systemapp_nuker) ⭐ 260 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-06** - A module to debloat system apps with WebUI Interface. `FOSS` `[M]`
 * **[Scalpel](https://github.com/Enginex0/Scalpel) ⭐ 47 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-23** - Precision Debloat & Systemize for Rooted Android. `FOSS` `[M]` `[K]`
 * **[EXA System App Remover](https://play.google.com/store/apps/details?id=exa.free.saux)** - Remove Bloatware, clear memory and speed up your phone now by uninstalling unused system apps. `Proprietary`
 * **[System app remover](https://play.google.com/store/apps/details?id=com.jumobile.manager.systemapp)** - A system app remover and user app uninstaller, move app to sdcard, move app to phone, apk on sdcard scan/install/delete. `Proprietary`
@@ -1097,7 +1097,7 @@ Magisk/KernelSU modules, and file & partition tools for power users.
 
 ## Cleaning
 
-* **[⭐ SD Maid 2/SE](https://github.com/d4rken-org/sdmaid-se) ⭐ 7,689 | 🐛 21 | 🌐 Kotlin | 📅 2026-10-05** - A file management tool for Android that specializes in maintenance. Its core purpose is freeing up space and removing unwanted data. `FOSS` | [🌱](https://f-droid.org/en/packages/eu.darken.sdmse/) | [▶️](https://play.google.com/store/apps/details?id=eu.darken.sdmse)
+* **[⭐ SD Maid 2/SE](https://github.com/d4rken-org/sdmaid-se) ⭐ 7,696 | 🐛 20 | 🌐 Kotlin | 📅 2026-10-05** - A file management tool for Android that specializes in maintenance. Its core purpose is freeing up space and removing unwanted data. `FOSS` | [🌱](https://f-droid.org/en/packages/eu.darken.sdmse/) | [▶️](https://play.google.com/store/apps/details?id=eu.darken.sdmse)
 * **[Cleaner Royall](https://github.com/araafroyall/Cleaner-Royall) ⭐ 246 | 🐛 0 | 🌐 Shell | 📅 2026-09-19** - A lightweight but ultra-fast and powerful cleaner for Android. `Proprietary` `[LSP]`
 * **[CZero](https://github.com/Xocio/CZero) ⭐ 105 | 🐛 1 | 📅 2026-10-04** - Cleans the cache of frequently used apps, and adds background suppression, empty-folder cleanup, and F2FS garbage collection. `FOSS` `[M]` `[K]`
 * **[AutoPurge Pro](https://github.com/S123123sd/SmartClear) ⭐ 59 | 🐛 0 | 🌐 Shell | 📅 2025-03-01** - Junk cleaning automation tool that provides deep cleaning and resource management capabilities for Android devices. `FOSS` `[M]` `[K]`
@@ -1115,12 +1115,12 @@ Magisk/KernelSU modules, and file & partition tools for power users.
 
 ## File Managers
 
-* **[Material Files](https://github.com/zhanghai/MaterialFiles) ⭐ 9,146 | 🐛 615 | 🌐 Kotlin | 📅 2026-09-24** - Modern file manager with root capabilities. `FOSS` | [🌱](https://f-droid.org/packages/me.zhanghai.android.files)| [▶️](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)
+* **[Material Files](https://github.com/zhanghai/MaterialFiles) ⭐ 9,145 | 🐛 615 | 🌐 Kotlin | 📅 2026-09-24** - Modern file manager with root capabilities. `FOSS` | [🌱](https://f-droid.org/packages/me.zhanghai.android.files)| [▶️](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)
 * **[AnExplorer](https://github.com/1hakr/AnExplorer) ⭐ 2,035 | 🐛 36 | 🌐 Java | 📅 2026-06-02** - A simple, Small, Fast and Efficient File Explorer. `FOSS` | [▶️](https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer)
-* **[Fossify File Manager](https://github.com/FossifyOrg/File-Manager) ⭐ 1,791 | 🐛 98 | 🌐 Kotlin | 📅 2026-10-05** - Easy app for managing your files without ads, respecting your privacy and security. `FOSS` | [🌱](https://f-droid.org/packages/org.fossify.filemanager/) | [▶️](https://play.google.com/store/apps/details?id=org.fossify.filemanager)
+* **[Fossify File Manager](https://github.com/FossifyOrg/File-Manager) ⭐ 1,790 | 🐛 99 | 🌐 Kotlin | 📅 2026-10-05** - Easy app for managing your files without ads, respecting your privacy and security. `FOSS` | [🌱](https://f-droid.org/packages/org.fossify.filemanager/) | [▶️](https://play.google.com/store/apps/details?id=org.fossify.filemanager)
 * **[NoStorageRestrict](https://github.com/Xposed-Modules-Repo/com.github.dan.nostoragerestrict) ⭐ 521 | 🐛 3 | 🌐 Java | 📅 2026-07-29** - Removes the restriction when selecting folders (Sdcard, Download, data and obb) through the file manager on Android 11 and higher. `FOSS`
-* **[Ultimate File Manager Pro](https://github.com/Kilowatch/ultimate-file-manager-pro) ⭐ 246 | 🐛 9 | 🌐 Kotlin | 📅 2026-10-03** - Dual-Pane File Manager for Android Mobile, Android TV, and Windows PC. `FOSS`
-* **[Remember My Sort](https://github.com/hxreborn/remember-my-sort) ⭐ 105 | 🐛 3 | 🌐 Kotlin | 📅 2026-10-01** - Forces the native Android file picker to remember your sorting preferences. `FOSS` `[LSP]` | [🌱](https://apt.izzysoft.de/packages/eu.hxreborn.remembermysort)
+* **[Ultimate File Manager Pro](https://github.com/Kilowatch/ultimate-file-manager-pro) ⭐ 247 | 🐛 9 | 🌐 Kotlin | 📅 2026-10-03** - Dual-Pane File Manager for Android Mobile, Android TV, and Windows PC. `FOSS`
+* **[Remember My Sort](https://github.com/hxreborn/remember-my-sort) ⭐ 106 | 🐛 3 | 🌐 Kotlin | 📅 2026-10-01** - Forces the native Android file picker to remember your sorting preferences. `FOSS` `[LSP]` | [🌱](https://apt.izzysoft.de/packages/eu.hxreborn.remembermysort)
 * **[Sortify](https://github.com/xCaptaiN09/Sortify) ⭐ 39 | 🐛 0 | 🌐 Shell | 📅 2026-01-19** - Automatically organizes files in your Download folder. `FOSS` `[M]` `[K]`
 * **[⭐ MiXplorer](https://mixplorer.com/)** - Feature-rich file manager. `Proprietary`
 * **[File Manager](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager\&hl=en)** - Easy and powerful file explorer for Android devices. It’s free, fast and full-featured. Because of its simple UI, it’s extremely easy to use. `Proprietary`
@@ -1140,9 +1140,9 @@ unlocking - always.
 
 ## Backup Apps & Tools
 
-* **[DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) ⭐ 7,421 | 🐛 190 | 🌐 Kotlin | 📅 2026-10-02** - DataBackup for Android 7.0+. `FOSS` | [🌱](https://f-droid.org/zh_Hans/packages/com.xayah.databackup.foss/)
-* **[Neo Backup](https://github.com/NeoApplications/Neo-Backup) ⭐ 3,848 | 🐛 245 | 🌐 Kotlin | 📅 2026-05-03** - Powerful open-source backup solution. `FOSS` | [🌱](https://f-droid.org/packages/com.machiav3lli.backup/)
-* **[Restoid](https://github.com/hddq/restoid) ⭐ 176 | 🐛 28 | 🌐 Kotlin | 📅 2026-09-25** - modern, root-based Android app backup tool powered by restic. `FOSS`
+* **[DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) ⭐ 7,423 | 🐛 190 | 🌐 Kotlin | 📅 2026-10-06** - DataBackup for Android 7.0+. `FOSS` | [🌱](https://f-droid.org/zh_Hans/packages/com.xayah.databackup.foss/)
+* **[Neo Backup](https://github.com/NeoApplications/Neo-Backup) ⭐ 3,850 | 🐛 245 | 🌐 Kotlin | 📅 2026-05-03** - Powerful open-source backup solution. `FOSS` | [🌱](https://f-droid.org/packages/com.machiav3lli.backup/)
+* **[Restoid](https://github.com/hddq/restoid) ⭐ 177 | 🐛 28 | 🌐 Kotlin | 📅 2026-09-25** - modern, root-based Android app backup tool powered by restic. `FOSS`
 * **[⭐ Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup)** - Modern backup solution with cloud support. `Proprietary`
 * **[DiskDigger](https://play.google.com/store/apps/details?id=com.defianttech.diskdigger)** - A powerful data recovery tool for Android devices. `Proprietary`
 * **[Dumpster: Photo/Video Recovery](https://play.google.com/store/apps/details?id=com.baloota.dumpster)** - You can recover deleted videos, restore photos, undelete recently deleted apps, and other files. `Proprietary`
@@ -1184,17 +1184,17 @@ Magisk/KernelSU/LSPosed modules.
 * **[Recents](https://github.com/tymwitko/Recents) ⭐ 71 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-04** - Launcher-agnostic "Recents" menu for Android. `FOSS`
 * **[Three-Finger-Screenshot](https://github.com/hxreborn/three-finger-swipe) ⭐ 46 | 🐛 6 | 🌐 Kotlin | 📅 2026-10-04**- Standalone LSPosed implementation of three-finger swipe. `FOSS` `[LSP]`
 * **[OPPO/OnePlus side button enhancement](https://github.com/ItosEO/OplusKey) ⭐ 43 | 🐛 2 | 🌐 C++ | 📅 2025-11-02** - Customize the side button behavior on Oppo and OnePlus devices. `Proprietary` `[M]`
-* **[Ogesture](https://github.com/tanujnotes/ogesture) ⭐ 38 | 🐛 2 | 🌐 Kotlin | 📅 2026-09-18** - Use gesture navigation with third-party launchers on any Android phone. `FOSS` `[LSP]`
+* **[Ogesture](https://github.com/tanujnotes/ogesture) ⭐ 39 | 🐛 2 | 🌐 Kotlin | 📅 2026-09-18** - Use gesture navigation with third-party launchers on any Android phone. `FOSS` `[LSP]`
 * **[Multi Finger Gesture X](https://github.com/EliLei/MultiFingerGestureX) ⭐ 12 | 🐛 0 | 🌐 Kotlin | 📅 2026-07-08** - An LSPosed/Xposed module that adds 3+ finger gesture support to Android 15+. `FOSS` `[LSP]`
 * **[Volume Scroll](https://github.com/farfromrefug/VolumeScroll) ⭐ 7 | 🐛 0 | 🌐 Kotlin | 📅 2025-10-09** - Android app to scroll using volume keys. `FOSS` `[M]`
 
 ## Launchers & Home Screen
 
-* **[Activity Manager](https://github.com/sdex/ActivityManager) ⭐ 1,330 | 🐛 16 | 🌐 Kotlin | 📅 2026-10-04** - Discover the activities of installed applications, run them, and create shortcuts. `FOSS` | [🌱](https://f-droid.org/packages/com.activitymanager/)
+* **[Activity Manager](https://github.com/sdex/ActivityManager) ⭐ 1,332 | 🐛 16 | 🌐 Kotlin | 📅 2026-10-04** - Discover the activities of installed applications, run them, and create shortcuts. `FOSS` | [🌱](https://f-droid.org/packages/com.activitymanager/)
 * **[Pixel Launcher Mods](https://github.com/KieronQuinn/PixelLauncherMods/) ⭐ 1,307 | 🐛 7 | 🌐 Kotlin | 📅 2025-10-30** - Mods for enhancing the Pixel Launcher experience. `FOSS`
-* **[Google Shortcuts Launcher](https://github.com/WSTxda/Google-Shortcuts-Launcher) ⭐ 719 | 🐛 3 | 🌐 Kotlin | 📅 2026-10-01** - Easily access essential Google apps features directly from your launcher app drawer. `FOSS`
+* **[Google Shortcuts Launcher](https://github.com/WSTxda/Google-Shortcuts-Launcher) ⭐ 719 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-01** - Easily access essential Google apps features directly from your launcher app drawer. `FOSS`
 * **[⭐ Lawnchair](https://github.com/Goooler/LawnchairRelease/) ⭐ 557 | 🐛 1 | 🌐 Java | 📅 2026-09-07** - A customizable launcher offering a Pixel-like experience. `FOSS`
-* **[Pixel Launcher Enhanced](https://github.com/Mahmud0808/PixelLauncherEnhanced) ⭐ 542 | 🐛 16 | 🌐 Kotlin | 📅 2026-10-05** - Unlock a variety of exciting features including customizing the look to adding more functionality and many more. `FOSS` `[LSP]`
+* **[Pixel Launcher Enhanced](https://github.com/Mahmud0808/PixelLauncherEnhanced) ⭐ 542 | 🐛 11 | 🌐 Kotlin | 📅 2026-10-06** - Unlock a variety of exciting features including customizing the look to adding more functionality and many more. `FOSS` `[LSP]`
 * **[HyperOS Launcher](https://github.com/Mods-Center/HyperOS-Launcher#hyperos-launcher-v5) ⭐ 417 | 🐛 65 | 📅 2026-09-01** - Enhanced HyperOS Launcher with features from high-end devices, including customizable app drawer, icon packs, and more. `Proprietary` `[M]` `[K]`
 * **[HyperOS App Vault](https://github.com/Mods-Center/HyperOS-App-Vault) ⭐ 62 | 🐛 5 | 📅 2026-10-04** - Enhanced HyperOS App Vault with unlocked widgets, high-end device features, blur adjustments, and scrolling animations. `Proprietary` `[M]` `[K]`
 * **[NovaInstaller](https://github.com/Minionguyjpro/NovaInstaller/) ⭐ 58 | 🐛 2 | 🌐 Shell | 📅 2025-03-31** - Installs Nova Launcher to /system/app/ on Android. `FOSS`
@@ -1205,13 +1205,13 @@ Magisk/KernelSU/LSPosed modules.
 ## Lockscreen & AOD
 
 * **[AlwaysOn](https://github.com/Domi04151309/AlwaysOn) ⭐ 232 | 🐛 26 | 🌐 Kotlin | 📅 2025-06-23** - Adds an always-on display with various customization options regarding watch face, behavior, and background. `FOSS` `[LSP]`
-* **[ColorOS Live Lyrics Bridge](https://github.com/Andrea-lyz/ColorOS-Live-Lyrics-Bridge) ⭐ 190 | 🐛 4 | 🌐 Java | 📅 2026-10-05** - Bridges timed lyrics from supported players into the ColorOS/OPlus lock-screen lyric pipeline. `FOSS` `[LSP]`
-* **[HyperOS AOD](https://github.com/Mods-Center/HyperOS-AOD) ⭐ 61 | 🐛 7 | 📅 2025-12-12** - Enhanced HyperOS AOD and Lock Screen Editor app with unlocked features. `Proprietary` `[M]` `[K]`
+* **[ColorOS Live Lyrics Bridge](https://github.com/Andrea-lyz/ColorOS-Live-Lyrics-Bridge) ⭐ 191 | 🐛 4 | 🌐 Java | 📅 2026-10-05** - Bridges timed lyrics from supported players into the ColorOS/OPlus lock-screen lyric pipeline. `FOSS` `[LSP]`
+* **[HyperOS AOD](https://github.com/Mods-Center/HyperOS-AOD) ⭐ 62 | 🐛 7 | 📅 2025-12-12** - Enhanced HyperOS AOD and Lock Screen Editor app with unlocked features. `Proprietary` `[M]` `[K]`
 * **[HyperGlow](https://github.com/amarinne/hyperglow) ⭐ 13 | 🐛 4 | 🌐 Kotlin | 📅 2026-10-05** - Animated lock screen and always-on display lyrics for HyperOS 3. `FOSS` `[LSP]`
 
 ## Notifications
 
-* **[HyperIsland](https://github.com/1812z/HyperIsland/blob/main/README_EN.md) ⭐ 563 | 🐛 7 | 🌐 Kotlin | 📅 2026-10-05** - Dynamic Island-style notifications for HyperOS 3, powered by LSPosed. `FOSS` `[LSP]`
+* **[HyperIsland](https://github.com/1812z/HyperIsland/blob/main/README_EN.md) ⭐ 563 | 🐛 7 | 🌐 Kotlin | 📅 2026-10-06** - Dynamic Island-style notifications for HyperOS 3, powered by LSPosed. `FOSS` `[LSP]`
 * **[Punch-hole Download Progress](https://github.com/hxreborn/punch-hole-download-progress) ⭐ 247 | 🐛 9 | 🌐 Kotlin | 📅 2026-10-04** - Displays download progress as an animated ring around the camera cutout. `FOSS` `[LSP]` | [🌱](https://apt.izzysoft.de/fdroid/index/apk/eu.hxreborn.phdp)
 * **[Notification Icon Fix](https://github.com/Xposed-Modules-Repo/io.github.howard20181.notificationiconfix/) ⭐ 82 | 🐛 10 | 📅 2026-03-22** - A module for AOSP, MIUI and HyperOS. Using an algorithm to convert white notification icons into recognizable icons. `FOSS` `[LSP]`
 * **[Auto Expand Notifications](https://github.com/kvmy666/-AutoExpandNotifications) ⭐ 36 | 🐛 1 | 🌐 Kotlin | 📅 2026-09-22** - Notification Tweaks for OxygenOS. `FOSS` `[LSP]`
@@ -1219,33 +1219,33 @@ Magisk/KernelSU/LSPosed modules.
 
 ## Screen & Display
 
-* **[Adaptive Theme: Auto Dark Mode by Ambient Light](https://github.com/xLexip/Adaptive-Theme) ⭐ 274 | 🐛 12 | 🌐 Kotlin | 📅 2026-10-01** - Automatically switches between Light and Dark mode using the ambient light sensor. `FOSS` | [▶️](https://play.google.com/store/apps/details?id=dev.lexip.hecate)
+* **[Adaptive Theme: Auto Dark Mode by Ambient Light](https://github.com/xLexip/Adaptive-Theme) ⭐ 274 | 🐛 13 | 🌐 Kotlin | 📅 2026-10-01** - Automatically switches between Light and Dark mode using the ambient light sensor. `FOSS` | [▶️](https://play.google.com/store/apps/details?id=dev.lexip.hecate)
 * **[Anti Brightness Change](https://github.com/binarynoise/XposedModulets) ⭐ 224 | 🐛 6 | 🌐 Kotlin | 📅 2026-09-29** - Prevents every app from changing the screen brightness. `FOSS` `[LSP]` | [🌱](https://apt.izzysoft.de/fdroid/index/apk/com.programminghoch10.AntiBrightnessChange)
 * **[DarQ Fork](https://github.com/Arora-Sir/DarQ) ⭐ 116 | 🐛 2 | 🌐 Kotlin | 📅 2026-09-29** - Provides a per-app selectable force dark option for Android 10 and above. `FOSS`
 * **[Pseudo DC Dimming](https://github.com/dantmnf/PseudoDCDimming) ⭐ 108 | 🐛 13 | 🌐 Java | 📅 2026-05-27** - Enable alternative dimming mode (likely DC-like) on low brightness for some OLED displays by using software brightness gain. `FOSS` `[LSP]`
-* **[DPIS](https://github.com/Kwensiu/DPIS) ⭐ 107 | 🐛 6 | 🌐 Kotlin | 📅 2026-10-05** - LSPosed module for per-app interface scale, smallest width, and font size tuning. `FOSS` `[LSP]`
+* **[DPIS](https://github.com/Kwensiu/DPIS) ⭐ 107 | 🐛 5 | 🌐 Kotlin | 📅 2026-10-06** - LSPosed module for per-app interface scale, smallest width, and font size tuning. `FOSS` `[LSP]`
 * **[Pointer Replacer](https://github.com/thesandipv/pointer_replacer) ⭐ 27 | 🐛 6 | 🌐 Kotlin | 📅 2026-09-29** - Replaces a dot appears when user touch the screen \[Require Show Touches to be enabled in Developer Options]. `FOSS` `[LSP]`
 * **[PureShot](https://github.com/kazutoiris/PureShot) ⭐ 26 | 🐛 3 | 🌐 Java | 📅 2026-09-26** - Hide status bar, navigation bar, popups, PiP, toast & more. `FOSS` `[LSP]`
-* **[Rotation Suggestions Closed](https://github.com/Astoritin/RotationSuggestionsClosed) ⭐ 14 | 🐛 1 | 🌐 Shell | 📅 2025-12-28** - Stop showing rotation suggestion button as rotating screen. `FOSS` `[M]`
+* **[Rotation Suggestions Closed](https://github.com/Astoritin/RotationSuggestionsClosed) ⭐ 15 | 🐛 1 | 🌐 Shell | 📅 2025-12-28** - Stop showing rotation suggestion button as rotating screen. `FOSS` `[M]`
 * **[Keep Screen Off](https://github.com/Xposed-Modules-Repo/com.ncyxie.keepscreenoff) ⭐ 3 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-03** - Stops selected apps from holding the screen awake by ignoring `FLAG_KEEP_SCREEN_ON` and screen wakelocks. `FOSS` `[LSP]`
 
 ## Status Bar & Navigation
 
-* **[Smart Dock](https://github.com/axel358/smartdock) ⭐ 1,439 | 🐛 43 | 🌐 Kotlin | 📅 2026-05-21** - A user-friendly desktop mode launcher that offers a modern and customizable user interface. `FOSS`
+* **[Smart Dock](https://github.com/axel358/smartdock) ⭐ 1,440 | 🐛 43 | 🌐 Kotlin | 📅 2026-05-21** - A user-friendly desktop mode launcher that offers a modern and customizable user interface. `FOSS`
 * **[NavTweaks](https://github.com/Magisk-Modules-Alt-Repo/HideNavBar) ⭐ 811 | 🐛 28 | 🌐 JavaScript | 📅 2026-06-23** - Fullscreen/Immersive Gesture Tweaks for Android 10-14. `FOSS` `[M]`
-* **[Lyricon](https://github.com/tomakino/lyricon) ⭐ 787 | 🐛 41 | 🌐 Kotlin | 📅 2026-09-07** - An Android status bar lyric enhancement tool based on the Xposed framework. `FOSS` `[LSP]`
-* **[Quick-Tile Settings](https://github.com/RBN-Apps/Quick-Tile-Settings) ⭐ 402 | 🐛 14 | 🌐 Kotlin | 📅 2026-10-01** - Provides customizable Quick Settings tiles for managing Private DNS and USB Debugging. `FOSS` | [🌱](https://f-droid.org/packages/com.rbn.qtsettings)
-* **[LyricProvider](https://github.com/tomakino/LyricProvider/tree/master) ⭐ 399 | 🐛 51 | 🌐 Kotlin | 📅 2026-08-26** - A lyric provider for Lyricon. `FOSS` `[LSP]`
-* **[MiNavBarImmerse](https://github.com/Ianzb/MiNavBarImmerse) ⭐ 199 | 🐛 0 | 🌐 Python | 📅 2026-09-29** - Optimizes the Xiaomi NavBar immersion by replacing the NavBar configuration file of third-party applications built into Xiaomi HyperOS 2.2. `FOSS` `[LSP]`
+* **[Lyricon](https://github.com/tomakino/lyricon) ⭐ 788 | 🐛 42 | 🌐 Kotlin | 📅 2026-09-07** - An Android status bar lyric enhancement tool based on the Xposed framework. `FOSS` `[LSP]`
+* **[Quick-Tile Settings](https://github.com/RBN-Apps/Quick-Tile-Settings) ⭐ 403 | 🐛 14 | 🌐 Kotlin | 📅 2026-10-01** - Provides customizable Quick Settings tiles for managing Private DNS and USB Debugging. `FOSS` | [🌱](https://f-droid.org/packages/com.rbn.qtsettings)
+* **[LyricProvider](https://github.com/tomakino/LyricProvider/tree/master) ⭐ 399 | 🐛 50 | 🌐 Kotlin | 📅 2026-08-26** - A lyric provider for Lyricon. `FOSS` `[LSP]`
+* **[MiNavBarImmerse](https://github.com/Ianzb/MiNavBarImmerse) ⭐ 199 | 🐛 0 | 🌐 Python | 📅 2026-10-06** - Optimizes the Xiaomi NavBar immersion by replacing the NavBar configuration file of third-party applications built into Xiaomi HyperOS 2.2. `FOSS` `[LSP]`
 * **[QS Boundless Tiles](https://github.com/hxreborn/qs-boundless-tiles) ⭐ 36 | 🐛 2 | 🌐 YAML | 📅 2026-10-01** - Keeps third-party Quick Settings tiles responsive on Android 13+. `FOSS` `[LSP]`
 * **[Duo Status Bar](https://github.com/Xposed-Modules-Repo/io.github.kvmy666.duostatusbar) ⭐ 14 | 🐛 0 | 📅 2026-10-02** - Turns the battery, Wi-Fi and signal icons into one smooth, Apple-style element. `Proprietary` `[LSP]`
 * **[Hide Navbar Keyboard](https://github.com/UNKNUW/Hide-Navbar-Keyboard) ⭐ 13 | 🐛 0 | 📅 2025-04-26** - Hide navbar when keyboard appears. Supports Android 10 -15+. `FOSS` `[M]`
 
 ## Themes & Visual Mods
 
-* **[Iconify](https://github.com/Mahmud0808/Iconify) ⭐ 3,194 | 🐛 102 | 🌐 Kotlin | 📅 2026-10-05** - Customize your Android 12+ device easily. `FOSS` `[M]`
+* **[Iconify](https://github.com/Mahmud0808/Iconify) ⭐ 3,196 | 🐛 102 | 🌐 Kotlin | 📅 2026-10-05** - Customize your Android 12+ device easily. `FOSS` `[M]`
 * **[ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) ⭐ 2,506 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-05** - Customize Material You colors of your device. `FOSS` | [🌱](https://f-droid.org/en/packages/com.drdisagree.colorblendr/)
-* **[HyperLight](https://github.com/KiminonawaResa/HyperLight#english) ⭐ 801 | 🐛 8 | 📅 2026-09-20** - Completes the highlight blur effects for HyperOS 3, bringing a unified visual experience to the desktop, notification shade, and control center. `FOSS` `[LSP]`
+* **[HyperLight](https://github.com/KiminonawaResa/HyperLight#english) ⭐ 800 | 🐛 8 | 📅 2026-09-20** - Completes the highlight blur effects for HyperOS 3, bringing a unified visual experience to the desktop, notification shade, and control center. `FOSS` `[LSP]`
 * **[Global Icon Pack](https://github.com/RichardLuo0/global-icon-pack-android) ⭐ 422 | 🐛 6 | 🌐 Kotlin | 📅 2026-09-21** - Apply icon packs globally. `FOSS` `[LSP]`
 * **[HyperOS Theme Manager](https://github.com/Mods-Center/HyperOS-Theme-Manager) ⭐ 204 | 🐛 16 | 📅 2026-09-26** - Multi-theme servers, premium themes, AI wallpapers, third-party imports, super icons/widgets etc. `Proprietary` `[M]` `[K]`
 * **[Monetify](https://github.com/KaeruShi/Monetify) ⭐ 42 | 🐛 2 | 🌐 Kotlin | 📅 2026-06-22** - Customize third-party apps seamlessly to match your device style. `FOSS` `[LSP]`
@@ -1260,11 +1260,11 @@ regardless of whether they are apps, Magisk modules, KernelSU modules or LSPosed
 
 ## Audio Control
 
-* **[LibrePods](https://github.com/kavishdevar/librepods) ⭐ 30,156 | 🐛 324 | 🌐 Kotlin | 📅 2026-10-02** - Unlocks Apple's exclusive premium AirPods features on non-Apple devices. `FOSS` `[LSP]` `[M]` `[K]`
+* **[LibrePods](https://github.com/kavishdevar/librepods) ⭐ 30,157 | 🐛 324 | 🌐 Kotlin | 📅 2026-10-02** - Unlocks Apple's exclusive premium AirPods features on non-Apple devices. `FOSS` `[LSP]` `[M]` `[K]`
 * **[Audio jitter silencer](https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer) ⭐ 143 | 🐛 0 | 🌐 Shell | 📅 2026-06-21** - For avoiding distortion on all digital audio outputs, it disables audio jitter generators (w\.r.t. battery draining and optimizations, and wireless connectivity). `FOSS` `[M]`
-* **[DisableAudioFocus](https://github.com/auag0/DisableAudioFocus) ⭐ 136 | 🐛 6 | 🌐 Kotlin | 📅 2025-11-17** - Allows you to disable audio focus, enabling you to play multiple videos and audios simultaneously. `FOSS` `[LSP]`
+* **[DisableAudioFocus](https://github.com/auag0/DisableAudioFocus) ⭐ 137 | 🐛 6 | 🌐 Kotlin | 📅 2025-11-17** - Allows you to disable audio focus, enabling you to play multiple videos and audios simultaneously. `FOSS` `[LSP]`
 * **[SonyPods](https://github.com/Mercury000/SonyPods) ⭐ 37 | 🐛 5 | 🌐 Kotlin | 📅 2026-10-04** - System-level Sony headphone control for HyperOS devices. `FOSS` `[LSP]`
-* **[HuaweiPods](https://github.com/Nshpiter/HuaweiPods) ⭐ 25 | 🐛 6 | 🌐 Kotlin | 📅 2026-10-01** - Huawei audio device integration for Xiaomi HyperOS. `FOSS` `[LSP]`
+* **[HuaweiPods](https://github.com/Nshpiter/HuaweiPods) ⭐ 26 | 🐛 7 | 🌐 Kotlin | 📅 2026-10-01** - Huawei audio device integration for Xiaomi HyperOS. `FOSS` `[LSP]`
 
 ## Audio Effects
 
@@ -1281,8 +1281,8 @@ regardless of whether they are apps, Magisk modules, KernelSU modules or LSPosed
 * **[JamesDSP](https://github.com/james34602/JamesDSPManager) ⭐ 968 | 🐛 35 | 🌐 C | 📅 2025-06-18** - Audio DSP effects built on the Android system framework layer. This repository contains a pack of high-quality DSP algorithms specialized for audio processing. `FOSS` `[M]`
 * **[Equalizer314](https://github.com/bearinmindcat/Equalizer314) ⭐ 480 | 🐛 77 | 🌐 Kotlin | 📅 2026-10-05** - System-wide EQ with multiband compression, limiter, and audio-visual feedback. `FOSS` `[M]`
 * **[⭐ ViPERFX\_RE](https://github.com/likelikeslike/ViPERFX_RE) ⭐ 357 | 🐛 1 | 🌐 C | 📅 2026-09-13** - A fork of ViPER4Android FX with a redesigned UI and additional features. `FOSS` `[M]` `[K]`
-* **[NLSound](https://github.com/Briclyaz/NLSound_module_QCom) ⭐ 316 | 🐛 0 | 🌐 Shell | 📅 2026-09-27** - Magisk module for improving audio and microphone quality in your Snapdragon SoC device. `FOSS` `[M]`
-* **[Audio Modification Library Ryuki Mod](https://github.com/reiryuki/Audio-Modification-Library-Ryuki-Mod-Magisk-Module) ⭐ 292 | 🐛 0 | 🌐 Shell | 📅 2026-09-24** - Enables supported audio mods to share the same needed files, such as audio\_effects. `FOSS` `[M]`
+* **[NLSound](https://github.com/Briclyaz/NLSound_module_QCom) ⭐ 317 | 🐛 0 | 🌐 Shell | 📅 2026-09-27** - Magisk module for improving audio and microphone quality in your Snapdragon SoC device. `FOSS` `[M]`
+* **[Audio Modification Library Ryuki Mod](https://github.com/reiryuki/Audio-Modification-Library-Ryuki-Mod-Magisk-Module) ⭐ 293 | 🐛 0 | 🌐 Shell | 📅 2026-09-24** - Enables supported audio mods to share the same needed files, such as audio\_effects. `FOSS` `[M]`
 
 # Networking
 
@@ -1295,14 +1295,14 @@ more), network diagnostics, Wi-Fi & mobile data utilities and Bluetooth & NFC ap
 
 ## Bluetooth & NFC
 
-* **[NFCGate](https://github.com/nfcgate/nfcgate) ⭐ 2,402 | 🐛 12 | 🌐 Java | 📅 2026-07-20** - Android application meant to capture, analyze, or modify NFC traffic. `FOSS` `[LSP]` | [🌱](https://f-droid.org/packages/de.tu_darmstadt.seemoo.nfcgate/)
+* **[NFCGate](https://github.com/nfcgate/nfcgate) ⭐ 2,403 | 🐛 12 | 🌐 Java | 📅 2026-07-20** - Android application meant to capture, analyze, or modify NFC traffic. `FOSS` `[LSP]` | [🌱](https://f-droid.org/packages/de.tu_darmstadt.seemoo.nfcgate/)
 * **[onHit](https://github.com/0penPublic/onHit) ⭐ 86 | 🐛 3 | 🌐 Kotlin | 📅 2026-10-04** - Trigger Android NFC events without a physical tag by Xposed. `FOSS` `[LSP]`
 * **[KonamikU](https://github.com/C-F0x/KonamikU) ⭐ 57 | 🐛 0 | 🌐 Kotlin | 📅 2026-07-24** - Extend NFC Capabilities of your device. `FOSS` `[LSP]`
 * **[NFC Card Emulator Pro (Root)](https://play.google.com/store/apps/details?id=com.yuanwofei.cardemulator.pro)** - NFC card emulator for access cards, elevator cards, meal cards, school cards, library cards, and other IC cards. `Proprietary`
 
 ## Network Tools
 
-* **[MagicNet](https://github.com/LIghtJUNction/MagicNet#english-summary) ⭐ 185 | 🐛 18 | 🌐 Shell | 📅 2026-10-05** - Module for device-side traffic governance that enforce network rules below the app layer instead of relying on every app to respect a proxy setting. `FOSS` `[M]` `[K]`
+* **[MagicNet](https://github.com/LIghtJUNction/MagicNet#english-summary) ⭐ 185 | 🐛 18 | 🌐 Shell | 📅 2026-10-06** - Module for device-side traffic governance that enforce network rules below the app layer instead of relying on every app to respect a proxy setting. `FOSS` `[M]` `[K]`
 * **[TCP Optimiser Module](https://github.com/fatalcoder524/TCP_Optimiser_Module) ⭐ 154 | 🐛 4 | 🌐 JavaScript | 📅 2026-07-01** - Change tcp congestion algorithm based on current active internet type and some network enhancements. `FOSS` `[M]` `[K]`
 * **[SimbaDroid](https://github.com/buttercookie42/SimbaDroid) ⭐ 117 | 🐛 8 | 🌐 Java | 📅 2025-10-21** - A simple SMB file server for Android. `FOSS` | [🌱](https://f-droid.org/packages/de.buttercookie.simbadroid)
 * **[Magisk LAN Auto Switch](https://github.com/NewFuture/magisk-modules/tree/main/magisk-lan-auto-switch) ⭐ 10 | 🐛 0 | 🌐 Shell | 📅 2025-05-22** - Automatically switch LAN and WiFi based on eth0 connection status. `FOSS` `[M]`
@@ -1312,17 +1312,17 @@ more), network diagnostics, Wi-Fi & mobile data utilities and Bluetooth & NFC ap
 
 ## VPN & Proxy
 
-* **[FlClash](https://github.com/chen08209/FlClash) ⭐ 54,495 | 🐛 492 | 🌐 Dart | 📅 2026-10-03** - A multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free. `FOSS`
-* **[VPN Hotspot](https://github.com/Mygod/VPNHotspot) ⭐ 6,533 | 🐛 25 | 🌐 Kotlin | 📅 2026-09-04** - Share your VPN connection over hotspot or repeater. `FOSS`
-* **[Box for Root](https://github.com/taamarin/box_for_magisk) ⭐ 2,524 | 🐛 85 | 🌐 Shell | 📅 2026-09-24** - Box for Root (BFR) is a Magisk, KernelSU, APatch, module that provides a suite of proxy tools, including clash, sing-box, v2ray, hysteria and xray. It allows you to configure a transparent proxy on Android devices with root access. `FOSS` `[M]` `[K]`
-* **[Surfing](https://github.com/GitMetaio/Surfing) ⭐ 2,439 | 🐛 81 | 🌐 Shell | 📅 2026-10-05** - Magisk and KernelSU modules for Clash/mihomo, sing-box, v2ray, xray, hysteria services. `FOSS` `[M]` `[K]`
+* **[FlClash](https://github.com/chen08209/FlClash) ⭐ 54,541 | 🐛 492 | 🌐 Dart | 📅 2026-10-03** - A multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free. `FOSS`
+* **[VPN Hotspot](https://github.com/Mygod/VPNHotspot) ⭐ 6,536 | 🐛 25 | 🌐 Kotlin | 📅 2026-09-04** - Share your VPN connection over hotspot or repeater. `FOSS`
+* **[Box for Root](https://github.com/taamarin/box_for_magisk) ⭐ 2,525 | 🐛 85 | 🌐 Shell | 📅 2026-09-24** - Box for Root (BFR) is a Magisk, KernelSU, APatch, module that provides a suite of proxy tools, including clash, sing-box, v2ray, hysteria and xray. It allows you to configure a transparent proxy on Android devices with root access. `FOSS` `[M]` `[K]`
+* **[Surfing](https://github.com/GitMetaio/Surfing) ⭐ 2,439 | 🐛 81 | 🌐 Shell | 📅 2026-10-06** - Magisk and KernelSU modules for Clash/mihomo, sing-box, v2ray, xray, hysteria services. `FOSS` `[M]` `[K]`
 * **[Box4Magisk / KernelSU / APatch](https://github.com/CHIZI-0618/box4magisk) ⭐ 1,914 | 🐛 3 | 🌐 Shell | 📅 2026-09-30** - Deploy multiple proxy cores on Android devices, including clash, mihomo, sing-box, v2ray, xray, and hysteria. `FOSS` `[M]` `[K]`
-* **[NetProxy-Magisk](https://github.com/Fanju6/NetProxy-Magisk) ⭐ 1,221 | 🐛 22 | 🌐 Go | 📅 2026-10-05** - Magisk proxy module based on Xray kernel, supports one-click start/stop transparent proxy. `FOSS` `[M]`
-* **[VPN Hide](https://github.com/okhsunrog/vpnhide) ⭐ 579 | 🐛 6 | 🌐 Kotlin | 📅 2026-10-01** - Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk) `FOSS` `[M]` `[K]`
+* **[NetProxy-Magisk](https://github.com/Fanju6/NetProxy-Magisk) ⭐ 1,222 | 🐛 22 | 🌐 Go | 📅 2026-10-06** - Magisk proxy module based on Xray kernel, supports one-click start/stop transparent proxy. `FOSS` `[M]`
+* **[VPN Hide](https://github.com/okhsunrog/vpnhide) ⭐ 581 | 🐛 6 | 🌐 Kotlin | 📅 2026-10-01** - Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk) `FOSS` `[M]` `[K]`
 * **[ZDT-D Root Module](https://github.com/GAME-OVER-op/ZDT-D) ⭐ 283 | 🐛 7 | 🌐 Kotlin | 📅 2026-10-05** - Module for traffic routing, DPI bypass, proxy chaining, DNS control, and per-app network management. `FOSS` `[M]` `[K]`
-* **[AsteriskNG](https://github.com/Asterisk4Magisk/AsteriskNG) ⭐ 270 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-04** - An Xray GUI client for Android, support VPN Service, TPROXY(ROOT), TUN2SOCKS(ROOT) and BPF2SOCKS(ROOT). `FOSS` `[M]` `[K]`
+* **[AsteriskNG](https://github.com/Asterisk4Magisk/AsteriskNG) ⭐ 271 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-04** - An Xray GUI client for Android, support VPN Service, TPROXY(ROOT), TUN2SOCKS(ROOT) and BPF2SOCKS(ROOT). `FOSS` `[M]` `[K]`
 * **[AsteriskMETA](https://github.com/Asterisk4Magisk/AsteriskMETA) ⭐ 227 | 🐛 4 | 🌐 Kotlin | 📅 2026-10-05** - A Mihomo GUI client for Android, support VPN Service, TPROXY(ROOT), TUN(ROOT), TUN2SOCKS(ROOT) and BPF2SOCKS(ROOT). `FOSS` `[M]` `[K]`
-* **[AsteriskBOX](https://github.com/Asterisk4Magisk/AsteriskBOX) ⭐ 161 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-04** - A sing-box GUI client for Android, support VPN Service, TPROXY(ROOT), TUN(ROOT), eBPF(ROOT), TUN2SOCKS(ROOT) and BPF2SOCKS(ROOT). `FOSS` `[M]` `[K]`
+* **[AsteriskBOX](https://github.com/Asterisk4Magisk/AsteriskBOX) ⭐ 162 | 🐛 3 | 🌐 Kotlin | 📅 2026-10-06** - A sing-box GUI client for Android, support VPN Service, TPROXY(ROOT), TUN(ROOT), eBPF(ROOT), TUN2SOCKS(ROOT) and BPF2SOCKS(ROOT). `FOSS` `[M]` `[K]`
 * **[zapret for Magisk](https://github.com/sevcator/zapret-magisk) ⭐ 158 | 🐛 2 | 🌐 Shell | 📅 2026-10-01** - DPI bypass on Android with additional features. `FOSS` `[M]`
 * **[SAM](https://github.com/5MayRain/SAM) ⭐ 151 | 🐛 11 | 🌐 HTML | 📅 2026-09-21** - A module combining SmartDNS, AdGuardHome, and mihomo, suitable for Magisk and KernelSU. `FOSS` `[M]` `[K]`
 * **[ZeroTier for Magisk](https://github.com/eventlOwOp/zerotier-magisk) ⭐ 149 | 🐛 7 | 🌐 HTML | 📅 2025-08-13** - Run zerotier in the background after booting with no conflicts with other Android VPN services. Use Android App to control ZeroTier. `FOSS` `[M]`
@@ -1333,8 +1333,8 @@ more), network diagnostics, Wi-Fi & mobile data utilities and Bluetooth & NFC ap
 
 ## Wi-Fi & Mobile Data
 
-* **[Network Switch](https://github.com/aunchagaonkar/NetworkSwitch#installation) ⭐ 477 | 🐛 24 | 🌐 Kotlin | 📅 2026-09-27** - Modern Android app for 4G/5G network mode switching. `FOSS` | [🌱](https://apt.izzysoft.de/packages/com.supernova.networkswitch)
-* **[WiFi Password Manager](https://github.com/Khh-vu/wifi-password-manager) ⭐ 306 | 🐛 5 | 🌐 Kotlin | 📅 2026-10-02** - Simple app to manage WiFi passwords. `FOSS` | [🌱](https://apt.izzysoft.de/packages/io.github.wifi_password_manager)
+* **[Network Switch](https://github.com/aunchagaonkar/NetworkSwitch#installation) ⭐ 478 | 🐛 24 | 🌐 Kotlin | 📅 2026-09-27** - Modern Android app for 4G/5G network mode switching. `FOSS` | [🌱](https://apt.izzysoft.de/packages/com.supernova.networkswitch)
+* **[WiFi Password Manager](https://github.com/Khh-vu/wifi-password-manager) ⭐ 307 | 🐛 5 | 🌐 Kotlin | 📅 2026-10-02** - Simple app to manage WiFi passwords. `FOSS` | [🌱](https://apt.izzysoft.de/packages/io.github.wifi_password_manager)
 * **[VirtualAP](https://github.com/ravindu644/VirtualAP) ⭐ 112 | 🐛 1 | 🌐 Kotlin | 📅 2026-10-05** - Turn a rooted Android phone into Wi-Fi access point with static gateway, selectable upstream (mobile data, Wi-Fi, Ethernet, or a VPN tunnel) etc. `FOSS` `[LSP]`
 * **[NetToggle](https://github.com/Dhangofa/NetToggle) ⭐ 57 | 🐛 1 | 🌐 Java | 📅 2026-09-21** - Quick Settings tile that switches cellular network modes (5G Only, 4G/LTE Only, Preferred 5G/4G/3G, 2G Only) through root or Shizuku, with dual-SIM targeting. `FOSS` | [🌱](https://f-droid.org/packages/com.dhangofa.networktoggle)
 * **[WiFi Password Viewer for MMRL](https://github.com/Googlers-Repo/wpd) ⭐ 40 | 🐛 2 | 🌐 Kotlin | 📅 2025-09-09** - WiFi Password Viewer for MMRL. `FOSS`
@@ -1357,9 +1357,9 @@ game-specific tools, mixing root apps, Magisk/KernelSU modules and LSPosed modul
 
 ## Gaming Optimization
 
-* **[AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) ⭐ 2,719 | 🐛 0 | 🌐 Shell | 📅 2026-09-18** - Game threads tweaker for Android, suitable for mainstream games and some niche games. `FOSS` `[M]`
-* **[Uperf-Game-Turbo](https://github.com/yinwanxi/Uperf-Game-Turbo) ⭐ 1,554 | 🐛 0 | 🌐 Shell | 📅 2026-09-17** - Userspace performance controller for Android. `FOSS` `[M]`
-* **[Encore Tweaks](https://github.com/Rem01Gaming/encore) ⭐ 516 | 🐛 3 | 🌐 C++ | 📅 2026-10-05** - Enhance device performance during gaming sessions, while keeping battery life optimized for normal use. `Proprietary` `[M]`
+* **[AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) ⭐ 2,720 | 🐛 0 | 🌐 Shell | 📅 2026-09-18** - Game threads tweaker for Android, suitable for mainstream games and some niche games. `FOSS` `[M]`
+* **[Uperf-Game-Turbo](https://github.com/yinwanxi/Uperf-Game-Turbo) ⭐ 1,553 | 🐛 0 | 🌐 Shell | 📅 2026-09-17** - Userspace performance controller for Android. `FOSS` `[M]`
+* **[Encore Tweaks](https://github.com/Rem01Gaming/encore) ⭐ 515 | 🐛 3 | 🌐 C++ | 📅 2026-10-05** - Enhance device performance during gaming sessions, while keeping battery life optimized for normal use. `Proprietary` `[M]`
 * **[MIUIPerfSaver](https://github.com/rdtoy/MIUIPerfSaver) ⭐ 214 | 🐛 0 | 🌐 Kotlin | 📅 2025-08-30** - Remove MIUI's performance limit, run app at maximum FPS. `FOSS` `[LSP]`
 * **[FPS Limitations Patcher](https://github.com/Mods-Center/FPS-Limitation-Patcher) ⭐ 38 | 🐛 3 | 📅 2025-11-16** - Removes FPS limitations in system apps and games on HyperOS. `Proprietary` `[M]` `[K]`
 * **[FPS Unlocker](https://github.com/yadavnikhil03/GameUnlocker#fps-unlocker) ⭐ 38 | 🐛 9 | 🌐 C++ | 📅 2026-10-01** - Enables 90 FPS options in BGMI and PUBG and other Games as well for smoother gameplay on low-end devices. `FOSS` `[M]`
@@ -1380,15 +1380,15 @@ automation apps (**Tasker, MacroDroid, Automate**) and hardware/sensor utilities
 * **[ADB Root](https://github.com/evdenis/adb_root) ⭐ 510 | 🐛 2 | 🌐 Shell | 📅 2026-06-19** - A Magisk module that runs the adbd daemon as root and skips USB authentication. `FOSS` `[M]`
 * **[Magisk-WiFiADB](https://github.com/mrh929/magisk-wifiadb) ⭐ 272 | 🐛 3 | 🌐 Shell | 📅 2025-05-05** - Enable WiFi ADB automatically. `FOSS` `[M]`
 * **[Debug Assistant](https://github.com/ThePedroo/DebugAssistant) ⭐ 36 | 🐛 0 | 🌐 Shell | 📅 2026-02-06** - The simplest yet powerful logcat capture system as Magisk module. `FOSS` `[M]`
+* **[Loki](https://github.com/trinadhthatakula/Loki) ⭐ 26 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-05** - Logcat reader that captures, saves and shares another app's logs using root or Shizuku. `FOSS`
 * **[Android-ADB-over-WiFi](https://github.com/warren-bank/Android-ADB-over-WiFi) ⭐ 25 | 🐛 3 | 🌐 Java | 📅 2026-02-04** - Toggles a rooted device's Android Debug Bridge daemon (adbd) between USB and WiFi mode. `FOSS` `[LSP]`
-* **[Loki](https://github.com/trinadhthatakula/Loki) ⭐ 25 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-05** - Logcat reader that captures, saves and shares another app's logs using root or Shizuku. `FOSS`
 * **[Hotspot Wireless Debugging](https://github.com/droserasprout/io.drsr.hotspotadb) ⭐ 17 | 🐛 4 | 🌐 Kotlin | 📅 2026-07-18** - Xposed module to allow Wireless Debugging over Wi-Fi Hotspot. `FOSS` `[LSP]`
 * **[Log Catcher](https://github.com/hxreborn/Log-Catcher) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-15** - Captures logcat and kernel messages during startup and archives them as timestamped tarballs after unlock. `FOSS` `[M]` `[K]`
 * **[Logcat Extreme](https://play.google.com/store/apps/details?id=scd.lcex)** - Logcat reader and capture tool for rooted Android devices. `Proprietary`
 
 ## Automation
 
-* **[FIRERPA (lamda)](https://github.com/firerpa/lamda) ⭐ 8,532 | 🐛 47 | 🌐 Python | 📅 2026-09-27** - On-device control platform driven by a Python client: remote desktop streaming, UI/OCR automation, traffic capture, built-in Frida and proxy/VPN networking. Runs with or without root. `FOSS`
+* **[FIRERPA (lamda)](https://github.com/firerpa/lamda) ⭐ 8,533 | 🐛 47 | 🌐 Python | 📅 2026-09-27** - On-device control platform driven by a Python client: remote desktop streaming, UI/OCR automation, traffic capture, built-in Frida and proxy/VPN networking. Runs with or without root. `FOSS`
 * **[Geto](https://github.com/T31n/Geto) ⭐ 1,275 | 🐛 27 | 🌐 Kotlin | 📅 2026-09-02** - Applies device settings automatically when selected apps are launched, using `WRITE_SECURE_SETTINGS` granted through Shizuku or root. `FOSS` | [🌱](https://f-droid.org/en/packages/com.android.geto/)
 * **[crond4Android](https://github.com/powerAn2020/crond4android) ⭐ 40 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-07** - Cron daemon for scheduled jobs on KernelSU, APatch, and Magisk. `FOSS` `[M]` `[K]`
 * **[⭐ MacroDroid](https://play.google.com/store/search?q=macrodroid\&c=apps)** - Easy to use automation app. `Proprietary`
@@ -1397,9 +1397,9 @@ automation apps (**Tasker, MacroDroid, Automate**) and hardware/sensor utilities
 
 ## Developer Tools
 
-* **[Shizuku](https://github.com/RikkaApps/Shizuku) ⭐ 31,083 | 🐛 642 | 🌐 Kotlin | 📅 2025-06-18** - Use system APIs directly with ADB/root privileges. `FOSS` | [🌱](https://apt.izzysoft.de/fdroid/index/apk/moe.shizuku.privileged.api) | [▶️](https://play.google.com/store/search?q=shizuku\&c=apps)
-* **[⭐ Shizuku Fork](https://github.com/thedjchi/Shizuku) ⭐ 6,141 | 🐛 84 | 🌐 Kotlin | 📅 2026-07-15** - Shizuku fork with automatic Shizuku startup, automation, and recovery features. `FOSS`
-* **[Shevery](https://github.com/HmnDev-Tech/shevery) ⭐ 1,290 | 🐛 4 | 🌐 Kotlin | 📅 2026-10-05** - Based on shizuku with Jetpack Compose, Material 3, and compatibility enhancements. `FOSS`
+* **[Shizuku](https://github.com/RikkaApps/Shizuku) ⭐ 31,102 | 🐛 646 | 🌐 Kotlin | 📅 2025-06-18** - Use system APIs directly with ADB/root privileges. `FOSS` | [🌱](https://apt.izzysoft.de/fdroid/index/apk/moe.shizuku.privileged.api) | [▶️](https://play.google.com/store/search?q=shizuku\&c=apps)
+* **[⭐ Shizuku Fork](https://github.com/thedjchi/Shizuku) ⭐ 6,147 | 🐛 84 | 🌐 Kotlin | 📅 2026-07-15** - Shizuku fork with automatic Shizuku startup, automation, and recovery features. `FOSS`
+* **[Shevery](https://github.com/HmnDev-Tech/shevery) ⭐ 1,295 | 🐛 6 | 🌐 Kotlin | 📅 2026-10-05** - Based on shizuku with Jetpack Compose, Material 3, and compatibility enhancements. `FOSS`
 * **[SELinux Permissive](https://github.com/evdenis/selinux_permissive) ⭐ 273 | 🐛 1 | 🌐 Shell | 📅 2026-03-31** - Magisk Module that switches SELinux to permissive mode. `FOSS` `[M]`
 * **[Nano for Android NDK](https://github.com/Magisk-Modules-Repo/nano-ndk) ⭐ 201 | 🐛 0 | 🌐 Shell | 📅 2026-08-17** - Allows temporary recovery use, so you can trigger it from adb shell or TWRP Terminal. `FOSS` `[M]`
 * **[Dhizuku API for Xposed](https://github.com/iamr0s/Dhizuku-API-Xposed) ⭐ 141 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-01** - Force applications to support Dhizuku. `FOSS` `[LSP]`
@@ -1424,7 +1424,7 @@ Frida allows you to inject your own scripts into black box processes, enabling y
 * **[MagiskFrida](https://github.com/ViRb3/magisk-frida) ⭐ 1,466 | 🐛 6 | 🌐 Shell | 📅 2026-10-05** - Lets you run frida-server on boot with multiple root solutions. `FOSS` `[M]` `[K]`
 * **[ZygiskFrida](https://github.com/lico-n/ZygiskFrida) ⭐ 1,089 | 🐛 15 | 🌐 C++ | 📅 2025-10-18** - Injects the Frida gadget into apps through Zygisk, avoiding the ptrace and APK integrity checks that detect frida-server. `FOSS` `[M]` `[K]`
 * **[MagiskHluda](https://github.com/Exo1i/MagiskHluda) ⭐ 432 | 🐛 4 | 🌐 Shell | 📅 2026-02-04** - Starts a Florida-based, less detectable frida-server on boot, with a web UI to start, stop and configure it. `Proprietary` `[M]` `[K]` `[A]`
-* **[Undetected Frida](https://github.com/zer0def/undetected-frida) ⭐ 282 | 🐛 0 | 🌐 Shell | 📅 2026-10-05** - Frida builds with community anti-detection patches applied, also shipped as Magisk/KernelSU modules. `FOSS` `[M]` `[K]`
+* **[Undetected Frida](https://github.com/zer0def/undetected-frida) ⭐ 283 | 🐛 0 | 🌐 Shell | 📅 2026-10-05** - Frida builds with community anti-detection patches applied, also shipped as Magisk/KernelSU modules. `FOSS` `[M]` `[K]`
 * **[Jezail](https://github.com/zahidaz/jezail) ⭐ 277 | 🐛 1 | 🌐 Kotlin | 📅 2026-02-26** - On-device pentesting toolkit that exposes a REST API and web interface for device control, app management, Frida, ADB and logcat on a rooted phone. `FOSS`
 
 ## Hardware & Sensors
@@ -1436,7 +1436,7 @@ Frida allows you to inject your own scripts into black box processes, enabling y
 
 ## Linux Environments
 
-* **[⭐ Droidspaces](https://github.com/ravindu644/Droidspaces-OSS) ⭐ 2,272 | 🐛 4 | 🌐 Kotlin | 📅 2026-10-05** - Run full Linux environments on top of Android, with complete init system support. `FOSS`
+* **[⭐ Droidspaces](https://github.com/ravindu644/Droidspaces-OSS) ⭐ 2,273 | 🐛 4 | 🌐 Kotlin | 📅 2026-10-06** - Run full Linux environments on top of Android, with complete init system support. `FOSS`
 * **[Chroot Distro](https://github.com/Magisk-Modules-Alt-Repo/chroot-distro) ⭐ 500 | 🐛 29 | 🌐 Shell | 📅 2025-12-18** - Install Gnu/Linux distributions on Android. `FOSS` `[M]`
 * **[DebDroid](https://github.com/NICUP14/DebDroid) ⭐ 271 | 🐛 2 | 🌐 Shell | 📅 2026-06-06** - Debian Container Runtime for Android. `FOSS`
 * **[Ubuntu Chroot](https://github.com/ravindu644/Ubuntu-Chroot) ⭐ 164 | 🐛 0 | 🌐 Python | 📅 2026-03-23** - Run Ubuntu 24.04 on Android With full Hardware Access and pure namespace isolation. `FOSS` `[M]` `[K]`
@@ -1447,10 +1447,10 @@ Frida allows you to inject your own scripts into black box processes, enabling y
 
 ## Terminal & Shell
 
-* **[⭐ Termux](https://github.com/termux/termux-app) ⭐ 62,051 | 🐛 630 | 🌐 Java | 📅 2026-09-26** - A terminal emulator application for Android OS extendible by variety of packages. `FOSS` | [🌱](https://f-droid.org/en/packages/com.termux)
-* **[aShell You](https://github.com/DP-Hridayan/aShellYou) ⭐ 2,436 | 🐛 30 | 🌐 Kotlin | 📅 2026-10-05** - Android shell utility app with Material Design 3 UI, letting you run ADB, root and shell commands. `FOSS` | [🌱](https://apt.izzysoft.de/fdroid/index/apk/in.hridayan.ashell)
+* **[⭐ Termux](https://github.com/termux/termux-app) ⭐ 62,082 | 🐛 630 | 🌐 Java | 📅 2026-09-26** - A terminal emulator application for Android OS extendible by variety of packages. `FOSS` | [🌱](https://f-droid.org/en/packages/com.termux)
+* **[aShell You](https://github.com/DP-Hridayan/aShellYou) ⭐ 2,440 | 🐛 30 | 🌐 Kotlin | 📅 2026-10-06** - Android shell utility app with Material Design 3 UI, letting you run ADB, root and shell commands. `FOSS` | [🌱](https://apt.izzysoft.de/fdroid/index/apk/in.hridayan.ashell)
 * **[ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) ⭐ 650 | 🐛 10 | 🌐 C | 📅 2026-09-26** - Material 3 terminal emulator built on Termux's TerminalView, with multiple sessions, virtual keys and Alpine Linux support. `FOSS`
-* **[Termux-Root-Recovery-Tool](https://github.com/Ishu43642/Termux-Root-Recovery-Tool) ⭐ 270 | 🐛 5 | 🌐 Shell | 📅 2026-03-17** - Install GSi Rom , Flashing Fastboot Rom, install Twrp Recovery, Boot.img & vbmeta.img files. `FOSS`
+* **[Termux-Root-Recovery-Tool](https://github.com/Ishu43642/Termux-Root-Recovery-Tool) ⭐ 271 | 🐛 5 | 🌐 Shell | 📅 2026-03-17** - Install GSi Rom , Flashing Fastboot Rom, install Twrp Recovery, Boot.img & vbmeta.img files. `FOSS`
 * **[TermuxRootMods](https://github.com/rompelhd/TermuxRootMods) ⭐ 188 | 🐛 1 | 🌐 C++ | 📅 2026-05-12** - A Magisk module that enhances the Termux experience for rooted devices. `FOSS` `[M]`
 * **[Android 16 Linux Terminal VM Persistence](https://github.com/DigijEth/VM_Magisk_Module) ⭐ 18 | 🐛 0 | 🌐 Shell | 📅 2026-06-30** - Keeps Androids Linux terminal running in the background. `FOSS` `[M]`
 
@@ -1470,10 +1470,10 @@ tools, sharing & intent tweaks, communication helpers and all-in-one power-user 
 
 ## General Toolboxes
 
-* **[⭐ Essentials](https://github.com/sameerasw/essentials) ⭐ 3,217 | 🐛 160 | 🌐 Kotlin | 📅 2026-10-05** - Multi-purpose tweaks for display, notifications and alerts, security and privacy, sound and haptics, and app freezing. `FOSS`
-* **[UotanToolbox NT](https://github.com/Uotan-Dev/UotanToolboxNT) ⭐ 2,744 | 🐛 3 | 🌐 C# | 📅 2026-09-18** - A modern toolbox for Android power users and geeks. `FOSS`
-* **[SwitchAI - Switch AI Digital Assistant](https://github.com/WSTxda/SwitchAI) ⭐ 1,440 | 🐛 12 | 🌐 Kotlin | 📅 2026-10-02** - Easily select, start, and manage your preferred AI digital assistants. `FOSS`
-* **[Zygisk Sui](https://github.com/XiaoTong6666/Sui) ⭐ 721 | 🐛 4 | 🌐 Java | 📅 2026-10-05** - Modern superuser interface (SUI) implementation for Android. `FOSS` `[M]` `[K]`
+* **[⭐ Essentials](https://github.com/sameerasw/essentials) ⭐ 3,216 | 🐛 162 | 🌐 Kotlin | 📅 2026-10-06** - Multi-purpose tweaks for display, notifications and alerts, security and privacy, sound and haptics, and app freezing. `FOSS`
+* **[UotanToolbox NT](https://github.com/Uotan-Dev/UotanToolboxNT) ⭐ 2,745 | 🐛 3 | 🌐 C# | 📅 2026-09-18** - A modern toolbox for Android power users and geeks. `FOSS`
+* **[SwitchAI - Switch AI Digital Assistant](https://github.com/WSTxda/SwitchAI) ⭐ 1,441 | 🐛 12 | 🌐 Kotlin | 📅 2026-10-02** - Easily select, start, and manage your preferred AI digital assistants. `FOSS`
+* **[Zygisk Sui](https://github.com/XiaoTong6666/Sui) ⭐ 725 | 🐛 4 | 🌐 Java | 📅 2026-10-05** - Modern superuser interface (SUI) implementation for Android. `FOSS` `[M]` `[K]`
 * **[APatch Utilities](https://github.com/lzghzr/APatch_kpm) ⭐ 433 | 🐛 2 | 🌐 C | 📅 2026-10-03** - Collection of utility modules for APatch. `FOSS`
 * **[Kaorios Toolbox](https://github.com/Wuang26/Kaorios-Toolbox) ⚠️ Archived** - Toolbox for the Kaorios ROM with Play Integrity fix, device and per-app property spoofing, Google Photos unlimited backup, payload dumper and high-FPS unlock. `Proprietary`
 * **[XposedModulets](https://github.com/binarynoise/XposedModulets) ⭐ 224 | 🐛 6 | 🌐 Kotlin | 📅 2026-09-29** - A collection of many small useful Xposed Modules. `FOSS` `[LSP]`
@@ -1486,7 +1486,7 @@ tools, sharing & intent tweaks, communication helpers and all-in-one power-user 
 
 ## Reboot & Power
 
-* **[RebootNya](https://github.com/daisukiKaffuChino/RebootNya) ⭐ 274 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-20** - A simple yet advanced reboot utility for Android devices. `FOSS`
+* **[RebootNya](https://github.com/daisukiKaffuChino/RebootNya) ⭐ 275 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-20** - A simple yet advanced reboot utility for Android devices. `FOSS`
 * **[Advanced Power Menu](https://github.com/Xposed-Modules-Repo/com.sui.advancedpowermenu) ⭐ 12 | 🐛 0 | 📅 2026-08-27** - Provides a highly compatible extended advanced power menu. `Proprietary` `[LSP]`
 
 ## Sharing & Intent Tools
@@ -1727,7 +1727,7 @@ Choose and install your preferred root method. The modern approach uses boot ima
 
 #### Option A: Magisk (Recommended for Most Users)
 
-1. Download latest **Magisk APK** from [official GitHub](https://github.com/topjohnwu/Magisk/releases) ⭐ 63,094 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-05
+1. Download latest **Magisk APK** from [official GitHub](https://github.com/topjohnwu/Magisk/releases) ⭐ 63,106 | 🐛 38 | 🌐 Kotlin | 📅 2026-10-06
 2. Extract the correct image from your device's stock firmware:
    * **Android 13+ (most devices):** `init_boot.img`
    * **Android 12 and older:** `boot.img`
@@ -1737,7 +1737,7 @@ Choose and install your preferred root method. The modern approach uses boot ima
 5. Reboot and complete Magisk app setup
 
 > \[!TIP]
-> Magisk now supports XZ-compressed modules and 16k page size devices. Use the latest stable release from [GitHub](https://github.com/topjohnwu/Magisk/releases) ⭐ 63,094 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-05.
+> Magisk now supports XZ-compressed modules and 16k page size devices. Use the latest stable release from [GitHub](https://github.com/topjohnwu/Magisk/releases) ⭐ 63,106 | 🐛 38 | 🌐 Kotlin | 📅 2026-10-06.
 
 **[📖 Complete Magisk Guide](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/rooting-guides/magisk-guide.md)**
 
@@ -1775,7 +1775,7 @@ After successful root installation, complete these essential steps:
 1. **Verify Root Access** - Use a root checker app to confirm superuser access works
 2. **Install Essential Apps** - Visit [Starter Kit: Must-Have Apps](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/apps-and-modules)
 3. **Configure Root Hiding** (critical for banking apps):
-   * **Magisk:** Enable Zygisk + DenyList, install any Play Integrity Fix module + [Tricky Store](https://github.com/5ec1cff/TrickyStore) ⭐ 6,391 | 🐛 6 | 📅 2025-11-30 + [Shamiko](https://github.com/LSPosed/LSPosed.github.io) ⭐ 6,346 | 🐛 0 | 🌐 HTML | 📅 2026-07-29 (or open-source [Zygisk Assistant](https://github.com/snake-4/Zygisk-Assistant) ⭐ 2,625 | 🐛 18 | 🌐 C++ | 📅 2026-05-04)
+   * **Magisk:** Enable Zygisk + DenyList, install any Play Integrity Fix module + [Tricky Store](https://github.com/5ec1cff/TrickyStore) ⭐ 6,392 | 🐛 6 | 📅 2025-11-30 + [Shamiko](https://github.com/LSPosed/LSPosed.github.io) ⭐ 6,347 | 🐛 0 | 🌐 HTML | 📅 2026-07-29 (or open-source [Zygisk Assistant](https://github.com/snake-4/Zygisk-Assistant) ⭐ 2,625 | 🐛 18 | 🌐 C++ | 📅 2026-05-04)
    * **KernelSU:** Use App Profiles, install Zygisk Next + PIF + Tricky Store
    * **APatch:** Use SuperKey credential system + PIF modules
 4. **Create Full Backup** - Use Swift Backup, Neo Backup, or recovery nandroid
@@ -1851,9 +1851,9 @@ Symptoms: Apps detect root and refuse to run, Play Integrity check fails
 
 Solutions (2026 best practices):
 
-1. Install **[Tricky Store](https://github.com/5ec1cff/TrickyStore) ⭐ 6,391 | 🐛 6 | 📅 2025-11-30** for advanced key attestation spoofing
-2. Install **[Shamiko](https://github.com/LSPosed/LSPosed.github.io) ⭐ 6,346 | 🐛 0 | 🌐 HTML | 📅 2026-07-29** (closed-source) or **[Zygisk Assistant](https://github.com/snake-4/Zygisk-Assistant) ⭐ 2,625 | 🐛 18 | 🌐 C++ | 📅 2026-05-04** (open-source) for better root hiding
-3. Use **[Zygisk Next](https://github.com/LSPosed/ZygiskNext) ⭐ 651 | 🐛 1 | 🌐 C | 📅 2026-10-05** (alternative Zygisk implementation, works on KernelSU too)
+1. Install **[Tricky Store](https://github.com/5ec1cff/TrickyStore) ⭐ 6,392 | 🐛 6 | 📅 2025-11-30** for advanced key attestation spoofing
+2. Install **[Shamiko](https://github.com/LSPosed/LSPosed.github.io) ⭐ 6,347 | 🐛 0 | 🌐 HTML | 📅 2026-07-29** (closed-source) or **[Zygisk Assistant](https://github.com/snake-4/Zygisk-Assistant) ⭐ 2,625 | 🐛 18 | 🌐 C++ | 📅 2026-05-04** (open-source) for better root hiding
+3. Use **[Zygisk Next](https://github.com/LSPosed/ZygiskNext) ⭐ 658 | 🐛 1 | 🌐 C | 📅 2026-10-05** (alternative Zygisk implementation, works on KernelSU too)
 4. **Magisk:** Enable Zygisk → Configure DenyList (add banking app) → Enforce DenyList
 5. Install Play Integrity Fix module (provides working device fingerprint)
 6. Hide the Magisk app (Settings → Hide the Magisk app → repackage with random name)
@@ -1934,7 +1934,7 @@ If device won't power on or enter any mode:
 
 Advanced app modification framework for rooted devices. The ecosystem has evolved: the original LSPosed was archived in January 2024, and current builds are either closed-source (lsposed.zip) or the fully open-source **Vector** fork.
 
-* **Vector (Recommended):** [GitHub](https://github.com/JingMatrix/Vector) ⭐ 12,660 | 🐛 32 | 🌐 Kotlin | 📅 2026-10-01 - Fully open-source (GPLv3), actively maintained, supports Android 8.1–17 Beta
+* **Vector (Recommended):** [GitHub](https://github.com/JingMatrix/Vector) ⭐ 12,667 | 🐛 31 | 🌐 Kotlin | 📅 2026-10-01 - Fully open-source (GPLv3), actively maintained, supports Android 8.1–17 Beta
 * **LSPosed (Closed-Source):** [lsposed.zip](https://lsposed.zip/) - Original team's builds, API 101 stable
 * Requires Zygisk (Magisk) or Zygisk Next/NeoZygisk (KernelSU)
 * Enables Xposed modules for per-app customization, privacy, and UI tweaks
@@ -1959,11 +1959,11 @@ Play Integrity bypass is essential for banking apps in 2026. Key tools:
 
 | Tool                                                                                                               | Purpose                                              | Status        |
 | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- | ------------- |
-| **[Tricky Store](https://github.com/5ec1cff/TrickyStore) ⭐ 6,391 \| 🐛 6 \| 📅 2025-11-30**                        | Advanced key attestation spoofing                    | Active        |
-| **[Shamiko](https://github.com/LSPosed/LSPosed.github.io) ⭐ 6,346 \| 🐛 0 \| 🌐 HTML \| 📅 2026-07-29**            | Systemlessly hides Zygisk/modules from detection     | Closed-source |
+| **[Tricky Store](https://github.com/5ec1cff/TrickyStore) ⭐ 6,392 \| 🐛 6 \| 📅 2025-11-30**                        | Advanced key attestation spoofing                    | Active        |
+| **[Shamiko](https://github.com/LSPosed/LSPosed.github.io) ⭐ 6,347 \| 🐛 0 \| 🌐 HTML \| 📅 2026-07-29**            | Systemlessly hides Zygisk/modules from detection     | Closed-source |
 | **[Zygisk Assistant](https://github.com/snake-4/Zygisk-Assistant) ⭐ 2,625 \| 🐛 18 \| 🌐 C++ \| 📅 2026-05-04**    | Open-source alternative to Shamiko                   | Active (FOSS) |
-| **[Zygisk Next](https://github.com/LSPosed/ZygiskNext) ⭐ 651 \| 🐛 1 \| 🌐 C \| 📅 2026-10-05**                    | Standalone Zygisk implementation for Magisk/KernelSU | Active        |
-| **[Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork) ⭐ 4,550 \| 🐛 0 \| 🌐 C++ \| 📅 2026-09-28** | Community-maintained PIF script                      | Active        |
+| **[Zygisk Next](https://github.com/LSPosed/ZygiskNext) ⭐ 658 \| 🐛 1 \| 🌐 C \| 📅 2026-10-05**                    | Standalone Zygisk implementation for Magisk/KernelSU | Active        |
+| **[Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork) ⭐ 4,552 \| 🐛 0 \| 🌐 C++ \| 📅 2026-09-28** | Community-maintained PIF script                      | Active        |
 
 > \[!TIP]
 > For the complete and up-to-date list, see our [Root Hiding & Play Integrity apps](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/apps-and-modules/root-management)
@@ -2136,7 +2136,7 @@ Master your Android experience with our comprehensive collection of expert tutor
 
 ### Essential External Resources
 
-* **[Magisk Official](https://github.com/topjohnwu/Magisk) ⭐ 63,094 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-05** - The official repository and documentation for Magisk.
+* **[Magisk Official](https://github.com/topjohnwu/Magisk) ⭐ 63,106 | 🐛 38 | 🌐 Kotlin | 📅 2026-10-06** - The official repository and documentation for Magisk.
 * **[XDA Developers](https://forum.xda-developers.com/)** - The largest community for Android development and discussion.
 * **[Android Developer Docs](https://developer.android.com/)** - Official documentation and APIs from Google.
 * **[ADB Tutorial](https://www.xda-developers.com/install-adb-windows-macos-linux/)** - A complete guide to setting up and using ADB on any operating system.
@@ -2964,9 +2964,9 @@ fastboot oem lock
 
 **Official Resources:**
 
-* [Magisk GitHub](https://github.com/topjohnwu/Magisk) ⭐ 63,094 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-05
-* [KernelSU GitHub](https://github.com/tiann/KernelSU) ⭐ 18,902 | 🐛 72 | 🌐 Kotlin | 📅 2026-10-05
-* [APatch GitHub](https://github.com/bmax121/APatch) ⭐ 8,007 | 🐛 56 | 🌐 Kotlin | 📅 2026-10-05
+* [Magisk GitHub](https://github.com/topjohnwu/Magisk) ⭐ 63,106 | 🐛 38 | 🌐 Kotlin | 📅 2026-10-06
+* [KernelSU GitHub](https://github.com/tiann/KernelSU) ⭐ 18,907 | 🐛 69 | 🌐 Kotlin | 📅 2026-10-06
+* [APatch GitHub](https://github.com/bmax121/APatch) ⭐ 8,009 | 🐛 58 | 🌐 Kotlin | 📅 2026-10-05
 
 **When Asking for Help:**
 
@@ -3276,7 +3276,7 @@ fastboot -w
 **Magisk:**
 
 1. **Reinstall to Current Slot**
-   * Download latest Magisk APK (v30.7 as of February 2026) from [official GitHub](https://github.com/topjohnwu/Magisk/releases) ⭐ 63,094 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-05
+   * Download latest Magisk APK (v30.7 as of February 2026) from [official GitHub](https://github.com/topjohnwu/Magisk/releases) ⭐ 63,106 | 🐛 38 | 🌐 Kotlin | 📅 2026-10-06
    * Open → Install → Direct Install (or "Install to Inactive Slot" after OTA)
    * Reboot
    * See [complete Magisk guide](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/rooting-guides/magisk-guide.md) for detailed instructions
@@ -3585,7 +3585,7 @@ resetprop --delete ro.secure
 **Solutions:**
 
 1. **Install a metamodule first**
-   * Or [mountify](https://github.com/backslashxx/mountify) ⭐ 1,419 | 🐛 22 | 🌐 Shell | 📅 2026-08-25, [meta-hybrid\_mount](https://github.com/YuzakiKokuban/meta-hybrid_mount) ⭐ 1,678 | 🐛 0 | 🌐 Rust | 📅 2026-10-04
+   * Or [mountify](https://github.com/backslashxx/mountify) ⭐ 1,419 | 🐛 22 | 🌐 Shell | 📅 2026-08-25, [meta-hybrid\_mount](https://github.com/YuzakiKokuban/meta-hybrid_mount) ⭐ 1,682 | 🐛 0 | 🌐 Rust | 📅 2026-10-04
    * Download [meta-overlayfs](https://github.com/KernelSU-Modules-Repo/meta-overlayfs) (official)
    * Install via KernelSU Manager → Modules
    * Reboot and try installing modules again
@@ -3936,7 +3936,7 @@ The Play Integrity ecosystem has evolved significantly. The current typical stac
    * ZygiskNext, ReZygisk, or NeoZygisk (for KernelSU/APatch)
 
 2. **Play Integrity Fix Module** (choose one):
-   * PlayIntegrityFix (PIF) - the original by chiteroman (the official PIF by chiteroman has been removed from GitHub; community mirrors exist, e.g. [KOWX712's mirror](https://github.com/KOWX712/PlayIntegrityFix) ⭐ 3,965 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-24)
+   * PlayIntegrityFix (PIF) - the original by chiteroman (the official PIF by chiteroman has been removed from GitHub; community mirrors exist, e.g. [KOWX712's mirror](https://github.com/KOWX712/PlayIntegrityFix) ⭐ 3,967 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-24)
    * PlayIntegrityFork - a Zygisk module which fixes "MEETS\_DEVICE\_INTEGRITY" for the Play Integrity API. On Android 13+ ROMs it still helps to pass checks in Google Wallet and Google Messages RCS support.
    * PIF-Next - not a root hiding module; it only has integration with TrickyStore to ensure valid hardware attestation
 
@@ -4457,9 +4457,9 @@ Error: Stuck on OnePlus logo, no response
 
 **GitHub Issues**
 
-* Magisk: [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) ⭐ 63,094 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-05
-* KernelSU: [tiann/KernelSU](https://github.com/tiann/KernelSU) ⭐ 18,902 | 🐛 72 | 🌐 Kotlin | 📅 2026-10-05
-* APatch: [bmax121/APatch](https://github.com/bmax121/APatch) ⭐ 8,007 | 🐛 56 | 🌐 Kotlin | 📅 2026-10-05
+* Magisk: [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) ⭐ 63,106 | 🐛 38 | 🌐 Kotlin | 📅 2026-10-06
+* KernelSU: [tiann/KernelSU](https://github.com/tiann/KernelSU) ⭐ 18,907 | 🐛 69 | 🌐 Kotlin | 📅 2026-10-06
+* APatch: [bmax121/APatch](https://github.com/bmax121/APatch) ⭐ 8,009 | 🐛 58 | 🌐 Kotlin | 📅 2026-10-05
 
 ### Best Practices
 
@@ -4613,7 +4613,7 @@ adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.s
 
 #### Universal Android Debloater Next Generation
 
-[GitHub](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) ⭐ 9,331 | 🐛 273 | 🌐 Rust | 📅 2026-10-01
+[GitHub](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) ⭐ 9,332 | 🐛 274 | 🌐 Rust | 📅 2026-10-01
 
 **Pros:**
 
@@ -4688,7 +4688,7 @@ adb shell pm enable com.package.name
 
 #### App Manager with Shizuku
 
-[GitHub](https://github.com/MuntashirAkon/AppManager) ⭐ 9,137 | 🐛 200 | 🌐 Java | 📅 2026-10-03
+[GitHub](https://github.com/MuntashirAkon/AppManager) ⭐ 9,144 | 🐛 200 | 🌐 Java | 📅 2026-10-03
 
 **Capabilities:**
 
@@ -4937,11 +4937,11 @@ adb shell cmd appops set [package] RUN_IN_BACKGROUND deny
 
 | Solution                                                                                                                                                   | Best For                                           | Android                            | Zygisk     | Hide Root              | Status         | Source                                                                                                                                   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------- | :--------------------------------- | :--------- | :--------------------- | :------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
-| **[Magisk](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/rooting-guides/magisk-guide.md)**                                   | Universal compatibility                            | 6.0+                               | ✅ Built-in | DenyList               | Active         | [GitHub](https://github.com/topjohnwu/Magisk) ⭐ 63,094 \| 🐛 43 \| 🌐 Kotlin \| 📅 2026-10-05                                            |
-| **[KernelSU](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/rooting-guides/kernelsu-guide.md)**                               | Kernel-level stealth root                          | 12+ (GKI)                          | Via module | Built-in               | Active         | [GitHub](https://github.com/tiann/KernelSU) ⭐ 18,902 \| 🐛 72 \| 🌐 Kotlin \| 📅 2026-10-05                                              |
-| **[KernelSU Next](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/rooting-guides/kernelsu-guide.md)**                          | Advanced kernel root, broader kernel support       | 4.4–6.6 kernels                    | Via module | Built-in + SUSFS       | Active         | [GitHub](https://github.com/KernelSU-Next/KernelSU-Next) ⭐ 4,356 \| 🐛 9 \| 🌐 Kotlin \| 📅 2026-10-05                                   |
-| **[APatch](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/rooting-guides/apatch-guide.md)**                                   | Modern GKI devices                                 | 12+ (GKI)                          | Via module | KPM-based              | Active         | [GitHub](https://github.com/bmax121/APatch) ⭐ 8,007 \| 🐛 56 \| 🌐 Kotlin \| 📅 2026-10-05                                               |
-| **[LSPosed (Fork)](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/rooting-guides/lsposed-guide.md)**                          | Xposed framework modules                           | 8.1–16                             | Required   | N/A                    | Active         | [GitHub](https://github.com/JingMatrix/LSPosed) ⭐ 12,660 \| 🐛 32 \| 🌐 Kotlin \| 📅 2026-10-01                                          |
+| **[Magisk](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/rooting-guides/magisk-guide.md)**                                   | Universal compatibility                            | 6.0+                               | ✅ Built-in | DenyList               | Active         | [GitHub](https://github.com/topjohnwu/Magisk) ⭐ 63,106 \| 🐛 38 \| 🌐 Kotlin \| 📅 2026-10-06                                            |
+| **[KernelSU](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/rooting-guides/kernelsu-guide.md)**                               | Kernel-level stealth root                          | 12+ (GKI)                          | Via module | Built-in               | Active         | [GitHub](https://github.com/tiann/KernelSU) ⭐ 18,907 \| 🐛 69 \| 🌐 Kotlin \| 📅 2026-10-06                                              |
+| **[KernelSU Next](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/rooting-guides/kernelsu-guide.md)**                          | Advanced kernel root, broader kernel support       | 4.4–6.6 kernels                    | Via module | Built-in + SUSFS       | Active         | [GitHub](https://github.com/KernelSU-Next/KernelSU-Next) ⭐ 4,361 \| 🐛 14 \| 🌐 Kotlin \| 📅 2026-10-05                                  |
+| **[APatch](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/rooting-guides/apatch-guide.md)**                                   | Modern GKI devices                                 | 12+ (GKI)                          | Via module | KPM-based              | Active         | [GitHub](https://github.com/bmax121/APatch) ⭐ 8,009 \| 🐛 58 \| 🌐 Kotlin \| 📅 2026-10-05                                               |
+| **[LSPosed (Fork)](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/rooting-guides/lsposed-guide.md)**                          | Xposed framework modules                           | 8.1–16                             | Required   | N/A                    | Active         | [GitHub](https://github.com/JingMatrix/LSPosed) ⭐ 12,667 \| 🐛 31 \| 🌐 Kotlin \| 📅 2026-10-01                                          |
 | **[GhostLock Temp Root](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/rooting-guides/root-without-unlocking-bootloader.md)** | Temporary root, locked bootloader (CVE-2026-43499) | Select devices, ≤ \~Jun 2026 patch | Via KSU    | Bootloader reads stock | Closing window | [Guide](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/rooting-guides/root-without-unlocking-bootloader.md) |
 
 > \[!NOTE]
@@ -4954,9 +4954,9 @@ adb shell cmd appops set [package] RUN_IN_BACKGROUND deny
 
 | Tool                       | Purpose                                 | Compatibility            | Source                                                                                                   |
 | :------------------------- | :-------------------------------------- | :----------------------- | :------------------------------------------------------------------------------------------------------- |
-| **Magisk Built-in Zygisk** | Default Zygisk in Magisk                | Magisk 24+               | Built into [Magisk](https://github.com/topjohnwu/Magisk) ⭐ 63,094 \| 🐛 43 \| 🌐 Kotlin \| 📅 2026-10-05 |
-| **ZygiskNext**             | Standalone Zygisk for KSU/Magisk/APatch | Magisk, KernelSU, APatch | [GitHub](https://github.com/LSPosed/ZygiskNext) ⭐ 651 \| 🐛 1 \| 🌐 C \| 📅 2026-10-05                   |
-| **ReZygisk**               | Transparent, open-source Zygisk fork    | Magisk, KernelSU, APatch | [GitHub](https://github.com/PerformanC/ReZygisk) ⭐ 4,022 \| 🐛 10 \| 🌐 C \| 📅 2026-09-30               |
+| **Magisk Built-in Zygisk** | Default Zygisk in Magisk                | Magisk 24+               | Built into [Magisk](https://github.com/topjohnwu/Magisk) ⭐ 63,106 \| 🐛 38 \| 🌐 Kotlin \| 📅 2026-10-06 |
+| **ZygiskNext**             | Standalone Zygisk for KSU/Magisk/APatch | Magisk, KernelSU, APatch | [GitHub](https://github.com/LSPosed/ZygiskNext) ⭐ 658 \| 🐛 1 \| 🌐 C \| 📅 2026-10-05                   |
+| **ReZygisk**               | Transparent, open-source Zygisk fork    | Magisk, KernelSU, APatch | [GitHub](https://github.com/PerformanC/ReZygisk) ⭐ 4,026 \| 🐛 10 \| 🌐 C \| 📅 2026-09-30               |
 
 > \[!TIP]
 > Compare the strengths and trade-offs of each Zygisk implementation in the table above.
@@ -4965,9 +4965,9 @@ adb shell cmd appops set [package] RUN_IN_BACKGROUND deny
 
 | Tool           | Purpose                                           | Root Required | Source                                                                                            |
 | :------------- | :------------------------------------------------ | :------------ | :------------------------------------------------------------------------------------------------ |
-| **Shizuku**    | Delegated ADB/system API access without full root | No            | [GitHub](https://github.com/RikkaApps/Shizuku) ⭐ 31,083 \| 🐛 642 \| 🌐 Kotlin \| 📅 2025-06-18   |
-| **Dhizuku**    | Device owner delegation via Shizuku               | No            | [GitHub](https://github.com/iamr0s/Dhizuku) ⭐ 3,916 \| 🐛 21 \| 🌐 Kotlin \| 📅 2026-10-01        |
-| **aShell You** | Modern ADB shell interface                        | No            | [GitHub](https://github.com/DP-Hridayan/aShellYou) ⭐ 2,436 \| 🐛 30 \| 🌐 Kotlin \| 📅 2026-10-05 |
+| **Shizuku**    | Delegated ADB/system API access without full root | No            | [GitHub](https://github.com/RikkaApps/Shizuku) ⭐ 31,102 \| 🐛 646 \| 🌐 Kotlin \| 📅 2025-06-18   |
+| **Dhizuku**    | Device owner delegation via Shizuku               | No            | [GitHub](https://github.com/iamr0s/Dhizuku) ⭐ 3,917 \| 🐛 22 \| 🌐 Kotlin \| 📅 2026-10-01        |
+| **aShell You** | Modern ADB shell interface                        | No            | [GitHub](https://github.com/DP-Hridayan/aShellYou) ⭐ 2,440 \| 🐛 30 \| 🌐 Kotlin \| 📅 2026-10-06 |
 
 ### Recovery and flashing tools
 
@@ -4991,7 +4991,7 @@ adb shell cmd appops set [package] RUN_IN_BACKGROUND deny
 | **Odin**               | Samsung firmware flashing (official) | Windows         | Samsung community distribution                                                                     |
 | **Mi Flash Tool**      | Xiaomi fastboot flashing             | Windows         | [xiaomiflashtool.com](https://xiaomiflashtool.com/)                                                |
 | **SP Flash Tool**      | MediaTek SoC flashing                | Windows/Linux   | [spflashtool.com](https://spflashtool.com/)                                                        |
-| **MTK Client**         | Open-source MediaTek bypass/flash    | Python          | [GitHub](https://github.com/bkerler/mtkclient) ⭐ 1,272 \| 🐛 74 \| 🌐 Python \| 📅 2026-09-12      |
+| **MTK Client**         | Open-source MediaTek bypass/flash    | Python          | [GitHub](https://github.com/bkerler/mtkclient) ⭐ 1,275 \| 🐛 73 \| 🌐 Python \| 📅 2026-09-12      |
 | **QFIL (Qualcomm)**    | Qualcomm EDL mode flashing           | Windows         | Qualcomm package                                                                                   |
 | **LineageOS Recovery** | Official LineageOS recovery builds   | Device-specific | [LineageOS Wiki](https://wiki.lineageos.org/devices/)                                              |
 
@@ -5012,7 +5012,7 @@ adb shell cmd appops set [package] RUN_IN_BACKGROUND deny
 
 | Repository               | Type               | Content                    | Link                                                                                                                |
 | :----------------------- | :----------------- | :------------------------- | :------------------------------------------------------------------------------------------------------------------ |
-| **MMRL**                 | Magisk modules     | Community modules          | [GitHub](https://github.com/MMRLApp/MMRL) ⭐ 2,186 \| 🐛 11 \| 🌐 Kotlin \| 📅 2026-09-22                            |
+| **MMRL**                 | Magisk modules     | Community modules          | [GitHub](https://github.com/MMRLApp/MMRL) ⭐ 2,186 \| 🐛 10 \| 🌐 Kotlin \| 📅 2026-09-22                            |
 | **Fox MMRL**             | Module manager     | Alternative client         | [GitHub](https://github.com/Fox2Code/FoxMagiskModuleManager) ⚠️ Archived                                            |
 | **LSPosed Modules**      | Xposed modules     | App modifications          | [Repository](https://github.com/Xposed-Modules-Repo)                                                                |
 | **Root Apps Index**      | Curated collection | 650+ root apps             | [Collection](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/apps-and-modules/index.md) |
@@ -5024,10 +5024,10 @@ adb shell cmd appops set [package] RUN_IN_BACKGROUND deny
 | Tool                       | Purpose                                                                | Source                                                                                                      |
 | :------------------------- | :--------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
 | **Payload-Dumper-Android** | Extract partitions from OTA.zip or payload.bin on Android without a PC | [GitHub](https://github.com/rajmani7584/Payload-Dumper-Android) ⭐ 422 \| 🐛 6 \| 🌐 Kotlin \| 📅 2026-07-19 |
-| **payload-dumper-go**      | Extract payload.bin                                                    | [GitHub](https://github.com/ssut/payload-dumper-go) ⭐ 3,537 \| 🐛 0 \| 🌐 Go \| 📅 2026-09-23               |
+| **payload-dumper-go**      | Extract payload.bin                                                    | [GitHub](https://github.com/ssut/payload-dumper-go) ⭐ 3,535 \| 🐛 0 \| 🌐 Go \| 📅 2026-09-23               |
 | **payload-dumper-py**      | Python payload extractor                                               | [GitHub](https://github.com/vm03/payload_dumper) ⭐ 1,784 \| 🐛 28 \| 🌐 Python \| 📅 2025-04-18             |
 | **payload-dumper-rust**    | Android OTA payload dumper                                             | [GitHub](https://github.com/rhythmcache/payload-dumper-rust) ⭐ 100 \| 🐛 1 \| 🌐 Rust \| 📅 2026-09-05      |
-| **AnyKernel3**             | Kernel packaging/flashing framework                                    | [GitHub](https://github.com/osm0sis/AnyKernel3) ⭐ 1,453 \| 🐛 0 \| 🌐 Shell \| 📅 2026-09-05                |
+| **AnyKernel3**             | Kernel packaging/flashing framework                                    | [GitHub](https://github.com/osm0sis/AnyKernel3) ⭐ 1,454 \| 🐛 0 \| 🌐 Shell \| 📅 2026-09-05                |
 
 ***
 
@@ -5035,7 +5035,7 @@ adb shell cmd appops set [package] RUN_IN_BACKGROUND deny
 
 | Project                 | Features                                                                                                    | Source                                                                                          |
 | :---------------------- | :---------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------- |
-| **WildKernels GKI**     | KernelSU/KernelSU-Next with WildKSU Manager support, SUSFS root hiding patches, BBG Baseband Guard security | [GitHub](https://github.com/WildKernels/GKI_KernelSU_SUSFS) ⭐ 1,653 \| 🐛 12 \| 📅 2026-10-05   |
+| **WildKernels GKI**     | KernelSU/KernelSU-Next with WildKSU Manager support, SUSFS root hiding patches, BBG Baseband Guard security | [GitHub](https://github.com/WildKernels/GKI_KernelSU_SUSFS) ⭐ 1,655 \| 🐛 13 \| 📅 2026-10-05   |
 | **WildKernels OnePlus** | KSU + SUSFS builds for OnePlus GKI devices                                                                  | [GitHub](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS) ⭐ 715 \| 🐛 21 \| 📅 2026-10-05 |
 
 ***
@@ -5211,7 +5211,7 @@ adb shell cmd appops set [package] RUN_IN_BACKGROUND deny
 | :------------------- | :---------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
 | **Emergency Help**   | [Troubleshooting](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/troubleshooting.md)       | [XDA Device Forums](https://forum.xda-developers.com/) |
 | **Root Apps**        | [App Collection](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/apps-and-modules/index.md) | [F-Droid](https://f-droid.org/)                        |
-| **Module Discovery** | [MMRL](https://github.com/MMRLApp/MMRL) ⭐ 2,186 \| 🐛 11 \| 🌐 Kotlin \| 📅 2026-09-22                                  | [Telegram Channels](https://t.me/magiskmod_update)     |
+| **Module Discovery** | [MMRL](https://github.com/MMRLApp/MMRL) ⭐ 2,186 \| 🐛 10 \| 🌐 Kotlin \| 📅 2026-09-22                                  | [Telegram Channels](https://t.me/magiskmod_update)     |
 | **Firmware**         | Manufacturer site                                                                                                       | [Firmware databases](#firmware-sources)                |
 
 ***
@@ -5343,7 +5343,7 @@ Magisk is a systemless root solution that provides superuser access without modi
 
 **On Device:**
 
-* Latest Magisk APK from [GitHub](https://github.com/topjohnwu/Magisk/releases) ⭐ 63,094 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-05
+* Latest Magisk APK from [GitHub](https://github.com/topjohnwu/Magisk/releases) ⭐ 63,106 | 🐛 38 | 🌐 Kotlin | 📅 2026-10-06
 * File manager app
 * At least 500MB free storage
 
@@ -5373,7 +5373,7 @@ This is the official and safest method.
 
 **Magisk APK:**
 
-1. Visit [Magisk GitHub Releases](https://github.com/topjohnwu/Magisk/releases) ⭐ 63,094 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-05
+1. Visit [Magisk GitHub Releases](https://github.com/topjohnwu/Magisk/releases) ⭐ 63,106 | 🐛 38 | 🌐 Kotlin | 📅 2026-10-06
 2. Download the latest stable APK
 3. Transfer to device
 
@@ -5608,7 +5608,7 @@ Only install modules from trusted sources. Malicious modules can damage your sys
 
 **Trusted Module Sources:**
 
-* [Magisk Module Manager](https://github.com/MMRLApp/MMRL) ⭐ 2,186 | 🐛 11 | 🌐 Kotlin | 📅 2026-09-22
+* [Magisk Module Manager](https://github.com/MMRLApp/MMRL) ⭐ 2,186 | 🐛 10 | 🌐 Kotlin | 📅 2026-09-22
 * Official GitHub repositories
 * [Our curated module collection](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/apps-and-modules)
 * XDA Developers forums
@@ -5721,7 +5721,7 @@ After DenyList configuration:
 
 Shamiko hides root more effectively than the built-in DenyList.
 
-1. Download Shamiko from [GitHub](https://github.com/LSPosed/LSPosed.github.io/releases) ⭐ 6,346 | 🐛 0 | 🌐 HTML | 📅 2026-07-29
+1. Download Shamiko from [GitHub](https://github.com/LSPosed/LSPosed.github.io/releases) ⭐ 6,347 | 🐛 0 | 🌐 HTML | 📅 2026-07-29
 2. Install via Magisk
 3. Reboot
 4. DenyList items are now hidden more effectively
@@ -6058,7 +6058,7 @@ Reality: Impossible to pass with:
 
 **Official Resources:**
 
-* [Magisk GitHub](https://github.com/topjohnwu/Magisk) ⭐ 63,094 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-05 - Source code and releases
+* [Magisk GitHub](https://github.com/topjohnwu/Magisk) ⭐ 63,106 | 🐛 38 | 🌐 Kotlin | 📅 2026-10-06 - Source code and releases
 * [Magisk Documentation](https://topjohnwu.github.io/Magisk/) - Official docs
 * [XDA Magisk Forum](https://forum.xda-developers.com/f/magisk.5903/) - Community support
 
@@ -6151,12 +6151,12 @@ KernelSU is a kernel-based root solution operating at the Linux kernel level, pr
 
 The KernelSU ecosystem has expanded beyond the original project. Different variants serve different needs:
 
-| Variant                                                                                                           | Best For                     | Key Features                                            |
-| ----------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------- |
-| **[Official KernelSU](https://github.com/tiann/KernelSU) ⭐ 18,902 \| 🐛 72 \| 🌐 Kotlin \| 📅 2026-10-05**        | Modern GKI 2.0 devices       | Most stable, LKM mode primary, official module repo     |
-| **[KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) ⭐ 4,356 \| 🐛 9 \| 🌐 Kotlin \| 📅 2026-10-05** | Broader device compatibility | GKI+LKM, auto-updates, modern UI, module backup/restore |
-| **[SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) ⭐ 6,463 \| 🐛 31 \| 🌐 Kotlin \| 📅 2026-10-05**   | Legacy & non-GKI devices     | Broadest kernel compat, built-in SUSFS, KPM support     |
-| **[ReSukiSU](https://github.com/ReSukiSU/ReSukiSU) ⭐ 1,728 \| 🐛 10 \| 🌐 Kotlin \| 📅 2026-10-05**               | Multi-manager setups         | SukiSU-Ultra fork with multi-manager support            |
+| Variant                                                                                                            | Best For                     | Key Features                                            |
+| ------------------------------------------------------------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------- |
+| **[Official KernelSU](https://github.com/tiann/KernelSU) ⭐ 18,907 \| 🐛 69 \| 🌐 Kotlin \| 📅 2026-10-06**         | Modern GKI 2.0 devices       | Most stable, LKM mode primary, official module repo     |
+| **[KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) ⭐ 4,361 \| 🐛 14 \| 🌐 Kotlin \| 📅 2026-10-05** | Broader device compatibility | GKI+LKM, auto-updates, modern UI, module backup/restore |
+| **[SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) ⭐ 6,465 \| 🐛 34 \| 🌐 Kotlin \| 📅 2026-10-05**    | Legacy & non-GKI devices     | Broadest kernel compat, built-in SUSFS, KPM support     |
+| **[ReSukiSU](https://github.com/ReSukiSU/ReSukiSU) ⭐ 1,731 \| 🐛 9 \| 🌐 Kotlin \| 📅 2026-10-06**                 | Multi-manager setups         | SukiSU-Ultra fork with multi-manager support            |
 
 **Quick variant selection:**
 
@@ -6262,8 +6262,8 @@ Three main methods. Choose based on your device and variant.
 
 **Step 1:** Download the appropriate GKI kernel from your chosen variant's releases:
 
-* [Official KernelSU Releases](https://github.com/tiann/KernelSU/releases) ⭐ 18,902 | 🐛 72 | 🌐 Kotlin | 📅 2026-10-05
-* [KernelSU-Next Releases](https://github.com/KernelSU-Next/KernelSU-Next/releases) ⭐ 4,356 | 🐛 9 | 🌐 Kotlin | 📅 2026-10-05
+* [Official KernelSU Releases](https://github.com/tiann/KernelSU/releases) ⭐ 18,907 | 🐛 69 | 🌐 Kotlin | 📅 2026-10-06
+* [KernelSU-Next Releases](https://github.com/KernelSU-Next/KernelSU-Next/releases) ⭐ 4,361 | 🐛 14 | 🌐 Kotlin | 📅 2026-10-05
 * [Wild KSU Releases](https://github.com/WildKernels/Wild_KSU/releases) ⚠️ Archived
 
 **Step 2:** Flash the kernel:
@@ -6400,7 +6400,7 @@ This applies to all variants: Official KernelSU, KernelSU-Next, Wild KSU, SukiSU
 | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------- | ----------------------------- |
 | **[meta-overlayfs](https://github.com/KernelSU-Modules-Repo/meta-overlayfs)**                                            | Official reference using OverlayFS                    | Most users, standard setup    |
 | **[mountify](https://github.com/backslashxx/mountify) ⭐ 1,419 \| 🐛 22 \| 🌐 Shell \| 📅 2026-08-25**                    | OverlayFS + tmpfs/ext4 sparse, cross-platform         | Reduced detection, multi-root |
-| **[meta-hybrid\_mount](https://github.com/YuzakiKokuban/meta-hybrid_mount) ⭐ 1,678 \| 🐛 0 \| 🌐 Rust \| 📅 2026-10-04** | Dual engine (OverlayFS + Magic Mount) + auto-fallback | Advanced control, stealth     |
+| **[meta-hybrid\_mount](https://github.com/YuzakiKokuban/meta-hybrid_mount) ⭐ 1,682 \| 🐛 0 \| 🌐 Rust \| 📅 2026-10-04** | Dual engine (OverlayFS + Magic Mount) + auto-fallback | Advanced control, stealth     |
 | **[meta-mm](https://github.com/KernelSU-Modules-Repo/meta-mm)**                                                          | Lightweight Magic Mount alternative                   | Magisk-like mounting          |
 | **[ZeroMount](https://github.com/Enginex0/zeromount) ⭐ 133 \| 🐛 3 \| 🌐 Rust \| 📅 2026-04-15**                         | Mountless VFS path redirection + SUSFS                | Maximum stealth               |
 
@@ -6432,8 +6432,8 @@ ksud module remove module_id
 
 ### Module Compatibility
 
-* Zygisk modules require [ZygiskNext](https://github.com/LSPosed/ZygiskNext) ⭐ 651 | 🐛 1 | 🌐 C | 📅 2026-10-05 or [ReZygisk](https://github.com/PerformanC/ReZygisk) ⭐ 4,022 | 🐛 10 | 🌐 C | 📅 2026-09-30
-* KPM modules require SukiSU-Ultra or [KPatch Next Module](https://github.com/KernelSU-Next/KPatch-Next-Module) ⭐ 491 | 🐛 9 | 🌐 JavaScript | 📅 2026-03-05
+* Zygisk modules require [ZygiskNext](https://github.com/LSPosed/ZygiskNext) ⭐ 658 | 🐛 1 | 🌐 C | 📅 2026-10-05 or [ReZygisk](https://github.com/PerformanC/ReZygisk) ⭐ 4,026 | 🐛 10 | 🌐 C | 📅 2026-09-30
+* KPM modules require SukiSU-Ultra or [KPatch Next Module](https://github.com/KernelSU-Next/KPatch-Next-Module) ⭐ 492 | 🐛 9 | 🌐 JavaScript | 📅 2026-03-05
 * Most Magisk modules work with compatible metamodules
 * Browse modules: [Official Module Repository](https://modules.kernelsu.org/)
 
@@ -6459,7 +6459,7 @@ Modern banking apps use Play Integrity API with hardware-backed attestation - in
 | 1    | **Hide Manager**               | KernelSU Manager → Settings → "Hide the KernelSU Manager" → rename (e.g., "Settings")                                                                                                                                                                                           |
 | 2    | **Banking Profile**            | Create App Profile denying root, filesystem, and hardware access for banking apps                                                                                                                                                                                               |
 | 3    | **Install SUSFS**              | For SUSFS-patched kernels - advanced root hiding with filesystem manipulation                                                                                                                                                                                                   |
-| 4    | **Install Play Integrity Fix** | Use [Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork) ⭐ 4,550 \| 🐛 0 \| 🌐 C++ \| 📅 2026-09-28 or [Play Integrity Fix (inject)](https://github.com/KOWX712/PlayIntegrityFix) ⭐ 3,965 \| 🐛 1 \| 🌐 TypeScript \| 📅 2026-09-24 for MEETS\_DEVICE\_INTEGRITY |
+| 4    | **Install Play Integrity Fix** | Use [Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork) ⭐ 4,552 \| 🐛 0 \| 🌐 C++ \| 📅 2026-09-28 or [Play Integrity Fix (inject)](https://github.com/KOWX712/PlayIntegrityFix) ⭐ 3,967 \| 🐛 1 \| 🌐 TypeScript \| 📅 2026-09-24 for MEETS\_DEVICE\_INTEGRITY |
 | 5    | **Clear app data**             | Clear data for Google Play Services, Play Store, and banking apps → Reboot                                                                                                                                                                                                      |
 
 ### What's Realistic
@@ -6470,7 +6470,7 @@ Modern banking apps use Play Integrity API with hardware-backed attestation - in
 
 ### Testing Tools
 
-* [Play Integrity API Checker](https://github.com/1nikolas/play-integrity-checker-app) ⭐ 839 | 🐛 8 | 🌐 Java | 📅 2025-08-19 - Official checker
+* [Play Integrity API Checker](https://github.com/1nikolas/play-integrity-checker-app) ⭐ 840 | 🐛 8 | 🌐 Java | 📅 2025-08-19 - Official checker
 
 > \[!WARNING]
 > No guarantees. Some apps may still detect root despite all measures. Always test your specific apps.
@@ -6526,7 +6526,7 @@ fastboot reboot
 | Resource                   | Link                                                                                                           |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | Official Website           | [kernelsu.org](https://kernelsu.org/)                                                                          |
-| Official GitHub            | [github.com/tiann/KernelSU](https://github.com/tiann/KernelSU) ⭐ 18,902 \| 🐛 72 \| 🌐 Kotlin \| 📅 2026-10-05 |
+| Official GitHub            | [github.com/tiann/KernelSU](https://github.com/tiann/KernelSU) ⭐ 18,907 \| 🐛 69 \| 🌐 Kotlin \| 📅 2026-10-06 |
 | Official Module Repository | [modules.kernelsu.org](https://modules.kernelsu.org/)                                                          |
 | Telegram (Official)        | [@KernelSU](https://t.me/KernelSU)                                                                             |
 | Reddit                     | [r/KernelSU](https://www.reddit.com/r/KernelSU/)                                                               |
@@ -6539,15 +6539,15 @@ fastboot reboot
 The modern Xposed implementation for Android 8.1 and above. This guide covers both the original LSPosed project (now distributed as closed-source builds via Telegram) and the fully open-source **Vector** fork - helping you make an informed choice about which framework to trust on your device.
 
 > \[!WARNING]
-> **Transparency Advisory:** The original LSPosed GitHub repository ([LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) ⭐ 24,934 | 🐛 5 | 🌐 Java | 📅 2026-09-28) has been **archived** since January 2024 with no public releases since October 2023. Current "official" builds are distributed exclusively as **closed-source** binaries via the LSPosed Telegram channel and **[lsposed.zip](https://lsposed.zip/)**. This violates the GPLv3 license under which the original code was released. Users should be aware of the [ongoing controversy](https://exposelsposed.pages.dev/) and make an informed decision.
+> **Transparency Advisory:** The original LSPosed GitHub repository ([LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) ⭐ 24,937 | 🐛 5 | 🌐 Java | 📅 2026-09-28) has been **archived** since January 2024 with no public releases since October 2023. Current "official" builds are distributed exclusively as **closed-source** binaries via the LSPosed Telegram channel and **[lsposed.zip](https://lsposed.zip/)**. This violates the GPLv3 license under which the original code was released. Users should be aware of the [ongoing controversy](https://exposelsposed.pages.dev/) and make an informed decision.
 >
-> The fully open-source **[Vector](https://github.com/JingMatrix/Vector) ⭐ 12,660 | 🐛 32 | 🌐 Kotlin | 📅 2026-10-01** fork (GPLv3) is actively maintained, has a transparent development process, and supports libxposed API 101 and 102 in its stable release.
+> The fully open-source **[Vector](https://github.com/JingMatrix/Vector) ⭐ 12,667 | 🐛 31 | 🌐 Kotlin | 📅 2026-10-01** fork (GPLv3) is actively maintained, has a transparent development process, and supports libxposed API 101 and 102 in its stable release.
 
 ***
 
 ## Essential Resources
 
-* **[Vector (JingMatrix Fork)](https://github.com/JingMatrix/Vector) ⭐ 12,660 | 🐛 32 | 🌐 Kotlin | 📅 2026-10-01** - Fully open-source (GPLv3), actively maintained - **Recommended**
+* **[Vector (JingMatrix Fork)](https://github.com/JingMatrix/Vector) ⭐ 12,667 | 🐛 31 | 🌐 Kotlin | 📅 2026-10-01** - Fully open-source (GPLv3), actively maintained - **Recommended**
 * **[lsposed.zip](https://lsposed.zip/)** - Closed-source builds from the original LSPosed team (distributed via [Telegram](https://t.me/LSPosed))
 * [Magisk Guide](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/rooting-guides/magisk-guide.md) - Required root solution with Zygisk support
 * [KernelSU Guide](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/rooting-guides/kernelsu-guide.md) - Alternative kernel-based root
@@ -6561,9 +6561,9 @@ There are currently two primary sources for the framework. Choosing the right on
 
 | Feature                  | Vector (JingMatrix Fork)                                                                                  | "Official" LSPosed (lsposed.zip)                                                                                                                      |
 | ------------------------ | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Primary URL**          | [JingMatrix/Vector](https://github.com/JingMatrix/Vector) ⭐ 12,660 \| 🐛 32 \| 🌐 Kotlin \| 📅 2026-10-01 | **[lsposed.zip](https://lsposed.zip/)**                                                                                                               |
+| **Primary URL**          | [JingMatrix/Vector](https://github.com/JingMatrix/Vector) ⭐ 12,667 \| 🐛 31 \| 🌐 Kotlin \| 📅 2026-10-01 | **[lsposed.zip](https://lsposed.zip/)**                                                                                                               |
 | **Open Source**          | ✅ Fully open-source (GPLv3)                                                                               | ❌ Closed-source (GPL violation)                                                                                                                       |
-| **Source Available**     | [Yes - public repo](https://github.com/JingMatrix/Vector) ⭐ 12,660 \| 🐛 32 \| 🌐 Kotlin \| 📅 2026-10-01 | No - distributed via Telegram only                                                                                                                    |
+| **Source Available**     | [Yes - public repo](https://github.com/JingMatrix/Vector) ⭐ 12,667 \| 🐛 31 \| 🌐 Kotlin \| 📅 2026-10-01 | No - distributed via Telegram only                                                                                                                    |
 | **Stable API**           | API 102 (v2.2)                                                                                            | API 101                                                                                                                                               |
 | **Canary/CI API**        | Tracks master, ahead of latest stable                                                                     | N/A                                                                                                                                                   |
 | **Active Development**   | ✅ Active (commits, issues, PRs)                                                                           | ⚠️ Telegram-only, no public tracker                                                                                                                   |
@@ -6572,7 +6572,7 @@ There are currently two primary sources for the framework. Choosing the right on
 | **Trust & Transparency** | ✅ Public code, community audit                                                                            | ⚠️ [Controversy](https://exposelsposed.pages.dev/), [malware in beta](https://xdaforums.com/t/security-analysis-of-the-lsposed-beta-version.4750843/) |
 
 > \[!NOTE]
-> **About lsposed.zip:** This domain is operated by the original LSPosed team. Builds are distributed through their [official Telegram channel](https://t.me/LSPosed) and are **closed-source** - meaning the code cannot be independently audited. The original LSPosed GitHub repository at [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) ⭐ 24,934 | 🐛 5 | 🌐 Java | 📅 2026-09-28 is archived and no longer reflects these builds.
+> **About lsposed.zip:** This domain is operated by the original LSPosed team. Builds are distributed through their [official Telegram channel](https://t.me/LSPosed) and are **closed-source** - meaning the code cannot be independently audited. The original LSPosed GitHub repository at [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) ⭐ 24,937 | 🐛 5 | 🌐 Java | 📅 2026-09-28 is archived and no longer reflects these builds.
 
 ### Which one should I use?
 
@@ -6585,13 +6585,13 @@ There are currently two primary sources for the framework. Choosing the right on
 
 ### What is LSPosed?
 
-LSPosed is a Zygisk module providing an ART hooking framework that maintains API consistency with the original Xposed. It allows modules to modify system and application behavior in-memory without touching system partitions. The original project was developed as open-source (GPLv3) on [GitHub](https://github.com/LSPosed/LSPosed) ⭐ 24,934 | 🐛 5 | 🌐 Java | 📅 2026-09-28, but the repository was **archived in January 2024** after the core developers announced they would stop maintaining it.
+LSPosed is a Zygisk module providing an ART hooking framework that maintains API consistency with the original Xposed. It allows modules to modify system and application behavior in-memory without touching system partitions. The original project was developed as open-source (GPLv3) on [GitHub](https://github.com/LSPosed/LSPosed) ⭐ 24,937 | 🐛 5 | 🌐 Java | 📅 2026-09-28, but the repository was **archived in January 2024** after the core developers announced they would stop maintaining it.
 
 Following the archival, the original team continued distributing closed-source builds through their Telegram channel and `lsposed.zip`. These builds cannot be independently audited and their distribution in closed-source form violates the GPLv3 license.
 
 ### What is Vector?
 
-[Vector](https://github.com/JingMatrix/Vector) ⭐ 12,660 | 🐛 32 | 🌐 Kotlin | 📅 2026-10-01 is a fully open-source (GPLv3) fork of LSPosed maintained by [JingMatrix](https://github.com/JingMatrix) and [84+ contributors](https://github.com/JingMatrix/Vector/graphs/contributors) ⭐ 12,660 | 🐛 32 | 🌐 Kotlin | 📅 2026-10-01. It provides the same ART hooking framework with active public development, issue tracking, and community contributions. Vector v2.2 (stable) implements API 102, while v2.1 introduced API 101.
+[Vector](https://github.com/JingMatrix/Vector) ⭐ 12,667 | 🐛 31 | 🌐 Kotlin | 📅 2026-10-01 is a fully open-source (GPLv3) fork of LSPosed maintained by [JingMatrix](https://github.com/JingMatrix) and [84+ contributors](https://github.com/JingMatrix/Vector/graphs/contributors) ⭐ 12,667 | 🐛 31 | 🌐 Kotlin | 📅 2026-10-01. It provides the same ART hooking framework with active public development, issue tracking, and community contributions. Vector v2.2 (stable) implements API 102, while v2.1 introduced API 101.
 
 ### Key Features
 
@@ -6689,7 +6689,7 @@ Version 2.0 of the Vector fork finalized the API 100 implementation. If a module
 
 **Option A: Vector (Open-Source - Recommended)**
 
-1. Visit [Vector Releases](https://github.com/JingMatrix/Vector/releases) ⭐ 12,660 | 🐛 32 | 🌐 Kotlin | 📅 2026-10-01 on GitHub.
+1. Visit [Vector Releases](https://github.com/JingMatrix/Vector/releases) ⭐ 12,667 | 🐛 31 | 🌐 Kotlin | 📅 2026-10-01 on GitHub.
 2. Download the latest **stable release ZIP** (v2.2, API 102) or a **CI build** (distributed as pre-releases).
 
 **Option B: Official LSPosed (Closed-Source)**
@@ -6722,7 +6722,7 @@ After reboot, look for the LSPosed notification or app icon.
 2. Install **Zygisk Next** via KernelSU Manager > Modules.
 3. Reboot.
 4. Download the ZIP from your chosen source:
-   * **Vector:** [GitHub Releases](https://github.com/JingMatrix/Vector/releases) ⭐ 12,660 | 🐛 32 | 🌐 Kotlin | 📅 2026-10-01 (open-source)
+   * **Vector:** [GitHub Releases](https://github.com/JingMatrix/Vector/releases) ⭐ 12,667 | 🐛 31 | 🌐 Kotlin | 📅 2026-10-01 (open-source)
    * **lsposed.zip:** [lsposed.zip](https://lsposed.zip/) (closed-source)
 5. Install via KernelSU Manager > Modules > Install from storage.
 6. Reboot and open the manager from the notification.
@@ -6908,7 +6908,7 @@ adb reboot
 
 **Follow Development**
 
-* [Vector GitHub](https://github.com/JingMatrix/Vector) ⭐ 12,660 | 🐛 32 | 🌐 Kotlin | 📅 2026-10-01 - Open-source fork (actively maintained)
+* [Vector GitHub](https://github.com/JingMatrix/Vector) ⭐ 12,667 | 🐛 31 | 🌐 Kotlin | 📅 2026-10-01 - Open-source fork (actively maintained)
 * [lsposed.zip](https://lsposed.zip/) - Closed-source builds from the original LSPosed team
 * [LSPosed Telegram](https://t.me/LSPosed) - Official team channel (closed-source builds distributed here)
 * [Expose LSPosed](https://exposelsposed.pages.dev/) - Community documentation of GPL violations and controversy
@@ -7004,12 +7004,12 @@ Everything public that implements or enables CVE-2026-43499 temporary root, grou
 
 ### One-tap apps (easiest)
 
-* **[⭐ GhostLock App](https://github.com/YuKongA/ghostlock-app) ⭐ 1,552 | 🐛 175 | 🌐 Kotlin | 📅 2026-10-05** - One-tap execution app for the GhostLock exploit - install, open, tap, rooted for the session. `FOSS` (Apache-2.0)
-* **[⭐ Root My Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy) ⭐ 1,360 | 🐛 566 | 🌐 Kotlin | 📅 2026-09-03** - The original one-click implementation, for Snapdragon Galaxy flagships (S24/S25 series, S24 FE, A56, and others). Bootloader stays locked, Knox isn't tripped, so Secure Folder, Samsung Wallet, and Play Integrity keep working. Functions as a KernelSU installer with per-device exploit profiles. `FOSS` (Apache-2.0)
+* **[⭐ GhostLock App](https://github.com/YuKongA/ghostlock-app) ⭐ 1,581 | 🐛 185 | 🌐 Kotlin | 📅 2026-10-06** - One-tap execution app for the GhostLock exploit - install, open, tap, rooted for the session. `FOSS` (Apache-2.0)
+* **[⭐ Root My Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy) ⭐ 1,361 | 🐛 567 | 🌐 Kotlin | 📅 2026-09-03** - The original one-click implementation, for Snapdragon Galaxy flagships (S24/S25 series, S24 FE, A56, and others). Bootloader stays locked, Knox isn't tripped, so Secure Folder, Samsung Wallet, and Play Integrity keep working. Functions as a KernelSU installer with per-device exploit profiles. `FOSS` (Apache-2.0)
   * **[Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads) ⭐ 463 | 🐛 261 | 🌐 C | 📅 2026-09-03** - Companion repo with the signed per-device exploit offsets, kernel profiles, and KernelSU artifacts the app fetches at runtime. Adding support for a new device means porting a profile here. `FOSS` (Apache-2.0)
-* **[Root My Pixel](https://github.com/alex193a/Root-My-Pixel) ⭐ 423 | 🐛 22 | 🌐 Kotlin | 📅 2026-09-13** - Port for Google Pixel devices. Uses Shizuku to stage the payload without needing prior root or a PC, then runs the exploit to install ReSukiSU/KernelSU for the session. `FOSS`
-* **[UniRoot](https://github.com/kuuky29/UniRoot) ⭐ 204 | 🐛 7 | 🌐 Kotlin | 📅 2026-09-30** - One-click root for Samsung Galaxy devices, powered by CVE-2026-43499 / dirty-pipe payloads with a KernelSU late-load.
-* **[Root My Galaxy SM-S918B](https://github.com/soumarcelino/Root-My-Galaxy-SM-S918B) ⭐ 56 | 🐛 24 | 🌐 C | 📅 2026-10-01** - Root My Galaxy for Samsung Galaxy S23 Ultra SM-S918B. `FOSS` (Apache-2.0)
+* **[Root My Pixel](https://github.com/alex193a/Root-My-Pixel) ⭐ 424 | 🐛 22 | 🌐 Kotlin | 📅 2026-09-13** - Port for Google Pixel devices. Uses Shizuku to stage the payload without needing prior root or a PC, then runs the exploit to install ReSukiSU/KernelSU for the session. `FOSS`
+* **[UniRoot](https://github.com/kuuky29/UniRoot) ⭐ 205 | 🐛 7 | 🌐 Kotlin | 📅 2026-09-30** - One-click root for Samsung Galaxy devices, powered by CVE-2026-43499 / dirty-pipe payloads with a KernelSU late-load.
+* **[Root My Galaxy SM-S918B](https://github.com/soumarcelino/Root-My-Galaxy-SM-S918B) ⭐ 56 | 🐛 25 | 🌐 C | 📅 2026-10-01** - Root My Galaxy for Samsung Galaxy S23 Ultra SM-S918B. `FOSS` (Apache-2.0)
 * **[GhostLock-Galaxy](https://github.com/wxxsfxyzm/GhostLock-Galaxy) ⭐ 30 | 🐛 1 | 🌐 C | 📅 2026-10-05** - App + CLI for the Samsung Galaxy Z Fold6 (SM-F9560, kernel 6.1). Takes the shell-permission route: start Shizuku via wireless debugging (or use `adb shell`), grant the app, tap **Run**. The kernel is matched against the offset table via `uname -r` at startup, and unsupported kernels are rejected immediately; the repo also documents offset extraction from `boot.img`/`xbl_config.img`. `FOSS` (Apache-2.0)
 * **[root-my-nothing](https://github.com/ang3lo-azevedo/root-my-nothing) ⭐ 19 | 🐛 0 | 🌐 C | 📅 2026-08-07** - One-click temporary root for the Nothing Phone (1); installs KernelSU without unlocking the bootloader. `FOSS`
 * **[iQOO Z9 5G / vivo T3 5G Root](https://github.com/ankitrawatgit/iQOO-Z9_5G-vivo-T3_5G-Root-GhostLock) ⭐ 15 | 🐛 6 | 🌐 C | 📅 2026-09-07** - One-tap root app plus payloads for the iQOO Z9 5G and vivo T3 5G (MediaTek Dimensity 7200 / MT6886, kernel 5.15) - a rare GhostLock port for vivo-family devices. `FOSS`
@@ -7020,8 +7020,8 @@ Everything public that implements or enables CVE-2026-43499 temporary root, grou
 
 * **[ghostlock-oneplus](https://github.com/JoinChang/ghostlock-oneplus) ⭐ 394 | 🐛 38 | 🌐 C | 📅 2026-09-17** - The most developed standalone exploit: root + KernelSU on OnePlus/OPPO/realme devices with a locked bootloader (OnePlus 13/15, Ace 6T, OPPO Pad 4 Pro, and even Xiaomi 17). Runtime kernel auto-detection with a multi-device offset table, a phone-standalone "bootstrap" mode, and optional auto-re-trigger at boot via ReSukiSU. Run it within \~30 seconds of boot for best reliability. `FOSS`
 * **[QuestStack](https://github.com/starseed12345/QuestStack) ⭐ 211 | 🐛 1 | 🌐 C# | 📅 2026-08-28** - Unlocks the **Meta Quest 1** (VR headset) bootloader and gains root using GhostLock combined with CVE-2021-1931 - a striking example of the technique reaching beyond phones. `FOSS`
-* **[IonStack-S22U](https://github.com/sarabpal-dev/IonStack-S22U) ⭐ 84 | 🐛 4 | 🌐 C | 📅 2026-10-04** - Full CVE-2026-43499 exploit chain for the Samsung Galaxy S22 Ultra (5.10 kernel) - extends coverage to an older flagship generation. `FOSS`
-* **[oppo-ghostlock](https://github.com/pubglite55/oppo-ghostlock) ⭐ 65 | 🐛 5 | 🌐 C | 📅 2026-10-05** - GhostLock exploit adaptation for the OPPO Find N2 foldable. `FOSS`
+* **[IonStack-S22U](https://github.com/sarabpal-dev/IonStack-S22U) ⭐ 84 | 🐛 5 | 🌐 C | 📅 2026-10-04** - Full CVE-2026-43499 exploit chain for the Samsung Galaxy S22 Ultra (5.10 kernel) - extends coverage to an older flagship generation. `FOSS`
+* **[oppo-ghostlock](https://github.com/pubglite55/oppo-ghostlock) ⭐ 65 | 🐛 5 | 🌐 C | 📅 2026-10-06** - GhostLock exploit adaptation for the OPPO Find N2 foldable. `FOSS`
 * **[pixel-ksu-root](https://github.com/JingMatrix/pixel-ksu-root) ⭐ 47 | 🐛 1 | 🌐 C | 📅 2026-09-30** - ADB-driven KernelSU loader for stock Google Pixels, from the maintainer of LSPosed/Vector. Gets temporary kernel read/write via GhostLock, then late-loads a signature-matched `kernelsu.ko` for the running KMI - manager-agnostic, so it works with any KernelSU-fork manager. `FOSS`
 * **[GhostLock-5.10](https://github.com/R0rt1z2/GhostLock-5.10) ⭐ 38 | 🐛 1 | 🌐 C | 📅 2026-09-12** - Kernel root exploit for some 5.X-kernel devices - mostly Amazon hardware - from the developer behind Kaeru and Fenrir. Proof that the bug reaches older kernels, not just GKI 6.12 flagships. `FOSS`
 * **[smt878u-ionstack-poc](https://github.com/Wtrwx/smt878u-ionstack-poc) ⭐ 16 | 🐛 2 | 🌐 C | 📅 2026-10-03** - Pure-C re-root proof-of-concept for the Samsung Galaxy Tab S7+ (SM-T878U), demonstrating re-triggering IonStack/GhostLock root after reboot. `FOSS`
@@ -7030,9 +7030,9 @@ Everything public that implements or enables CVE-2026-43499 temporary root, grou
 
 ### Research, foundations & supporting projects
 
-* **[Shizuku](https://github.com/RikkaApps/Shizuku) ⭐ 31,083 | 🐛 642 | 🌐 Kotlin | 📅 2025-06-18** - Not root-related by itself, but Root My Pixel (and similar apps) use it to stage the exploit payload with ADB-level privileges - no prior root needed.
-* **[KernelSU](https://github.com/tiann/KernelSU) ⭐ 18,902 | 🐛 72 | 🌐 Kotlin | 📅 2026-10-05** - The kernel-based root framework every GhostLock tool installs for the session (loaded as a module via `ksud`).
-* **[ReSukiSU](https://github.com/ReSukiSU/ReSukiSU) ⭐ 1,728 | 🐛 10 | 🌐 Kotlin | 📅 2026-10-05** - KernelSU fork favored by several GhostLock tools; its `ksud` provides the late-load (LKM) install path and its app bundles the needed module binaries. Also powers the auto-re-trigger-at-boot integrations.
+* **[Shizuku](https://github.com/RikkaApps/Shizuku) ⭐ 31,102 | 🐛 646 | 🌐 Kotlin | 📅 2025-06-18** - Not root-related by itself, but Root My Pixel (and similar apps) use it to stage the exploit payload with ADB-level privileges - no prior root needed.
+* **[KernelSU](https://github.com/tiann/KernelSU) ⭐ 18,907 | 🐛 69 | 🌐 Kotlin | 📅 2026-10-06** - The kernel-based root framework every GhostLock tool installs for the session (loaded as a module via `ksud`).
+* **[ReSukiSU](https://github.com/ReSukiSU/ReSukiSU) ⭐ 1,731 | 🐛 9 | 🌐 Kotlin | 📅 2026-10-06** - KernelSU fork favored by several GhostLock tools; its `ksud` provides the late-load (LKM) install path and its app bundles the needed module binaries. Also powers the auto-re-trigger-at-boot integrations.
 * **[CyberMeowfia (NebuSec)](https://github.com/NebuSec/CyberMeowfia) ⭐ 1,693 | 🐛 60 | 🌐 C | 📅 2026-09-08** - The original IonStack research writeup and exploit source for CVE-2026-43499 that every tool above is built on. Read this if you want to understand the bug itself.
 * **[CVE-2026-43499-popsicle (x-spy)](https://github.com/x-spy/CVE-2026-43499-popsicle) ⭐ 247 | 🐛 3 | 🌐 C | 📅 2026-07-15** - Clean reference implementation of the exploit for GKI 6.12 kernels; credited as a base by several of the device ports above. `FOSS`
 * **[Kaeru / Fenrir & other MediaTek bootloader tools](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/rooting-guides/temporary-root-solutions.md)** - A *different* route to "root-like" results on a locked device (bootloader patching rather than kernel exploitation). Covered on the [Temporary Root for Android: Methods & Solutions](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/rooting-guides/temporary-root-solutions.md) page.
@@ -7146,14 +7146,14 @@ The word **temporary root** is used for a session-only root that is lost when th
 These tools patch the LK (Little Kernel) bootloader image on MediaTek devices directly, rather than the boot/init\_boot partition. That lets them do things a normal root framework can't: add fastboot commands, remove the unlocked-bootloader warning, or spoof the reported lock state so Play Integrity sees "locked" while the device is actually unlocked.
 
 * **[Fenrir](https://github.com/R0rt1z2/fenrir) ⚠️ Archived** - Proof-of-concept exploit for a secure-boot flaw on the Nothing Phone (2a) / CMF Phone 1 and a handful of other MediaTek devices. It patches `bl2_ext` so the Preloader skips verification, breaking the chain of trust from EL3 onward, and can spoof the device's lock state as "locked" so strong Play Integrity passes on an unlocked device. `FOSS` (AGPL-3.0)
-* **[Kaeru](https://github.com/R0rt1z2/kaeru) ⭐ 320 | 🐛 17 | 🌐 C | 📅 2026-10-04** - ARMv7 payload that gets arbitrary code execution inside MediaTek LK bootloaders. Once injected, it can register custom fastboot commands, remap key-combo boot modes, and remove the unlocked-bootloader boot warning. Bootloader-lock spoofing is opt-in, toggled from fastboot. `FOSS` (AGPL-3.0)
+* **[Kaeru](https://github.com/R0rt1z2/kaeru) ⭐ 320 | 🐛 16 | 🌐 C | 📅 2026-10-04** - ARMv7 payload that gets arbitrary code execution inside MediaTek LK bootloaders. Once injected, it can register custom fastboot commands, remap key-combo boot modes, and remove the unlocked-bootloader boot warning. Bootloader-lock spoofing is opt-in, toggled from fastboot. `FOSS` (AGPL-3.0)
 
 ### Supporting toolchain
 
 Kaeru and Fenrir both build on a small ecosystem of MediaTek bootloader tooling from the same developer group. Useful alongside them, or as a starting point for porting to a new device:
 
-* **[mtkclient](https://github.com/bkerler/mtkclient) ⭐ 1,272 | 🐛 74 | 🌐 Python | 📅 2026-09-12** - The main MediaTek reverse-engineering and flashing tool (BROM/preloader read-write, partition dumping, seccfg unlock). Includes the `kamakiri` exploit chain used to get code execution during flashing. `FOSS`
-* **[lkpatcher](https://github.com/R0rt1z2/lkpatcher) ⭐ 384 | 🐛 21 | 🌐 Python | 📅 2026-06-30** - Streamlines patching known security policies in an LK image (partition listing, policy analysis, JSON-based custom patches) without hand-editing bytes. `FOSS`
+* **[mtkclient](https://github.com/bkerler/mtkclient) ⭐ 1,275 | 🐛 73 | 🌐 Python | 📅 2026-09-12** - The main MediaTek reverse-engineering and flashing tool (BROM/preloader read-write, partition dumping, seccfg unlock). Includes the `kamakiri` exploit chain used to get code execution during flashing. `FOSS`
+* **[lkpatcher](https://github.com/R0rt1z2/lkpatcher) ⭐ 385 | 🐛 21 | 🌐 Python | 📅 2026-06-30** - Streamlines patching known security policies in an LK image (partition listing, policy analysis, JSON-based custom patches) without hand-editing bytes. `FOSS`
 * **[amonet](https://github.com/R0rt1z2/amonet) ⭐ 165 | 🐛 5 | 🌐 C | 📅 2026-09-11** - Older BootROM + LK exploit chain, mainly for Amazon-branded MediaTek devices with locked-down BROM stages that `mtkclient` alone can't reach. `FOSS`
 * **[liblk](https://github.com/R0rt1z2/liblk) ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2026-06-30** - Python library for parsing and rebuilding MediaTek LK images; the base that `lkpatcher` and the Kaeru/Fenrir injectors are built on. `FOSS`
 
@@ -7167,8 +7167,8 @@ In mid-2026, a use-after-free bug in the Linux kernel's rtmutex proxy-lock rollb
 The headline tools:
 
 * **[CyberMeowfia (IonStack research)](https://github.com/NebuSec/CyberMeowfia) ⭐ 1,693 | 🐛 60 | 🌐 C | 📅 2026-09-08** - NebuSec's original writeup and exploit source for CVE-2026-43499 that the tools above are built on.
-* **[Root My Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy) ⭐ 1,360 | 🐛 566 | 🌐 Kotlin | 📅 2026-09-03** - The original one-click app for Snapdragon Galaxy flagships (S24/S25 series, S24 FE, A56, and others). `FOSS` (Apache-2.0)
-* **[Root My Pixel](https://github.com/alex193a/Root-My-Pixel) ⭐ 423 | 🐛 22 | 🌐 Kotlin | 📅 2026-09-13** - Port for Google Pixel devices, staging the payload via Shizuku. `FOSS`
+* **[Root My Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy) ⭐ 1,361 | 🐛 567 | 🌐 Kotlin | 📅 2026-09-03** - The original one-click app for Snapdragon Galaxy flagships (S24/S25 series, S24 FE, A56, and others). `FOSS` (Apache-2.0)
+* **[Root My Pixel](https://github.com/alex193a/Root-My-Pixel) ⭐ 424 | 🐛 22 | 🌐 Kotlin | 📅 2026-09-13** - Port for Google Pixel devices, staging the payload via Shizuku. `FOSS`
 * **[ghostlock-oneplus](https://github.com/JoinChang/ghostlock-oneplus) ⭐ 394 | 🐛 38 | 🌐 C | 📅 2026-09-17** - Standalone exploit for OnePlus/OPPO/realme (and some Xiaomi) devices with a locked bootloader. `FOSS`
 
 Community ports keep spreading - Galaxy S22 Ultra / Z Fold6 / A17, OPPO Find N2, iQOO Z9 5G / vivo T3 5G, POCO M6 Pro, Amazon 5.X-kernel devices, Nothing Phone (1), Galaxy Tab S7+, and even the Meta Quest 1 - all listed with details on the [dedicated GhostLock page](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/rooting-guides/root-without-unlocking-bootloader.md).
@@ -7189,7 +7189,7 @@ Community ports keep spreading - Galaxy S22 Ultra / Z Fold6 / A17, OPPO Find N2,
 | Needs unlocked bootloader                          | Yes                                                                                                     | Yes (to flash the patched image)  | **No**                             |
 | Survives reboot                                    | Yes (until OTA)                                                                                         | Yes (until re-flashed/relocked)   | **No**, re-run every boot          |
 | Trips Knox / warranty fuse                         | Depends on OEM                                                                                          | Depends on OEM                    | **No**                             |
-| Can spoof lock state to pass strong Play Integrity | No (needs [Tricky Store](https://github.com/5ec1cff/TrickyStore) ⭐ 6,391 \| 🐛 6 \| 📅 2025-11-30 etc.) | Yes, built in (Fenrir/Kaeru)      | Bootloader already reads as locked |
+| Can spoof lock state to pass strong Play Integrity | No (needs [Tricky Store](https://github.com/5ec1cff/TrickyStore) ⭐ 6,392 \| 🐛 6 \| 📅 2025-11-30 etc.) | Yes, built in (Fenrir/Kaeru)      | Bootloader already reads as locked |
 | Scope                                              | Boot/init\_boot partition                                                                               | Bootloader (LK) itself            | Kernel, in memory only             |
 | Device support                                     | Broad                                                                                                   | MediaTek only, per-device porting | Per-device, patch-level dependent  |
 
@@ -7407,7 +7407,7 @@ App Manager includes a built-in debloater that uses the comprehensive [Android D
 
 #### For Root Users
 
-1. Install App Manager from [F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager) or [GitHub](https://github.com/MuntashirAkon/AppManager/releases) ⭐ 9,137 | 🐛 200 | 🌐 Java | 📅 2026-10-03
+1. Install App Manager from [F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager) or [GitHub](https://github.com/MuntashirAkon/AppManager/releases) ⭐ 9,144 | 🐛 200 | 🌐 Java | 📅 2026-10-03
 2. Grant root permission when prompted
 3. Open App Manager - it will automatically detect root access
 
@@ -7499,7 +7499,7 @@ Canta is a modern, user-friendly debloating tool that works without root using t
 
 Download from:
 
-* [GitHub Releases](https://github.com/samolego/Canta/releases) ⭐ 6,071 | 🐛 30 | 🌐 Kotlin | 📅 2026-10-04
+* [GitHub Releases](https://github.com/samolego/Canta/releases) ⭐ 6,075 | 🐛 31 | 🌐 Kotlin | 📅 2026-10-04
 * [F-Droid](https://f-droid.org/en/packages/io.github.samolego.canta/)
 * [Google Play Store](https://play.google.com/store/apps/details?id=io.github.samolego.canta) (testing)
 
@@ -7637,8 +7637,8 @@ When removing OEM apps, consider these open-source alternatives (explore more in
 
 ### Core Apps
 
-* **File Manager**: [Material Files](https://github.com/zhanghai/MaterialFiles) ⭐ 9,146 | 🐛 615 | 🌐 Kotlin | 📅 2026-09-24 (see [file managers](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/apps-and-modules/file-management))
-* **Gallery**: [Fossify Gallery](https://github.com/FossifyOrg/Gallery) ⭐ 3,755 | 🐛 324 | 🌐 Kotlin | 📅 2026-10-03
+* **File Manager**: [Material Files](https://github.com/zhanghai/MaterialFiles) ⭐ 9,145 | 🐛 615 | 🌐 Kotlin | 📅 2026-09-24 (see [file managers](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/apps-and-modules/file-management))
+* **Gallery**: [Fossify Gallery](https://github.com/FossifyOrg/Gallery) ⭐ 3,754 | 🐛 324 | 🌐 Kotlin | 📅 2026-10-03
 * **Launcher**: [Lawnchair](https://lawnchair.app/), [Nova Launcher](https://novalauncher.com/) (see [more launchers](https://github.com/awesome-android-root/awesome-android-root/blob/HEAD/docs/apps-and-modules/customization))
 * **Camera**: [Open Camera](https://opencamera.sourceforge.io/)
 
@@ -7650,7 +7650,7 @@ When removing OEM apps, consider these open-source alternatives (explore more in
 
 ### Productivity
 
-* **Keyboard**: [HeliBoard](https://github.com/HeliBorg/HeliBoard) ⭐ 6,269 | 🐛 840 | 🌐 Kotlin | 📅 2026-10-04
+* **Keyboard**: [HeliBoard](https://github.com/HeliBorg/HeliBoard) ⭐ 6,271 | 🐛 840 | 🌐 Kotlin | 📅 2026-10-04
 * **Calendar**: [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) ⭐ 3,651 | 🐛 307 | 🌐 Kotlin | 📅 2024-06-26
 * **Notes**: [Standard Notes](https://standardnotes.com/), [Joplin](https://joplinapp.org/)
 
@@ -7936,9 +7936,9 @@ Usually no. Relocking with modified partitions can brick or wipe the device. Ret
 
 ## Official resources
 
-* **Magisk:** [GitHub](https://github.com/topjohnwu/Magisk) ⭐ 63,094 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-05 · [Docs](https://topjohnwu.github.io/Magisk/) · [Install guide](https://topjohnwu.github.io/Magisk/install.html)
-* **KernelSU:** [GitHub](https://github.com/tiann/KernelSU) ⭐ 18,902 | 🐛 72 | 🌐 Kotlin | 📅 2026-10-05 · [Docs](https://kernelsu.org/) · [Installation](https://kernelsu.org/guide/installation.html) · [Metamodules](https://kernelsu.org/guide/metamodule.html)
-* **APatch:** [GitHub](https://github.com/bmax121/APatch) ⭐ 8,007 | 🐛 56 | 🌐 Kotlin | 📅 2026-10-05 · [Docs](https://apatch.dev/) · [Installation](https://apatch.dev/install.html)
+* **Magisk:** [GitHub](https://github.com/topjohnwu/Magisk) ⭐ 63,106 | 🐛 38 | 🌐 Kotlin | 📅 2026-10-06 · [Docs](https://topjohnwu.github.io/Magisk/) · [Install guide](https://topjohnwu.github.io/Magisk/install.html)
+* **KernelSU:** [GitHub](https://github.com/tiann/KernelSU) ⭐ 18,907 | 🐛 69 | 🌐 Kotlin | 📅 2026-10-06 · [Docs](https://kernelsu.org/) · [Installation](https://kernelsu.org/guide/installation.html) · [Metamodules](https://kernelsu.org/guide/metamodule.html)
+* **APatch:** [GitHub](https://github.com/bmax121/APatch) ⭐ 8,009 | 🐛 58 | 🌐 Kotlin | 📅 2026-10-05 · [Docs](https://apatch.dev/) · [Installation](https://apatch.dev/install.html)
 * **Google:** [Play Integrity verdicts](https://developer.android.com/google/play/integrity/verdicts)
 
 ::: tip Final rule
@@ -7992,9 +7992,9 @@ Unlocking bootloader **erases everything** on your device. Backup all data first
 
 **Software Downloads:**
 
-1. **[Magisk APK](https://github.com/topjohnwu/Magisk/releases) ⭐ 63,094 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-05** - Latest stable
-   * **Google Pixel / Pixel XL (1st gen):** use **[Magisk v30.6](https://github.com/topjohnwu/Magisk/releases/tag/v30.6) ⭐ 63,094 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-05** until [issue #9808](https://github.com/topjohnwu/Magisk/issues/9808) ⭐ 63,094 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-05 is resolved.
-2. **[Pixel Flasher](https://github.com/badabing2005/PixelFlasher) ⭐ 2,309 | 🐛 3 | 🌐 Python | 📅 2026-10-02** - GUI tool (optional)
+1. **[Magisk APK](https://github.com/topjohnwu/Magisk/releases) ⭐ 63,106 | 🐛 38 | 🌐 Kotlin | 📅 2026-10-06** - Latest stable
+   * **Google Pixel / Pixel XL (1st gen):** use **[Magisk v30.6](https://github.com/topjohnwu/Magisk/releases/tag/v30.6) ⭐ 63,106 | 🐛 38 | 🌐 Kotlin | 📅 2026-10-06** until [issue #9808](https://github.com/topjohnwu/Magisk/issues/9808) ⭐ 63,106 | 🐛 38 | 🌐 Kotlin | 📅 2026-10-06 is resolved.
+2. **[Pixel Flasher](https://github.com/badabing2005/PixelFlasher) ⭐ 2,308 | 🐛 3 | 🌐 Python | 📅 2026-10-02** - GUI tool (optional)
 3. **[Android Platform Tools](https://developer.android.com/studio/releases/platform-tools)** - ADB/Fastboot
 4. **[Google USB Drivers](https://developer.android.com/studio/run/win-usb)** - Windows only
 
@@ -8100,7 +8100,7 @@ Open Magisk app → Check "Ramdisk" field:
 
 **Perfect for beginners - One-click rooting with GUI interface**
 
-**[Pixel Flasher](https://github.com/badabing2005/PixelFlasher) ⭐ 2,309 | 🐛 3 | 🌐 Python | 📅 2026-10-02** automates the entire rooting process:
+**[Pixel Flasher](https://github.com/badabing2005/PixelFlasher) ⭐ 2,308 | 🐛 3 | 🌐 Python | 📅 2026-10-02** automates the entire rooting process:
 
 **Features:**
 
@@ -8114,7 +8114,7 @@ Open Magisk app → Check "Ramdisk" field:
 **Quick Steps:**
 
 1. **Download and Install**
-   * Get latest release from [GitHub](https://github.com/badabing2005/PixelFlasher/releases) ⭐ 2,309 | 🐛 3 | 🌐 Python | 📅 2026-10-02
+   * Get latest release from [GitHub](https://github.com/badabing2005/PixelFlasher/releases) ⭐ 2,308 | 🐛 3 | 🌐 Python | 📅 2026-10-02
    * Run installer for your OS
 
 2. **Connect Device**
@@ -8223,8 +8223,8 @@ fastboot boot magisk_patched_*.img  # Temporary boot
 
 ### Recommended Modules
 
-1. **[LSPosed](https://github.com/LSPosed/LSPosed) ⭐ 24,934 | 🐛 5 | 🌐 Java | 📅 2026-09-28** - Xposed framework
-2. **[Shamiko](https://github.com/LSPosed/LSPosed.github.io) ⭐ 6,346 | 🐛 0 | 🌐 HTML | 📅 2026-07-29** - Enhanced hiding
+1. **[LSPosed](https://github.com/LSPosed/LSPosed) ⭐ 24,937 | 🐛 5 | 🌐 Java | 📅 2026-09-28** - Xposed framework
+2. **[Shamiko](https://github.com/LSPosed/LSPosed.github.io) ⭐ 6,347 | 🐛 0 | 🌐 HTML | 📅 2026-07-29** - Enhanced hiding
 3. **[AdAway](https://adaway.org/)** - System-wide ad blocking
 
 ***
@@ -8332,8 +8332,8 @@ fastboot flashing lock
 
 **Tools:**
 
-* [Magisk](https://github.com/topjohnwu/Magisk/releases) ⭐ 63,094 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-05 - Root solution
-* [Pixel Flasher](https://github.com/badabing2005/PixelFlasher) ⭐ 2,309 | 🐛 3 | 🌐 Python | 📅 2026-10-02 - GUI rooting tool
+* [Magisk](https://github.com/topjohnwu/Magisk/releases) ⭐ 63,106 | 🐛 38 | 🌐 Kotlin | 📅 2026-10-06 - Root solution
+* [Pixel Flasher](https://github.com/badabing2005/PixelFlasher) ⭐ 2,308 | 🐛 3 | 🌐 Python | 📅 2026-10-02 - GUI rooting tool
 * [Platform Tools](https://developer.android.com/studio/releases/platform-tools) - ADB/Fastboot
 
 **Community:**
@@ -8500,14 +8500,14 @@ A missing or permanently greyed-out OEM Unlocking option is a stop sign, not a p
 * Patched Odin builds modify behavior and can bypass checks; use one only when device-specific instructions explicitly require it. Extract the archive before running Odin.
 
 3. **Stock Firmware**
-   * Download from [SamFrew](https://samfrew.com/) or [Bifrost](https://github.com/zacharee/Bifrost) ⭐ 1,614 | 🐛 5 | 🌐 Kotlin | 📅 2026-09-26 or [Frija](https://github.com/SlackingVeteran/frija/releases) ⭐ 750 | 🐛 0 | 📅 2026-05-22
+   * Download from [SamFrew](https://samfrew.com/) or [Bifrost](https://github.com/zacharee/Bifrost) ⭐ 1,613 | 🐛 5 | 🌐 Kotlin | 📅 2026-09-26 or [Frija](https://github.com/SlackingVeteran/frija/releases) ⭐ 750 | 🐛 0 | 📅 2026-05-22
    * Match exact model and region
    * Contains: AP, BL, CP, CSC files
 
 **On Device:**
 
 1. **Magisk APK**
-   * Download: [Magisk GitHub](https://github.com/topjohnwu/Magisk/releases) ⭐ 63,094 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-05
+   * Download: [Magisk GitHub](https://github.com/topjohnwu/Magisk/releases) ⭐ 63,106 | 🐛 38 | 🌐 Kotlin | 📅 2026-10-06
    * Latest stable version
 
 2. **File Manager**
@@ -9125,7 +9125,7 @@ Note on waiting time: Xiaomi’s timer is variable now. Users report 72h, 168h (
 
 ### Required Tools
 
-1. Magisk APK (latest stable): <https://github.com/topjohnwu/Magisk/releases> ⭐ 63,094 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-05
+1. Magisk APK (latest stable): <https://github.com/topjohnwu/Magisk/releases> ⭐ 63,106 | 🐛 38 | 🌐 Kotlin | 📅 2026-10-06
 2. Mi Unlock Tool (Windows-only): <https://www.miui.com/unlock/index_en.html>
 3. Platform Tools (ADB/Fastboot): <https://developer.android.com/studio/releases/platform-tools>
 4. Stock Firmware for your exact model/build:
@@ -9137,7 +9137,7 @@ Note on waiting time: Xiaomi’s timer is variable now. Users report 72h, 168h (
 Optional but recommended:
 
 * Payload extraction tools:
-  * payload-dumper-go: <https://github.com/ssut/payload-dumper-go> ⭐ 3,537 | 🐛 0 | 🌐 Go | 📅 2026-09-23
+  * payload-dumper-go: <https://github.com/ssut/payload-dumper-go> ⭐ 3,535 | 🐛 0 | 🌐 Go | 📅 2026-09-23
   * payload-dumper-ng: <https://github.com/vm03/payload_dumper> ⭐ 1,784 | 🐛 28 | 🌐 Python | 📅 2025-04-18
 
 ### Device Preparation
@@ -9603,7 +9603,7 @@ On several OnePlus/OPPO/realme devices (OnePlus 13/15, Ace 6T, OPPO Pad 4 Pro an
 **On Device:**
 
 1. **Magisk APK**
-   * Download: [Magisk GitHub](https://github.com/topjohnwu/Magisk/releases) ⭐ 63,094 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-05
+   * Download: [Magisk GitHub](https://github.com/topjohnwu/Magisk/releases) ⭐ 63,106 | 🐛 38 | 🌐 Kotlin | 📅 2026-10-06
    * Latest stable version
 
 ::: tip Alternative Root Methods
@@ -10212,7 +10212,7 @@ All Nothing and CMF by Nothing Phone models support bootloader unlocking and roo
 **On Device:**
 
 1. **Magisk APK**
-   * Download: [Magisk GitHub](https://github.com/topjohnwu/Magisk/releases) ⭐ 63,094 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-05
+   * Download: [Magisk GitHub](https://github.com/topjohnwu/Magisk/releases) ⭐ 63,106 | 🐛 38 | 🌐 Kotlin | 📅 2026-10-06
 
 ### Device Preparation
 
@@ -10333,7 +10333,7 @@ adb push boot.img /sdcard/Download/
 adb install magisk.apk
 ```
 
-**Note:** Use latest Magisk version from [GitHub Releases](https://github.com/topjohnwu/Magisk/releases) ⭐ 63,094 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-05
+**Note:** Use latest Magisk version from [GitHub Releases](https://github.com/topjohnwu/Magisk/releases) ⭐ 63,106 | 🐛 38 | 🌐 Kotlin | 📅 2026-10-06
 
 On device:
 
